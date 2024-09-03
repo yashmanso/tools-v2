@@ -1,0 +1,3 @@
+- [CircularStart](https://learn.circularstart.eu/)
+- [Measuring Social Impact: Part 1 - UTS Open](https://open.uts.edu.au/uts-open/study-area/business-and-transformation/career-development/measuring-social-impact)
+- [EPFLx: Technology Innovation for Sustainable Development | edX](https://www.edx.org/learn/sustainable-development/ecole-polytechnique-federale-de-lausanne-technology-innovation-for-sustainable-development)
