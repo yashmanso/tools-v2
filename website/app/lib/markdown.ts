@@ -16,8 +16,15 @@ export interface ResourceMetadata {
   dimensions?: Record<string, any>;
 }
 
+export interface Attachment {
+  filename: string;
+  type: 'pdf' | 'image' | 'other';
+  url: string;
+}
+
 export interface Resource extends ResourceMetadata {
   contentHtml: string;
+  attachments: Attachment[];
 }
 
 // Convert Obsidian wiki-links to markdown links
@@ -33,11 +40,6 @@ function convertWikiLinks(content: string): string {
     const displayText = link.split('/').pop()?.replace(/\.md$/, '') || link;
     const slug = slugify(displayText);
     return `[${displayText}](/${getCategory(link)}/${slug})`;
-  });
-
-  // Handle embedded images ![[image.ext]]
-  content = content.replace(/!\[\[([^\]]+)\]\]/g, (match, image) => {
-    return `![${image}](/images/${image})`;
   });
 
   return content;
@@ -90,6 +92,51 @@ function parseDimensions(content: string): Record<string, any> {
   }
 
   return dimensions;
+}
+
+// Extract attachments from content
+function extractAttachments(content: string): Attachment[] {
+  const attachments: Attachment[] = [];
+  const attachmentRegex = /!\[\[([^\]]+)\]\]/g;
+  let match;
+
+  while ((match = attachmentRegex.exec(content)) !== null) {
+    const filename = match[1];
+    const extension = filename.split('.').pop()?.toLowerCase() || '';
+
+    let type: 'pdf' | 'image' | 'other' = 'other';
+    if (extension === 'pdf') {
+      type = 'pdf';
+    } else if (['png', 'jpg', 'jpeg', 'gif', 'svg', 'webp'].includes(extension)) {
+      type = 'image';
+    }
+
+    attachments.push({
+      filename,
+      type,
+      url: `/attachments/${encodeURIComponent(filename)}`,
+    });
+  }
+
+  return attachments;
+}
+
+// Separate content from Resources section
+function separateContentAndResources(content: string): {
+  mainContent: string;
+  resourcesContent: string;
+} {
+  // Split on Resources heading
+  const resourcesMatch = content.match(/^#+\s*Resources\s*$/im);
+
+  if (!resourcesMatch || !resourcesMatch.index) {
+    return { mainContent: content, resourcesContent: '' };
+  }
+
+  const mainContent = content.substring(0, resourcesMatch.index).trim();
+  const resourcesContent = content.substring(resourcesMatch.index).trim();
+
+  return { mainContent, resourcesContent };
 }
 
 // Get all resources from a category directory
@@ -165,8 +212,14 @@ export async function getResourceBySlug(
 
   const title = file.replace(/\.md$/, '');
 
+  // Separate main content from Resources section
+  const { mainContent, resourcesContent } = separateContentAndResources(content);
+
+  // Extract attachments from the entire content
+  const attachments = extractAttachments(content);
+
   // Convert wiki links before processing markdown
-  const convertedContent = convertWikiLinks(content);
+  const convertedContent = convertWikiLinks(mainContent);
 
   // Process markdown to HTML
   const processedContent = await remark()
@@ -188,6 +241,7 @@ export async function getResourceBySlug(
     overview,
     dimensions: parseDimensions(content),
     contentHtml,
+    attachments,
   };
 }
 

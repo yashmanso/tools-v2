@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
 import { getResourceBySlug, getResourcesByCategory } from '@/app/lib/markdown';
+import { ResourcesSection } from '@/app/components/ResourcesSection';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -50,6 +51,8 @@ export default async function ArticlePage({ params }: PageProps) {
           prose-img:rounded-lg prose-img:shadow-md"
         dangerouslySetInnerHTML={{ __html: resource.contentHtml }}
       />
+
+      <ResourcesSection attachments={resource.attachments} />
     </article>
   );
 }
