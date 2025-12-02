@@ -26,8 +26,8 @@ export function ResourcesSection({ attachments }: ResourcesSectionProps) {
 function AttachmentCard({ attachment }: { attachment: Attachment }) {
   const { filename, type, url } = attachment;
 
-  // Check if file exists (for now we'll assume it doesn't and show a placeholder)
-  const isAvailable = false; // We'll update this when files are added
+  // Files are available in public/attachments
+  const isAvailable = true;
 
   return (
     <a
