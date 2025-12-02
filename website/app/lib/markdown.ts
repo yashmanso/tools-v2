@@ -1,0 +1,198 @@
+import fs from 'fs';
+import path from 'path';
+import matter from 'gray-matter';
+import { remark } from 'remark';
+import html from 'remark-html';
+import gfm from 'remark-gfm';
+
+const contentDirectory = path.join(process.cwd(), '..');
+
+export interface ResourceMetadata {
+  slug: string;
+  title: string;
+  category: string;
+  tags: string[];
+  overview?: string;
+  dimensions?: Record<string, any>;
+}
+
+export interface Resource extends ResourceMetadata {
+  contentHtml: string;
+}
+
+// Convert Obsidian wiki-links to markdown links
+function convertWikiLinks(content: string): string {
+  // Handle [[link|display text]] format
+  content = content.replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (match, link, display) => {
+    const slug = link.split('/').pop()?.replace(/\.md$/, '') || link;
+    return `[${display}](/${getCategory(link)}/${slugify(slug)})`;
+  });
+
+  // Handle [[link]] format
+  content = content.replace(/\[\[([^\]]+)\]\]/g, (match, link) => {
+    const displayText = link.split('/').pop()?.replace(/\.md$/, '') || link;
+    const slug = slugify(displayText);
+    return `[${displayText}](/${getCategory(link)}/${slug})`;
+  });
+
+  // Handle embedded images ![[image.ext]]
+  content = content.replace(/!\[\[([^\]]+)\]\]/g, (match, image) => {
+    return `![${image}](/images/${image})`;
+  });
+
+  return content;
+}
+
+// Get category from file path
+function getCategory(filePath: string): string {
+  if (filePath.includes('1 –') || filePath.toLowerCase().includes('tool')) return 'tools';
+  if (filePath.includes('2 –') || filePath.toLowerCase().includes('collection')) return 'collections';
+  if (filePath.includes('3 –') || filePath.toLowerCase().includes('article')) return 'articles';
+  return 'tools';
+}
+
+// Create URL-friendly slug
+export function slugify(text: string): string {
+  return text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/--+/g, '-')
+    .trim();
+}
+
+// Extract tags from content
+function extractTags(content: string): string[] {
+  const tagRegex = /#([\w-]+)/g;
+  const tags = new Set<string>();
+  let match;
+
+  while ((match = tagRegex.exec(content)) !== null) {
+    tags.add(match[1]);
+  }
+
+  return Array.from(tags);
+}
+
+// Parse dimensions from markdown content
+function parseDimensions(content: string): Record<string, any> {
+  const dimensions: Record<string, any> = {};
+  const sections = content.split(/^##\s+/m);
+
+  for (const section of sections) {
+    const lines = section.split('\n');
+    const title = lines[0]?.trim();
+
+    if (title && title !== 'Overview' && title !== 'Resources') {
+      const sectionContent = lines.slice(1).join('\n');
+      dimensions[title] = sectionContent.trim();
+    }
+  }
+
+  return dimensions;
+}
+
+// Get all resources from a category directory
+export function getResourcesByCategory(category: string): ResourceMetadata[] {
+  const categoryMap: Record<string, string> = {
+    tools: '1 – Tools, methods, frameworks, or guides',
+    collections: '2 – Collections, Compendia, or Kits',
+    articles: '3 – Practical academic articles and scientific reports',
+  };
+
+  const dirPath = path.join(contentDirectory, categoryMap[category] || '');
+
+  if (!fs.existsSync(dirPath)) {
+    return [];
+  }
+
+  const files = fs.readdirSync(dirPath);
+
+  const resources = files
+    .filter((file) => file.endsWith('.md') && !file.startsWith('_'))
+    .map((file) => {
+      const fullPath = path.join(dirPath, file);
+      const fileContents = fs.readFileSync(fullPath, 'utf8');
+      const { data, content } = matter(fileContents);
+
+      const title = file.replace(/\.md$/, '');
+      const slug = slugify(title);
+
+      // Extract overview (first paragraph after first heading)
+      const overviewMatch = content.match(/^#.*?\n\n(.*?)(?:\n\n|___)/s);
+      const overview = overviewMatch ? overviewMatch[1].trim() : '';
+
+      return {
+        slug,
+        title,
+        category,
+        tags: extractTags(content),
+        overview,
+        dimensions: parseDimensions(content),
+      };
+    });
+
+  return resources;
+}
+
+// Get a single resource by slug and category
+export async function getResourceBySlug(
+  category: string,
+  slug: string
+): Promise<Resource | null> {
+  const categoryMap: Record<string, string> = {
+    tools: '1 – Tools, methods, frameworks, or guides',
+    collections: '2 – Collections, Compendia, or Kits',
+    articles: '3 – Practical academic articles and scientific reports',
+  };
+
+  const dirPath = path.join(contentDirectory, categoryMap[category] || '');
+
+  if (!fs.existsSync(dirPath)) {
+    return null;
+  }
+
+  const files = fs.readdirSync(dirPath);
+  const file = files.find((f) => slugify(f.replace(/\.md$/, '')) === slug);
+
+  if (!file) {
+    return null;
+  }
+
+  const fullPath = path.join(dirPath, file);
+  const fileContents = fs.readFileSync(fullPath, 'utf8');
+  const { data, content } = matter(fileContents);
+
+  const title = file.replace(/\.md$/, '');
+
+  // Convert wiki links before processing markdown
+  const convertedContent = convertWikiLinks(content);
+
+  // Process markdown to HTML
+  const processedContent = await remark()
+    .use(gfm)
+    .use(html, { sanitize: false })
+    .process(convertedContent);
+
+  const contentHtml = processedContent.toString();
+
+  // Extract overview
+  const overviewMatch = content.match(/^#.*?\n\n(.*?)(?:\n\n|___)/s);
+  const overview = overviewMatch ? overviewMatch[1].trim() : '';
+
+  return {
+    slug,
+    title,
+    category,
+    tags: extractTags(content),
+    overview,
+    dimensions: parseDimensions(content),
+    contentHtml,
+  };
+}
+
+// Get all resources
+export function getAllResources(): ResourceMetadata[] {
+  const categories = ['tools', 'collections', 'articles'];
+  return categories.flatMap((cat) => getResourcesByCategory(cat));
+}
