@@ -52,7 +52,7 @@ export default async function CollectionPage({ params }: PageProps) {
         dangerouslySetInnerHTML={{ __html: resource.contentHtml }}
       />
 
-      <ResourcesSection attachments={resource.attachments} />
+      <ResourcesSection attachments={resource.attachments} pageTitle={resource.title} />
     </article>
   );
 }

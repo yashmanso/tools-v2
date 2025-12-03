@@ -4,9 +4,10 @@ import { Attachment } from '../lib/markdown';
 
 interface ResourcesSectionProps {
   attachments: Attachment[];
+  pageTitle?: string;
 }
 
-export function ResourcesSection({ attachments }: ResourcesSectionProps) {
+export function ResourcesSection({ attachments, pageTitle }: ResourcesSectionProps) {
   if (attachments.length === 0) {
     return null;
   }
@@ -16,7 +17,7 @@ export function ResourcesSection({ attachments }: ResourcesSectionProps) {
       <h2 className="text-2xl font-bold mb-6">Resources</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {attachments.map((attachment, index) => (
-          <AttachmentCard key={index} attachment={attachment} />
+          <AttachmentCard key={index} attachment={attachment} pageTitle={pageTitle} />
         ))}
       </div>
     </section>
@@ -48,9 +49,10 @@ function formatDisplayName(filename: string): string {
   return cleaned.trim() || 'Document';
 }
 
-function AttachmentCard({ attachment }: { attachment: Attachment }) {
+function AttachmentCard({ attachment, pageTitle }: { attachment: Attachment; pageTitle?: string }) {
   const { filename, type, url } = attachment;
-  const displayName = formatDisplayName(filename);
+  // Use page title if provided, otherwise format the filename
+  const displayName = pageTitle || formatDisplayName(filename);
 
   // Files are available in public/attachments
   const isAvailable = true;
