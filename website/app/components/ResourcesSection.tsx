@@ -23,8 +23,34 @@ export function ResourcesSection({ attachments }: ResourcesSectionProps) {
   );
 }
 
+// Format filename to a clean display name
+function formatDisplayName(filename: string): string {
+  // Remove file extension
+  const nameWithoutExt = filename.replace(/\.[^.]+$/, '');
+
+  // Remove leading numbers and dashes (e.g., "2 - SBMC" -> "SBMC")
+  let cleaned = nameWithoutExt.replace(/^\d+\s*[-–]\s*/, '');
+
+  // Handle "Pasted image" timestamps - convert to "Image"
+  if (cleaned.startsWith('Pasted image')) {
+    return 'Image';
+  }
+
+  // Replace hyphens, underscores, and multiple spaces with single space
+  cleaned = cleaned.replace(/[-_]+/g, ' ').replace(/\s+/g, ' ');
+
+  // Capitalize first letter of each word
+  cleaned = cleaned
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+    .join(' ');
+
+  return cleaned.trim() || 'Document';
+}
+
 function AttachmentCard({ attachment }: { attachment: Attachment }) {
   const { filename, type, url } = attachment;
+  const displayName = formatDisplayName(filename);
 
   // Files are available in public/attachments
   const isAvailable = true;
@@ -93,7 +119,7 @@ function AttachmentCard({ attachment }: { attachment: Attachment }) {
                 : 'text-gray-500 dark:text-gray-500'
             }`}
           >
-            {filename}
+            {displayName}
           </p>
           {!isAvailable && (
             <p className="text-xs text-gray-500 dark:text-gray-500 mt-1">
