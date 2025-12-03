@@ -1,0 +1,138 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T1b95,<p>The goal of “<a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-introduction/">build a sustainability plan 101</a>” is to provide the steps and resources to get started on a sustainability journey. The approach and tools are captured in seven essential steps. As part of each step there are tools that help guide action. The plan is loosely based on a <a href="https://hbr.org/2016/10/the-comprehensive-business-case-for-sustainability">guide</a> about a comprehensive business case for sustainability published at Harvard Business Review.</p>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-assess-impact/"><strong>Step 1: assess impact</strong> </a></h1>
+<h2>1. Assessing impact</h2>
+<ul>
+<li>Benchmark to peer companies</li>
+<li>Conduct a Life Cycle Assessment (LCA)</li>
+<li>Identify an issue that is important to your company and manage that first.</li>
+<li>Conduct a risk assessment to identify the issues/regions/products that matter most to your company.</li>
+<li>Reach out to an NGO for guidance</li>
+</ul>
+<h2>2. Life cycle assessment</h2>
+<h2>3. Materiality assessment</h2>
+<p>TOOL: opportunity assessment matrix</p>
+<p><img src="/tools/pasted-image-20240222151418png" alt="Pasted image 20240222151418.png"></p>
+<hr>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-id-key-stakeholders/"><strong>Step 2: ID stakeholders</strong> </a></h1>
+<h2>1. Identifying your "Decider" and "Do-er" stakeholders</h2>
+<p>TOOL: High level internal stakeholder chart</p>
+<p><img src="/tools/pasted-image-20240222152429png" alt="Pasted image 20240222152429.png"></p>
+<p>TOOL: High level supply chain stakeholder chart</p>
+<p><img src="/tools/pasted-image-20240222165055png" alt="Pasted image 20240222165055.png"></p>
+<h2>2. Understanding your "do-er" stakeholders</h2>
+<h2>3. Activating your “do-er” stakeholders</h2>
+<p>TOOL: Sustainability plan do-er stakeholders</p>
+<p><img src="/tools/pasted-image-20240222152605png" alt="Pasted image 20240222152605.png"></p>
+<hr>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-set-meaningful-goals/"><strong>Step 3: set goals</strong> </a></h1>
+<h2>1. Making your goals ambitious</h2>
+<h2>2. Making your goals scientific</h2>
+<h2>3. Making your goals align with your core business</h2>
+<ul>
+<li>Step 1: focus on environmental goals</li>
+<li>Step 2: match environmental goals to business values</li>
+</ul>
+<p>TOOL: chart your company’s existing language</p>
+<p><img src="/tools/pasted-image-20240222152828png" alt="Pasted image 20240222152828.png"></p>
+<p>TOOL: aligning environmental and business divisions</p>
+<p><img src="/tools/pasted-image-20240222152842png" alt="Pasted image 20240222152842.png"></p>
+<hr>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-establish-objectives-and-metrics/"><strong>Step 4: objectives</strong></a></h1>
+<h2>1. Setting specific, measurable objectives</h2>
+<h2>2. Identifying key performance indicators, metrics and baselines</h2>
+<hr>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-identify-pilot-projects/"><strong>Step 5: ID pilot projects</strong></a></h1>
+<h2>1. Identifying pilot site(s), existing initiatives or projects</h2>
+<h2>2. Identifying stakeholders</h2>
+<h2>3. Reviewing goals, metrics, KPIs, timelines; are they relevant here?</h2>
+<h2>4. Engaging stakeholders and incorporate feedback</h2>
+<h2>5. Presenting amended pilot plan to stakeholders to gain buy-in</h2>
+<hr>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-make-the-business-case/"><strong>Step 6: the business case</strong></a></h1>
+<h2><a href="https://supplychain.edf.org/resources/build-a-business-plan-101-biz-enviro-alignment/">1. Understanding how your sustainability plan and your company align</a></h2>
+<p><img src="/tools/pasted-image-20240222162430png" alt="Pasted image 20240222162430.png"></p>
+<h2><a href="https://supplychain.edf.org/resources/build-a-business-plan-101-understand-drivers-of-change/">2. Understanding potential drivers of change</a></h2>
+<ul>
+<li>
+<h2>Answer key stakeholder questions</h2>
+</li>
+<li>
+<h2>Identify and rank drivers of change</h2>
+</li>
+</ul>
+<p>TOOL: ID and rank financial drivers of change</p>
+<p><img src="/tools/pasted-image-20240222162548png" alt="Pasted image 20240222162548.png"></p>
+<p>TOOL: ID and rank non-financial drivers of change</p>
+<p><img src="/tools/pasted-image-20240222162601png" alt="Pasted image 20240222162601.png"></p>
+<h2><a href="https://supplychain.edf.org/resources/build-a-business-plan-101-understand-stakeholder-motivation/">3. Identifying what motivates your decider stakeholders</a></h2>
+<ul>
+<li>
+<h2>Understand motivation: both a science and an art</h2>
+</li>
+</ul>
+<p>TOOL: Assign drivers of change to your key stakeholders</p>
+<p><img src="/tools/pasted-image-20240222162818png" alt="Pasted image 20240222162818.png"></p>
+<h2><a href="https://supplychain.edf.org/resources/build-a-business-plan-101-activating-stakeholders/">4. Activating your decider stakeholders</a></h2>
+<ul>
+<li>
+<h2>Understand allies ... and how to target those who aren't</h2>
+</li>
+</ul>
+<p>TOOL: Activating your decider stakeholders</p>
+<p><img src="/tools/pasted-image-20240222163006png" alt="Pasted image 20240222163006.png"></p>
+<h2><a href="https://supplychain.edf.org/resources/build-a-business-plan-101-identify-data/">5. Identifying the data to be collected</a></h2>
+<ul>
+<li>
+<h2>Identify the data to be collected</h2>
+</li>
+</ul>
+<ol>
+<li>Financial data (revenues and expenses).</li>
+<li>Environmental impact data.</li>
+</ol>
+<p>TOOL: identifying financial and environmental data and owners</p>
+<p><img src="/tools/pasted-image-20240222163112png" alt="Pasted image 20240222163112.png"></p>
+<hr>
+<ul>
+<li>
+<h2>Assign financial and environmental impact to drivers</h2>
+</li>
+</ul>
+<p>TOOL: Estimate benefits</p>
+<p><img src="/tools/pasted-image-20240222163423png" alt="Pasted image 20240222163423.png"></p>
+<p>TOOL: Estimate revenue increase from new market opportunities</p>
+<p><img src="/tools/pasted-image-20240222163449png" alt="Pasted image 20240222163449.png"></p>
+<p><img src="/tools/pasted-image-20240222163512png" alt="Pasted image 20240222163512.png"></p>
+<p>TOOL: Estimate revenue increase or cost savings from enhanced brand reputation</p>
+<p><img src="/tools/pasted-image-20240222163537png" alt="Pasted image 20240222163537.png"></p>
+<ul>
+<li>
+<h2>Perform a cost-benefit analysis</h2>
+</li>
+</ul>
+<p>TOOL: Cost-benefit analysis template</p>
+<p><img src="/tools/pasted-image-20240222163548png" alt="Pasted image 20240222163548.png"></p>
+<ul>
+<li>
+<h2>Calculate the return on investment</h2>
+</li>
+<li>
+<h2>Communicate the intangible benefits and risks</h2>
+</li>
+</ul>
+<hr>
+<h1><a href="https://supplychain.edf.org/resources/build-a-sustainability-plan-101-pitch-and-launch/"><strong>Step 7: pitch &#x26; launch</strong></a></h1>
+<ul>
+<li>
+<h2>Know how to tell the story</h2>
+</li>
+</ul>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Sustainability Plan 101"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"Pasted image 20240222151418.png","type":"image","url":"/attachments/Pasted%20image%2020240222151418.png"},{"filename":"Pasted image 20240222152429.png","type":"image","url":"/attachments/Pasted%20image%2020240222152429.png"},{"filename":"Pasted image 20240222165055.png","type":"image","url":"/attachments/Pasted%20image%2020240222165055.png"},{"filename":"Pasted image 20240222152605.png","type":"image","url":"/attachments/Pasted%20image%2020240222152605.png"},{"filename":"Pasted image 20240222152828.png","type":"image","url":"/attachments/Pasted%20image%2020240222152828.png"},{"filename":"Pasted image 20240222152842.png","type":"image","url":"/attachments/Pasted%20image%2020240222152842.png"},{"filename":"Pasted image 20240222162430.png","type":"image","url":"/attachments/Pasted%20image%2020240222162430.png"},{"filename":"Pasted image 20240222162548.png","type":"image","url":"/attachments/Pasted%20image%2020240222162548.png"},{"filename":"Pasted image 20240222162601.png","type":"image","url":"/attachments/Pasted%20image%2020240222162601.png"},{"filename":"Pasted image 20240222162818.png","type":"image","url":"/attachments/Pasted%20image%2020240222162818.png"},{"filename":"Pasted image 20240222163006.png","type":"image","url":"/attachments/Pasted%20image%2020240222163006.png"},{"filename":"Pasted image 20240222163112.png","type":"image","url":"/attachments/Pasted%20image%2020240222163112.png"},{"filename":"Pasted image 20240222163423.png","type":"image","url":"/attachments/Pasted%20image%2020240222163423.png"},{"filename":"Pasted image 20240222163449.png","type":"image","url":"/attachments/Pasted%20image%2020240222163449.png"},{"filename":"Pasted image 20240222163512.png","type":"image","url":"/attachments/Pasted%20image%2020240222163512.png"},{"filename":"Pasted image 20240222163537.png","type":"image","url":"/attachments/Pasted%20image%2020240222163537.png"},{"filename":"Pasted image 20240222163548.png","type":"image","url":"/attachments/Pasted%20image%2020240222163548.png"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

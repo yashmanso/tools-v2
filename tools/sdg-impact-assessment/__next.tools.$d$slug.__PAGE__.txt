@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T102b,<hr>
+<h1>Overview</h1>
+<p>The <a href="https://sdgimpactassessmenttool.org/en-gb/tool/assessments">SDG Impact Assessment Tool</a> is an interactive online platform designed to assist organizations in evaluating their activities' alignment with the United Nations' Sustainable Development Goals (SDGs). Developed through a collaborative effort by academic institutions and supported by regional funding, this tool serves as a learning resource to deepen the understanding of SDG complexities and to guide strategic decision-making towards sustainability. It is structured around a self-assessment methodology that encourages collaborative analysis and prioritization of actions. While it is not a scientific verification of SDG impact, it provides a structured approach to identifying positive and negative impacts, as well as knowledge gaps, related to the SDGs.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+The SDG Impact Assessment Tool is a learning tool that visualizes the results from a self-assessment of how an activity, organization, or innovation affects the SDGs.</p>
+<ul>
+<li>Tags: #tool, #online</li>
+</ul>
+<p><strong>Objective</strong>
+The primary goal of the tool is to facilitate the assessment of activities in relation to the SDGs and to promote strategic sustainability alignment.</p>
+<ul>
+<li>Tags: #map #assess, #align</li>
+</ul>
+<p><strong>Target Audience</strong>
+The tool is designed for a diverse audience, including those involved in education, research, and various organizational roles focused on sustainability.</p>
+<ul>
+<li>Tags: #researchers, #students, #educators, #practitioners, #policy-makers, #nonprofits, #corporations</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The tool emphasizes all three pillars of sustainability and encourages users to consider the environmental, social, and economic impacts of their activities.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs</li>
+</ul>
+<p><strong>Innovation Type</strong>
+The tool supports organizations in developing social, technological and policy innovative approaches to sustainability challenges.</p>
+<ul>
+<li>Tags: #social-innovation, #business-model-innovation, #technological-innovation , #policy-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The tool is applicable across various stages of entrepreneurship, especially useful for those in the ideation and implementation phases.</p>
+<ul>
+<li>Tags: #ideation, #implementation</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+The tool has a global scope, as it is based on the universal SDGs, but it can be contextualized to national or local settings.</p>
+<ul>
+<li>Tags: #global, #national, #local</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The tool's methodology is based on a structured self-assessment process that involves qualitative analysis and discussion.</p>
+<ul>
+<li>Tags: #qualitative-research, #theoretical-frameworks</li>
+</ul>
+<p><strong>Skill Development</strong>
+Using the tool can enhance skills in systems thinking, strategic planning, and sustainability assessment.</p>
+<ul>
+<li>Tags: #systems-thinking, #strategic-planning, #sustainability-assessment</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The tool is developed by reputable academic institutions and is based on SDGs framework. The tool is used in several pilot projects.</p>
+<ul>
+<li>Tags: #academic-institutions, #recognized-experts, #SDGs</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The tool is designed to be accessible to a wide audience, with no specific prerequisites required for its use, although a basic understanding of SDGs can be useful.</p>
+<ul>
+<li>Tags: #none</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+The assessment process encourages collaboration among team members to leverage diverse expertise and perspectives.</p>
+<ul>
+<li>Tags: #team, #community-engagement, #cross-team-collaboration</li>
+</ul>
+<p>More information can be found at <a href="https://sdgimpactassessmenttool.org/en-gb/articles/instructions">SDG Impact Assessment Tool</a>.</p>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"SDG Impact Assessment"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","tool",{"className":"tag","children":["#","tool"]}],["$","span","online",{"className":"tag","children":["#","online"]}],["$","span","map",{"className":"tag","children":["#","map"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","researchers",{"className":"tag","children":["#","researchers"]}],["$","span","students",{"className":"tag","children":["#","students"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","policy-makers",{"className":"tag","children":["#","policy-makers"]}],["$","span","nonprofits",{"className":"tag","children":["#","nonprofits"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","SDGs",{"className":"tag","children":["#","SDGs"]}],["$","span","social-innovation",{"className":"tag","children":["#","social-innovation"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","technological-innovation",{"className":"tag","children":["#","technological-innovation"]}],["$","span","policy-innovation",{"className":"tag","children":["#","policy-innovation"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","local",{"className":"tag","children":["#","local"]}],["$","span","qualitative-research",{"className":"tag","children":["#","qualitative-research"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","strategic-planning",{"className":"tag","children":["#","strategic-planning"]}],["$","span","sustainability-assessment",{"className":"tag","children":["#","sustainability-assessment"]}],["$","span","academic-institutions",{"className":"tag","children":["#","academic-institutions"]}],["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}],["$","span","none",{"className":"tag","children":["#","none"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","community-engagement",{"className":"tag","children":["#","community-engagement"]}],["$","span","cross-team-collaboration",{"className":"tag","children":["#","cross-team-collaboration"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"SDG Impact Guide 1.0.pdf","type":"pdf","url":"/attachments/SDG%20Impact%20Guide%201.0.pdf"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

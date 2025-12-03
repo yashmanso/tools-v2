@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T115b,<hr>
+<h1>Overview</h1>
+<p><a href="https://www.borderstep.de/publikation/din-spec-90051-1-consortium-2021-sustainability-assessment-of-start-ups-the-application-tool-of-the-din-spec-90051-1-specification-a-manual-for-investors-and-capital-providers-start-ups/">Sustainability assessment of startups</a> is a comprehensive step-by-step framework designed to evaluate the sustainability of start-ups at various stages of development. It is tailored for businesses that either have sustainability at the heart of their business model or those that aim to incorporate sustainable practices into their operations. The tool is based on established investor pre-screening and due diligence concepts, allowing for both preliminary and in-depth sustainability assessments. It caters to companies in the pre-seed/seed phase, as well as those in the start-up/growth phase, providing a framework to measure potential and actual sustainability outcomes. The results of the assessment can be utilized for a range of purposes, including capital acquisition, business model development, and enhancing sustainability in corporate culture and value chains.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+This tool serves as a methodological instrument that can be used by start-ups and investors to assess and enhance sustainability practices.</p>
+<ul>
+<li>Tags: #framework, #criteria-based, #qualitative, #ranking-scale</li>
+</ul>
+<p><strong>Objective</strong>
+The primary goal of this resource is to assess and report on the sustainability aspects of start-ups, helping them align their operations with sustainable objectives.</p>
+<ul>
+<li>Tags: #assess, #report, #align</li>
+</ul>
+<p><strong>Target Audience</strong>
+The tool is designed for a variety of users, including entrepreneurs and investors, who are focused on sustainability in start-ups.</p>
+<ul>
+<li>Tags: #entrepreneurs, #investors, #startups, #advisors</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The tool emphasizes all three pillars of sustainability, with a particular focus on aligning start-up activities with societal sustainability goals such as the SDGs.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs</li>
+</ul>
+<p><strong>Innovation Type</strong>
+While the tool supports various types of innovation, it is particularly relevant for business model innovation that integrates sustainability.</p>
+<ul>
+<li>Tags: #business-model-innovation, #wide-application</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The tool is applicable to start-ups at the pre-seed/seed stage and those in the start-up/growth phase, addressing different needs at each stage.</p>
+<ul>
+<li>Tags: #ideation, #development, #startup, #growth, #pre-seed</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+The tool can be used globally, but it is especially relevant for start-ups that are aligning their business models with international sustainability standards.</p>
+<ul>
+<li>Tags: #global</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The resource is based on established concepts used by investors for pre-screening and due diligence, offering a structured approach to sustainability assessment.</p>
+<ul>
+<li>Tags: #qualitative-research, #theoretical-frameworks</li>
+</ul>
+<p><strong>Skill Development</strong>
+Using this tool can enhance skills in sustainability assessment, strategic alignment, and impact management.</p>
+<ul>
+<li>Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #business-and-financial-skills</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The tool is developed from established practical concepts, ensuring a credible and reliable framework for sustainability assessment.</p>
+<ul>
+<li>Tags: #reputable-industry-sources, #practice, #SDGs , #academia</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The tool is designed for users with at least a basic understanding of business and sustainability concepts.</p>
+<ul>
+<li>Tags: #beginner-level, #intermediate-level</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+The assessment can be conducted individually or by a team, depending on the size and structure of the start-up.</p>
+<ul>
+<li>Tags: #individual, #team, #inter-department</li>
+</ul>
+<p>A manual for the assessment can be found <a href="https://www.borderstep.de/wp-content/uploads/2018/03/GreenUpInvest_Leitfaden_EN_RZ.pdf">here</a>.</p>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Sustainability Assessment of Startups"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","criteria-based",{"className":"tag","children":["#","criteria-based"]}],["$","span","qualitative",{"className":"tag","children":["#","qualitative"]}],["$","span","ranking-scale",{"className":"tag","children":["#","ranking-scale"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","report",{"className":"tag","children":["#","report"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","investors",{"className":"tag","children":["#","investors"]}],["$","span","startups",{"className":"tag","children":["#","startups"]}],["$","span","advisors",{"className":"tag","children":["#","advisors"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","SDGs",{"className":"tag","children":["#","SDGs"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","wide-application",{"className":"tag","children":["#","wide-application"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","startup",{"className":"tag","children":["#","startup"]}],["$","span","growth",{"className":"tag","children":["#","growth"]}],["$","span","pre-seed",{"className":"tag","children":["#","pre-seed"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","qualitative-research",{"className":"tag","children":["#","qualitative-research"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","business-and-financial-skills",{"className":"tag","children":["#","business-and-financial-skills"]}],["$","span","reputable-industry-sources",{"className":"tag","children":["#","reputable-industry-sources"]}],["$","span","practice",{"className":"tag","children":["#","practice"]}],["$","span","academia",{"className":"tag","children":["#","academia"]}],["$","span","beginner-level",{"className":"tag","children":["#","beginner-level"]}],["$","span","intermediate-level",{"className":"tag","children":["#","intermediate-level"]}],["$","span","individual",{"className":"tag","children":["#","individual"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","inter-department",{"className":"tag","children":["#","inter-department"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"Version 3 - Current/Files/DIN-SPEC-90051-1-Application-tool_EN_final.pdf","type":"pdf","url":"/attachments/Version%203%20-%20Current%2FFiles%2FDIN-SPEC-90051-1-Application-tool_EN_final.pdf"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,77 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T1015,<hr>
+<h1>Overview</h1>
+<p>The <a href="https://www.use2use.se/">Use2Use Design Toolkit!</a> is a collection of tools aimed at promoting user-centered circular design within organizations. Developed through collaborative efforts, it won the EIT Raw Materials and Circular Societies Prize in 2021 for its innovative approach to sustainable design. The toolkit is divided into three packs: the Thinking Activation Pack, which fosters circular design thinking; the Circular Journeys Exploration Pack, which aids in understanding product life cycles and user interactions; and the Circular Designs Ideation Pack, which encourages the creation of circular design concepts. It has been used by various companies, particularly in the fashion and textiles industry, to integrate circular principles into their design processes.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+The Use2Use Design Toolkit is a practical compilation of tools and concepts designed to facilitate sustainable design processes.</p>
+<ul>
+<li>Tags: #toolkit</li>
+</ul>
+<p><strong>Objective</strong>
+This resource aims to activate circular design thinking, explore user-product interactions throughout the product lifecycle, and ideate sustainable design concepts.</p>
+<ul>
+<li>Tags: #align, #map, #assess</li>
+</ul>
+<p><strong>Target Audience</strong>
+The toolkit is intended for designers and organizations looking to incorporate circular design principles into their products and services.</p>
+<ul>
+<li>Tags: #designers, #practitioners, #corporations, #entrepreneurs</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The toolkit emphasizes circular economy principles, focusing on environmental sustainability through user-centered design.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #circular-economy</li>
+</ul>
+<p><strong>Innovation Type</strong>
+It supports innovation in product and service design by fostering circular consumption processes.</p>
+<ul>
+<li>Tags: #product-innovation, #business-model-innovation, #service-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The toolkit is relevant across various stages of entrepreneurship, from the initial design phase to the development and implementation of sustainable business models, but more relevant the earlier in the process it is utilized.</p>
+<ul>
+<li>Tags: #ideation, #design, #development, #implementation</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+While the toolkit can be applied widely, it is particularly relevant to the fashion and textiles industry, which has a significant environmental impact.</p>
+<ul>
+<li>Tags: #global, #industry-specific</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The toolkit employs a user-centered design approach, integrating qualitative insights into the circular design process.</p>
+<ul>
+<li>Tags: #qualitative-research, #theoretical-frameworks</li>
+</ul>
+<p><strong>Skill Development</strong>
+It aims to enhance skills in creativity, design, and systems thinking, crucial for developing sustainable solutions.</p>
+<ul>
+<li>Tags: #creativity-and-design, #systems-thinking, #holistic-thinking, #circular-design</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The toolkit has been recognized for its practicality and impact, winning prestigious awards and being utilized by reputable partner companies.</p>
+<ul>
+<li>Tags: #reputable-industry-sources, #recognized-experts, #practice</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The toolkit is designed for use by professionals with a basic understanding of design and sustainability concepts.</p>
+<ul>
+<li>Tags: #intermediate-level, #specific-educational-background</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+It encourages collaboration among designers, organizations, and stakeholders to achieve circular design outcomes.</p>
+<ul>
+<li>Tags: #team, #cross-sector-partnerships, #cross-team-collaboration</li>
+</ul>
+<p>More information can be found at <a href="https://www.use2use.se/">USE2USE!</a>.
+An interactive canvas can be found <a href="https://miro.com/miroverse/the-use2use-design-toolkit/">here</a></p>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Use2Use Design Tools"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","toolkit",{"className":"tag","children":["#","toolkit"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","map",{"className":"tag","children":["#","map"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","designers",{"className":"tag","children":["#","designers"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","circular-economy",{"className":"tag","children":["#","circular-economy"]}],["$","span","product-innovation",{"className":"tag","children":["#","product-innovation"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","service-innovation",{"className":"tag","children":["#","service-innovation"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","industry-specific",{"className":"tag","children":["#","industry-specific"]}],["$","span","qualitative-research",{"className":"tag","children":["#","qualitative-research"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","creativity-and-design",{"className":"tag","children":["#","creativity-and-design"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","circular-design",{"className":"tag","children":["#","circular-design"]}],["$","span","reputable-industry-sources",{"className":"tag","children":["#","reputable-industry-sources"]}],["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}],["$","span","practice",{"className":"tag","children":["#","practice"]}],["$","span","intermediate-level",{"className":"tag","children":["#","intermediate-level"]}],["$","span","specific-educational-background",{"className":"tag","children":["#","specific-educational-background"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}],["$","span","cross-team-collaboration",{"className":"tag","children":["#","cross-team-collaboration"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

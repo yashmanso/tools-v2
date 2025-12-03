@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[90684,["/_next/static/chunks/0d9b19692ff8ad58.js"],"ThemeProvider"]
+3:I[5610,["/_next/static/chunks/0d9b19692ff8ad58.js"],"Header"]
+4:I[87180,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+5:I[42045,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"ViewportBoundary"]
+c:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"MetadataBoundary"]
+e:I[89192,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+:HL["/_next/static/chunks/8a3a1206e98fbbfa.css","style"]
+0:{"P":null,"b":"P7IHa75e2PZY2cZPpQM9z","c":["","tools","flourishing-business-canvas"],"q":"","i":false,"f":[[["",{"children":["tools",{"children":[["slug","flourishing-business-canvas","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8a3a1206e98fbbfa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0d9b19692ff8ad58.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1 container mx-auto px-4 py-8 max-w-6xl","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-gray-200 dark:border-gray-700 py-6 mt-12","children":["$","div",null,{"className":"container mx-auto px-4 text-center text-sm text-gray-600 dark:text-gray-400","children":"Sustainability Atlas - Tools and methods for sustainable entrepreneurship and innovation"}]}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+f:T118a,<hr>
+<h1>Overview</h1>
+<p><a href="https://flourishingbusiness.org/">The Flourishing Business Canvas </a>is a tool designed to aid in the creation of sustainable business models. It extends the traditional Business Model Canvas by incorporating considerations of social, environmental, and economic interdependencies. This tool facilitates a systemic approach to business modeling, ensuring that enterprises do not overlook material risks and opportunities that arise from their broader context. It encourages a humanistic approach, steering clear of exploitative mindsets, and is compatible with existing business modeling tools. The Flourishing Business Canvas is suitable for entrepreneurs and businesses aiming to align their strategies with sustainable development goals while focusing on innovation, strategic discussions, and effective collaboration.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+The Flourishing Business Canvas is a visual and collaborative canvas that serves as a framework for designing and understanding business models with a holistic sustainable perspective.</p>
+<ul>
+<li>Tags: #tool, #framework, #canvas</li>
+</ul>
+<p><strong>Objective</strong>
+This resource aims to enable the design and improvement of business models that are sustainable and considerate of the organization's impact on society and the environment.</p>
+<ul>
+<li>Tags: #design, #align, #improve</li>
+</ul>
+<p><strong>Target Audience</strong>
+The Flourishing Business Canvas is intended for a wide range of stakeholders, including entrepreneurs, educators, and practitioners, who are involved in creating or transforming business models with sustainability in mind.</p>
+<ul>
+<li>Tags: #entrepreneurs, #educators, #practitioners, #startups, #SMEs, #corporations</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The tool emphasizes the integration of environmental regeneration, social benefits, and financial viability into business models, addressing all three pillars of sustainability.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability</li>
+</ul>
+<p><strong>Innovation Type</strong>
+By fostering a systemic view of business models, the Flourishing Business Canvas can support various types of innovation, particularly in business models and processes.</p>
+<ul>
+<li>Tags: #business-model-innovation, #process-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The Canvas is suitable for use at various stages of entrepreneurship, from the initial ideation and design to the development and implementation of sustainable business practices. Similar to other tools, the benefits can be gained more when applied earlier in the life cycle of the organization.</p>
+<ul>
+<li>Tags: #ideation, #design, #development, #implementation</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+While the tool can be applied universally, it is especially relevant to businesses that are conscious of their role in a global context.</p>
+<ul>
+<li>Tags: #global, #regional, #national</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The Flourishing Business Canvas promotes a collaborative and systemic methodological approach to business modeling by taking into qualitative and quantitative data.</p>
+<ul>
+<li>Tags: #systems-thinking, #collaborative-approach, #qualitative , #qualitative , #mixed-methods</li>
+</ul>
+<p><strong>Skill Development</strong>
+Utilizing this tool can enhance skills in systems thinking, holistic design, and strategic collaboration.</p>
+<ul>
+<li>Tags: #systems-thinking, #holistic-thinking, #collaboration-and-networking, #strategic-thinking</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The resource is the result of extensive research and testing and linked to EU Climate KIC.</p>
+<ul>
+<li>Tags: #research, #recognized-experts</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The Canvas is designed to be accessible, with no specific prerequisites required although basic understanding of business and sustainability is desired.</p>
+<ul>
+<li>Tags: #none</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+The Flourishing Business Canvas encourages teamwork and stakeholder engagement, making it an excellent tool for collaborative business design.</p>
+<ul>
+<li>Tags: #team, #community, #cross-team-collaboration</li>
+</ul>
+<p>More information can be found at <a href="https://flourishingbusiness.org/download-flourishing-business-canvas/">Flourishing Business</a>.</p>
+<hr>
+6:["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Flourishing Business Canvas"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","tool",{"className":"tag","children":["#","tool"]}],["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","canvas",{"className":"tag","children":["#","canvas"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","improve",{"className":"tag","children":["#","improve"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","startups",{"className":"tag","children":["#","startups"]}],["$","span","SMEs",{"className":"tag","children":["#","SMEs"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","process-innovation",{"className":"tag","children":["#","process-innovation"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","regional",{"className":"tag","children":["#","regional"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","collaborative-approach",{"className":"tag","children":["#","collaborative-approach"]}],["$","span","qualitative",{"className":"tag","children":["#","qualitative"]}],["$","span","mixed-methods",{"className":"tag","children":["#","mixed-methods"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","collaboration-and-networking",{"className":"tag","children":["#","collaboration-and-networking"]}],["$","span","strategic-thinking",{"className":"tag","children":["#","strategic-thinking"]}],["$","span","research",{"className":"tag","children":["#","research"]}],["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}],["$","span","none",{"className":"tag","children":["#","none"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","community",{"className":"tag","children":["#","community"]}],["$","span","cross-team-collaboration",{"className":"tag","children":["#","cross-team-collaboration"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+10:["$","$L11",null,{"attachments":[{"filename":"Flourishing-Business-Canvas-v2.1-with-help-Poster-72x48-1.pdf","type":"pdf","url":"/attachments/Flourishing-Business-Canvas-v2.1-with-help-Poster-72x48-1.pdf"},{"filename":"Flourishing-Business-Canvas-v2.1-Interactive-Detailed-Guide-v3.pdf","type":"pdf","url":"/attachments/Flourishing-Business-Canvas-v2.1-Interactive-Detailed-Guide-v3.pdf"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","title","0",{"children":"Sustainability Atlas"}],["$","meta","1",{"name":"description","content":"Tools and methods for sustainable entrepreneurship and innovation"}]]
+9:null

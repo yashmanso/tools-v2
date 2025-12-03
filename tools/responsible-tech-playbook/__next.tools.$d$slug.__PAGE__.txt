@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T11bf,<hr>
+<h1>Overview</h1>
+<p>The Responsible Tech Playbook is a compilation of resources designed to highlight inclusivity, bias awareness, and transparency in the realm of technology. It helps individuals and organizations address the ethical implications of technology. A self-assessment tool in the playbook assesses the social and environmental impact of technology projects and provides a framework for balancing economic benefits with ethical considerations. The tool includes a checklist that covers areas such as privacy, sustainability and human-rights. The aim of the tool is to empower tech professionals and decision-makers to think about the wider societal impact of their work and make more responsible decisions when creating and implementing technology solutions.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+The Responsible Tech Playbook and the Tool for Responsible Tech are practical compilations of knowledge and self-assessment mechanisms that guide users towards ethical tech development.</p>
+<ul>
+<li>Tags: #tool, #playbook, #self-assessment</li>
+</ul>
+<p><strong>Objective</strong>
+These resources aim to assess current practices and align technological development with responsible and sustainable principles in a manner that is ethically responsible, environmentally sustainable, and socially beneficial.</p>
+<ul>
+<li>Tags: #assess, #align</li>
+</ul>
+<p><strong>Target Audience</strong>
+The resources are designed for a broad range of stakeholders involved in technology development, including those in academia, policy-making, and various sectors of industry.</p>
+<ul>
+<li>Tags: #entrepreneurs, #researchers, #policy-makers, #educators, #practitioners, #corporations</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The focus of the tool is on the social and environmental impact of technology projects. It aims to balance economic benefits with ethical considerations.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability</li>
+</ul>
+<p><strong>Innovation Type</strong>
+These resources support various types of innovation, such as product, process, and service.</p>
+<ul>
+<li>Tags: #social-innovation, #technological-innovation, #business-model-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The playbook and tool are relevant across different stages of entrepreneurship, especially during the design and development phases where ethical considerations are needed to be taken into account.</p>
+<ul>
+<li>Tags: #design, #development</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+While the resources have a global perspective, they are applicable to national and local contexts, depending on the user's objectives and scope of work.</p>
+<ul>
+<li>Tags: #global, #national, #local</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The resources are grounded in structured and reflective methodologies that encourage users to critically evaluate their tech practices. There is a recursive nature to reassess previous answers provided.</p>
+<ul>
+<li>Tags: #mixed-methods</li>
+</ul>
+<p><strong>Skill Development</strong>
+Users are encouraged to develop skills in systems thinking, environmental awareness, ethical reasoning, collaborative problem solving, and holistic thinking to ensure responsible tech development.</p>
+<ul>
+<li>Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #collaborative-problem-solving, #ethical-reasoning</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The tool is developed by “Responsible Tech Sweden” an non-profit organization located in Sweden. More information about the committee responsible for the tool can be found <a href="https://www.kometinfo.se/in-english/about-us/">here</a></p>
+<ul>
+<li>Tags: #reputable-industry-sources, #recognized-experts, #practice</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The resources are designed to be accessible to a wide audience, with no specific prerequisites, allowing for a diverse range of users to engage with the material.</p>
+<ul>
+<li>Tags: #none, #beginner-level</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+The resources encourage team-based approaches to responsible tech development, but can also be used individually.</p>
+<ul>
+<li>Tags: #team, #community, #cross-sector-partnerships, #individual</li>
+</ul>
+<p>More information can be found at <a href="https://responsibletech.se/index.php">Responsible tech</a>. The self-assessment resource is accessible <a href="https://responsibletech.se/tool.php">here</a>.</p>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Responsible Tech Playbook"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","tool",{"className":"tag","children":["#","tool"]}],["$","span","playbook",{"className":"tag","children":["#","playbook"]}],["$","span","self-assessment",{"className":"tag","children":["#","self-assessment"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","researchers",{"className":"tag","children":["#","researchers"]}],["$","span","policy-makers",{"className":"tag","children":["#","policy-makers"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","social-innovation",{"className":"tag","children":["#","social-innovation"]}],["$","span","technological-innovation",{"className":"tag","children":["#","technological-innovation"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","local",{"className":"tag","children":["#","local"]}],["$","span","mixed-methods",{"className":"tag","children":["#","mixed-methods"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","collaborative-problem-solving",{"className":"tag","children":["#","collaborative-problem-solving"]}],["$","span","ethical-reasoning",{"className":"tag","children":["#","ethical-reasoning"]}],["$","span","reputable-industry-sources",{"className":"tag","children":["#","reputable-industry-sources"]}],["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}],["$","span","practice",{"className":"tag","children":["#","practice"]}],["$","span","none",{"className":"tag","children":["#","none"]}],["$","span","beginner-level",{"className":"tag","children":["#","beginner-level"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","community",{"className":"tag","children":["#","community"]}],["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}],["$","span","individual",{"className":"tag","children":["#","individual"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"Pasted image 20240312155910.png","type":"image","url":"/attachments/Pasted%20image%2020240312155910.png"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

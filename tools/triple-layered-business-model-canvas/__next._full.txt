@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[90684,["/_next/static/chunks/0d9b19692ff8ad58.js"],"ThemeProvider"]
+3:I[5610,["/_next/static/chunks/0d9b19692ff8ad58.js"],"Header"]
+4:I[87180,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+5:I[42045,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"ViewportBoundary"]
+c:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"MetadataBoundary"]
+e:I[89192,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+:HL["/_next/static/chunks/8a3a1206e98fbbfa.css","style"]
+0:{"P":null,"b":"P7IHa75e2PZY2cZPpQM9z","c":["","tools","triple-layered-business-model-canvas"],"q":"","i":false,"f":[[["",{"children":["tools",{"children":[["slug","triple-layered-business-model-canvas","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8a3a1206e98fbbfa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0d9b19692ff8ad58.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1 container mx-auto px-4 py-8 max-w-6xl","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-gray-200 dark:border-gray-700 py-6 mt-12","children":["$","div",null,{"className":"container mx-auto px-4 text-center text-sm text-gray-600 dark:text-gray-400","children":"Sustainability Atlas - Tools and methods for sustainable entrepreneurship and innovation"}]}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+f:T14e0,<hr>
+<h1>Overview</h1>
+<p>The Triple Layered Business Model Canvas is an innovative tool that expands the traditional business model canvas by integrating two additional layers: an environmental layer, which emphasizes a lifecycle perspective, and a social layer, which focuses on a stakeholder perspective. This holistic approach ensures that a business model not only generates economic value but also addresses environmental and social impacts, promoting sustainability. The tool aids in visualizing and communicating a business's comprehensive value proposition, encouraging creative and sustainable business model innovation. This innovative canvas contributes to sustainable business model research by structuring sustainability considerations into the business model design process.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+As part of an academic and practical framework this canvas guides businesses in integrating sustainability into their core strategies.</p>
+<ul>
+<li>Tags: #academic-articles, #framework, #canvas</li>
+</ul>
+<p><strong>Objective</strong>
+The triple layered business model canvas aids businesses in visualizing and aligning their operational, environmental, and social objectives. It helps in strategic planning, identifying sustainable value propositions, and understanding the impacts of business activities. It contributes to a more structured thinking and planning.</p>
+<ul>
+<li>Tags: #map, #assess, #align</li>
+</ul>
+<p><strong>Target Audience</strong>
+It is designed for entrepreneurs, business strategists, and educators. It’s especially relevant for companies aiming to transition towards sustainability and for startups wanting to embed sustainability from the outset.</p>
+<ul>
+<li>Tags: #entrepreneurs , #corporations , #startups, #practitioners, #educators</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The canvas prompts businesses to consider environmental impacts and social equity, ensuring that the business contributes positively to sustainable development on all levels</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability</li>
+</ul>
+<p><strong>Innovation Type</strong>
+The tool encourages systemic innovation by considering the interplay between business, environment, and society.</p>
+<ul>
+<li>Tags: #social-innovation , #business-model-innovation ,#process innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+It is suitable for businesses at any stage, from ideation to maturity. It helps new businesses to design with sustainability in mind and assists established businesses in transitioning towards more sustainable practices.but it needs to be noted that the earlier the tool is used, the higher will be its potential.</p>
+<ul>
+<li>Tags: #ideation , #design , #development , #implementation , #growth, #startup, #scaleup, #maturity</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+The tool is applicable globally, across industries, and scales. It encourages businesses to consider local and global environmental and social impacts, making it relevant for both local startups and multinational corporations.</p>
+<ul>
+<li>Tags: #global, #regional, #local, #national</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+It offers a structured, visual framework. It is a holistic approach that encourages looking beyond financial figures to include environmental and social metrics. It is quite similar to the other variations of business model canvas.</p>
+<ul>
+<li>Tags: #qualitative-research, #theoretical-frameworks</li>
+</ul>
+<p><strong>Skill Development</strong>
+It helps improve skills in sustainable business modeling, strategic thinking, and systems thinking. It encourages the development of competencies in integrating diverse perspectives and objectives into a cohesive business strategy.</p>
+<ul>
+<li>Tags: #systems-thinking , #holistic-thinking , #environmental-awareness , #innovative-thinking</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The tool originates from the evolution of the well-recognized Business Model Canvas, integrating concepts from sustainability science and corporate social responsibility, adding credibility and a solid theoretical foundation. Therefore, in part it borrows credibility from BMC.</p>
+<ul>
+<li>Tags: #academic-institutions, #recognized-, #peer-reviewed-publications</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The user will be helped by prior understanding of traditional business modeling concepts. Beneficial to have a grasp of basic environmental and social impact assessment methods.</p>
+<ul>
+<li>Tags: #beginner-level , #intermediate-level</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+While the tool can be used individually, it facilitates collaboration by providing a common framework that aligns diverse business units and stakeholders around sustainability goals. It’s a tool that can be used in workshops and team meetings to foster a shared understanding and commitment to sustainability.</p>
+<ul>
+<li>Tags: #team, #individual, #cross-sector-partnerships</li>
+</ul>
+<p>More information can be found at <a href="https://sustainablebusinessmodel.org/2015/04/17/the-triple-layered-business-model-canvas-a-tool-to-design-more-sustainable-business-models/">The Triple Layered Business Model Canvas</a>.</p>
+<hr>
+6:["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Triple Layered Business Model Canvas"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","academic-articles",{"className":"tag","children":["#","academic-articles"]}],["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","canvas",{"className":"tag","children":["#","canvas"]}],["$","span","map",{"className":"tag","children":["#","map"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","startups",{"className":"tag","children":["#","startups"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","social-innovation",{"className":"tag","children":["#","social-innovation"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","process",{"className":"tag","children":["#","process"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","growth",{"className":"tag","children":["#","growth"]}],["$","span","startup",{"className":"tag","children":["#","startup"]}],["$","span","scaleup",{"className":"tag","children":["#","scaleup"]}],["$","span","maturity",{"className":"tag","children":["#","maturity"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","regional",{"className":"tag","children":["#","regional"]}],["$","span","local",{"className":"tag","children":["#","local"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","qualitative-research",{"className":"tag","children":["#","qualitative-research"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","innovative-thinking",{"className":"tag","children":["#","innovative-thinking"]}],["$","span","academic-institutions",{"className":"tag","children":["#","academic-institutions"]}],["$","span","recognized-",{"className":"tag","children":["#","recognized-"]}],["$","span","peer-reviewed-publications",{"className":"tag","children":["#","peer-reviewed-publications"]}],["$","span","beginner-level",{"className":"tag","children":["#","beginner-level"]}],["$","span","intermediate-level",{"className":"tag","children":["#","intermediate-level"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","individual",{"className":"tag","children":["#","individual"]}],["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+10:["$","$L11",null,{"attachments":[{"filename":"1-s2.0-S0959652616307442-mmc1.pdf","type":"pdf","url":"/attachments/1-s2.0-S0959652616307442-mmc1.pdf"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","title","0",{"children":"Sustainability Atlas"}],["$","meta","1",{"name":"description","content":"Tools and methods for sustainable entrepreneurship and innovation"}]]
+9:null

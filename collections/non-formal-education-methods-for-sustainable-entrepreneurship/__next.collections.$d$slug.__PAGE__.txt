@@ -1,0 +1,162 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T1646,<p>This is a <a href="https://www.salto-youth.net/downloads/toolbox_tool_download-file-1951/Non-formal%20Education%20for%20Sustainable%20Entrepreneurship.pdf">compendium</a> mainly targeted to the youth who aim at promoting sustainable entrepreneurship amongst other young people. Almost all the methods are adaptation of existing ones. The compendium entails several non-formal education methods on inspiring creativity, innovation, and sustainable entrepreneurial thinking. Each method is accompanied with structured instructions and context of use. There are three categories of thinking methods: creative, entrepreneurial, and sustainable. Each thinking method outlines an overview of its use case, its objectives, the age group, group size in which it is most useful, and the time needed to complete.</p>
+<h1><strong>Creative thinking methods</strong></h1>
+<ul>
+<li>
+<h3>Method 1: Invent the solution</h3>
+<ul>
+<li>Overview: To trigger creativity, collaboration, critical thinking and problem solving.</li>
+<li>Age group: Over 12</li>
+<li>Group size: 3 to 5 participants in each group</li>
+<li>Time: 45 - 60 minutes</li>
+<li>Objectives: Innovation, collaboration, critical thinking/ creativity, problem-solving</li>
+</ul>
+</li>
+<li>
+<h3>Method 2: Change the image of a familiar situation</h3>
+<ul>
+<li>Overview:
+<ol>
+<li>Introduction to creativity and differentiation.</li>
+<li>Why creativity is important for entrepreneurship.</li>
+<li>Conduct creativity exercises.</li>
+</ol>
+</li>
+<li>Age group: Over 12</li>
+<li>Group size: Small groups of 3-4 participants</li>
+<li>Time: 120 minutes</li>
+<li>Objectives:
+<ol>
+<li>Understanding the importance of creativity in entrepreneurship.</li>
+<li>Understanding the importance of creativity exercises for original ideas and how to apply that to entrepreneurship.</li>
+<li>Practice creativity exercises and realizes that anyone can be a creative individual.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li>
+<h3>Method 3: My frustrations!</h3>
+<ul>
+<li>Overview: Triggering creative thinking</li>
+<li>Age group: Over 12</li>
+<li>Group size: Small groups of 4 to 6 participants</li>
+<li>Time: 60 minutes</li>
+<li>Objectives: Creative thinking, teamwork, brainstorming</li>
+</ul>
+</li>
+</ul>
+<h1><strong>Entrepreneurial thinking methods</strong></h1>
+<ul>
+<li>
+<h3>Method 1: Business café</h3>
+<ul>
+<li>Overview: The activity is designed to stimulate brainstorming / creative thinking</li>
+<li>Age group: Over 12</li>
+<li>Group size: Up to 30 participants</li>
+<li>Time: 3 hours</li>
+<li>Objectives: To generate ideas out of discussions</li>
+</ul>
+</li>
+<li>
+<h3>Method 2: Entrepreneurs Pitch Speech</h3>
+<ul>
+<li>Overview: Entrepreneurs' pitch speech</li>
+<li>Age group: Over 13</li>
+<li>Group size: 2 participants for each speech (alternated)</li>
+<li>Time: 60 - 90 minutes</li>
+<li>Objectives: Stimulate creativity and entrepreneurial mindset, effective communication, time management</li>
+</ul>
+</li>
+<li>
+<h3>Method 3: Creative pitch speech</h3>
+<ul>
+<li>Overview: This exercise is a loose, creative and fun way to practice pitching</li>
+<li>Age group: 15 -</li>
+<li>Group size: From 10 and above</li>
+<li>Time: 30 - minutes</li>
+<li>Objectives: To trigger creativity, time management</li>
+</ul>
+</li>
+</ul>
+<h1><strong>Sustainable thinking methods</strong></h1>
+<ul>
+<li>
+<h3>Method 1: Waste gold</h3>
+<ul>
+<li>Overview: An exercise to encourage a creative reflection upon how to use some waste products as input for new businesses.</li>
+<li>Age group: 15 years and up</li>
+<li>Time:
+<ul>
+<li>5 min - Introduction and group division</li>
+<li>25 min – brainstorm</li>
+<li>1 hour – business model</li>
+<li>15 - 30 min – pitching</li>
+<li>15 – 30 min - debriefing</li>
+</ul>
+</li>
+<li>Objectives:
+<ul>
+<li>To make the participants reflect upon the endless numbers of potential business models that is in the waist.</li>
+<li>To enhance innovation and creativity among the participants.</li>
+<li>To give inspiration to new businesses that uses waist products</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3>Method 2: Time for Action</h3>
+<ul>
+<li>Overview: An exercise to encourage a reflection on our daily habits and their global impact, as a means for identifying opportunities for creative intervention through innovative thinking and sustainable entrepreneurship</li>
+<li>Age group: 16 - 30</li>
+<li>Group size: 9 to 24 participants</li>
+<li>Time: 2 to 3 hours</li>
+<li>Objectives:
+<ul>
+<li>Encourage participants to reflect upon the global impact of their everyday habits;</li>
+<li>Encourage the participants to see opportunities for innovation in everyday life;</li>
+<li>Encourage participants to develop need based products and services;</li>
+<li>Foster participant’s creativity.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3>Method 3: Sustainable business models - leasing</h3>
+<ul>
+<li>Overview: An exercise to encourage participants to develop leasing businesses that assure sustainability of the products Age group: 15+</li>
+<li>Group size: Max. 4</li>
+<li>Time:
+<ul>
+<li>Introduction: 20 min</li>
+<li>Group work: 1 hour</li>
+<li>Plenary presentations: 15 min/group</li>
+<li>Debrief: 25 min</li>
+</ul>
+</li>
+<li>Objectives:
+<ul>
+<li>To make participants reflect upon sustainable business models</li>
+<li>To stimulate creativity and sustainable entrepreneurial thinking</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<h3>Method 4: How ethical are you?</h3>
+<ul>
+<li>Overview: Reflecting on ethics in business</li>
+<li>Age group: Over 13</li>
+<li>Group size: Plenary session activity / Small groups (Up to the facilitator)</li>
+<li>Time: 60 – 75 minutes</li>
+<li>Objectives: To make participants reflect on an ethical policy and sustainability in business</li>
+</ul>
+</li>
+</ul>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Non-formal Education Methods for Sustainable Entrepreneurship"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

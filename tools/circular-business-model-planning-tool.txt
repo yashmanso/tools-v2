@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[90684,["/_next/static/chunks/0d9b19692ff8ad58.js"],"ThemeProvider"]
+3:I[5610,["/_next/static/chunks/0d9b19692ff8ad58.js"],"Header"]
+4:I[87180,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+5:I[42045,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"ViewportBoundary"]
+c:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"MetadataBoundary"]
+e:I[89192,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+:HL["/_next/static/chunks/8a3a1206e98fbbfa.css","style"]
+0:{"P":null,"b":"P7IHa75e2PZY2cZPpQM9z","c":["","tools","circular-business-model-planning-tool"],"q":"","i":false,"f":[[["",{"children":["tools",{"children":[["slug","circular-business-model-planning-tool","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8a3a1206e98fbbfa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0d9b19692ff8ad58.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1 container mx-auto px-4 py-8 max-w-6xl","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-gray-200 dark:border-gray-700 py-6 mt-12","children":["$","div",null,{"className":"container mx-auto px-4 text-center text-sm text-gray-600 dark:text-gray-400","children":"Sustainability Atlas - Tools and methods for sustainable entrepreneurship and innovation"}]}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+f:T1050,<hr>
+<h1>Overview</h1>
+<p>Circular Business Model Planning Tool is designed to guide companies in integrating circular economy principles into their business models throughout the product life cycle. It emphasizes the importance of maintaining the value embedded in products for as long as possible by focusing on strategies such as design for longevity, repair, refurbishment, remanufacturing, and material recovery. The tool aims to help businesses plan and analyze their business model elements at various life cycle stages, recognize interdependencies, and identify opportunities to capture residual value and increase resource efficiency. It is particularly useful for companies looking to implement circular strategies.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+Circular Business Model Planning Tool and the associate guide serve to integrates business model planning with circular economy principles.</p>
+<ul>
+<li>Tags: #tool, #framework, #guide , #canvas</li>
+</ul>
+<p><strong>Objective</strong>
+The primary goal of this resource is to map out and align business strategies with circular economy concepts, ensuring long-term value creation and resource efficiency.</p>
+<ul>
+<li>Tags: #map, #align, #assess</li>
+</ul>
+<p><strong>Target Audience</strong>
+This resource is tailored to entrepreneurs and students but also directly relevant for practitioners and larger corporations too.</p>
+<ul>
+<li>Tags: #entrepreneurs, #SMEs, #corporations, #practitioners, #students</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The resource is centered on environmental sustainability, specifically on maintaining a closed-loop system for products and materials to minimize waste.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #circular-economy</li>
+</ul>
+<p><strong>Innovation Type</strong>
+It supports business model innovation by encouraging companies to rethink and redesign their approach to product life cycles and value creation.</p>
+<ul>
+<li>Tags: #business-model-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The resource is relevant across various stages of entrepreneurship, from the initial design phase to the maturity and scaling of operations.</p>
+<ul>
+<li>Tags: #design, #development, #implementation, #growth, #scale-up</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+While the principles can be applied globally, the resource is particularly relevant for businesses operating in regions with strong circular economy policies and frameworks.</p>
+<ul>
+<li>Tags: #global, #regional</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The resource is based on a strategic and analytical approach that draws on principles of circular economy and business model innovation.</p>
+<ul>
+<li>Tags: #theoretical-frameworks, #strategic-planning</li>
+</ul>
+<p><strong>Skill Development</strong>
+It aims to enhance skills in systems thinking, innovation, and environmental awareness, which are crucial for implementing sustainable business models.</p>
+<ul>
+<li>Tags: #systems-thinking, #innovative-thinking, #environmental-awareness, #holistic-thinking</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The resource is developed with a strong foundation in sustainable entrepreneurship research by researchers at Lund University in Sweden.</p>
+<ul>
+<li>Tags: #academic-institutions, #recognized-experts</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+While no specific prerequisites are envisioned, users should have a basic understanding of business models and sustainability concepts to effectively utilize this resource.</p>
+<ul>
+<li>Tags: #beginner-level, #specific-educational-background</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+While using the tool can be done individually and in teams, collaborating across teams in the organization as well as beyond its boundaries can improve the relevance of the outcomes.</p>
+<ul>
+<li>Tags: #team, #individual  #cross-sector-partnerships, #cross-team-collaboration</li>
+</ul>
+<p>More information can be found at <a href="https://lucris.lub.lu.se/ws/portalfiles/portal/71404598/CBM_Planning_Tool_Guide_Class.pdf">Lund University repository</a>.</p>
+<hr>
+6:["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Circular Business Model Planning Tool"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","tool",{"className":"tag","children":["#","tool"]}],["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","guide",{"className":"tag","children":["#","guide"]}],["$","span","canvas",{"className":"tag","children":["#","canvas"]}],["$","span","map",{"className":"tag","children":["#","map"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","SMEs",{"className":"tag","children":["#","SMEs"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","students",{"className":"tag","children":["#","students"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","circular-economy",{"className":"tag","children":["#","circular-economy"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","growth",{"className":"tag","children":["#","growth"]}],["$","span","scale-up",{"className":"tag","children":["#","scale-up"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","regional",{"className":"tag","children":["#","regional"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","strategic-planning",{"className":"tag","children":["#","strategic-planning"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","innovative-thinking",{"className":"tag","children":["#","innovative-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","academic-institutions",{"className":"tag","children":["#","academic-institutions"]}],["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}],["$","span","beginner-level",{"className":"tag","children":["#","beginner-level"]}],["$","span","specific-educational-background",{"className":"tag","children":["#","specific-educational-background"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","individual",{"className":"tag","children":["#","individual"]}],["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}],["$","span","cross-team-collaboration",{"className":"tag","children":["#","cross-team-collaboration"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$f"}}],"$L10"]}]
+11:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+10:["$","$L11",null,{"attachments":[{"filename":"Pasted image 20240130163957.png","type":"image","url":"/attachments/Pasted%20image%2020240130163957.png"},{"filename":"CBM_Planning_Tool_Guide_Class.pdf","type":"pdf","url":"/attachments/CBM_Planning_Tool_Guide_Class.pdf"}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","title","0",{"children":"Sustainability Atlas"}],["$","meta","1",{"name":"description","content":"Tools and methods for sustainable entrepreneurship and innovation"}]]
+9:null

@@ -1,0 +1,75 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:Tece,<hr>
+<h1>Overview</h1>
+<p>The Project Resilience Review is a comprehensive framework designed to evaluate and enhance the sustainability of projects by examining their alignment with the Sustainable Development Goals (SDGs). It prompts users to consider the long-term impact of their project's direction and practice, including potential challenges and opportunities. The framework encourages the integration of new competencies and collaboration to bolster project resilience and competitiveness. There is also an emphasis on the importance of awareness regarding the environmental, social, and economic implications of project methodologies and partnerships. This resource is particularly useful for project groups seeking to ensure their work contributes positively to sustainability goals and is adaptable to future changes in the global landscape.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+The Project Resilience Review is a structured set of questions and recommendations, serving as a methodological guide for project assessment.</p>
+<ul>
+<li>Tags: #method, #framework, #guide</li>
+</ul>
+<p><strong>Objective</strong>
+This resource aims to align project outcomes with sustainability goals and to enhance awareness of potential impacts.</p>
+<ul>
+<li>Tags: #assess, #align</li>
+</ul>
+<p><strong>Target Audience</strong>
+The tool is designed for project groups within academic and research settings, but it has relevance for other contexts too.</p>
+<ul>
+<li>Tags: #researchers, #students, #educators, #practitioners</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The review covers all three pillars of sustainability, with a strong emphasis on identifying and mitigating negative impacts.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs</li>
+</ul>
+<p><strong>Innovation Type</strong>
+It supports innovation by prompting users to consider sustainable practices and opportunities for improvement in their projects.</p>
+<ul>
+<li>Tags: #process-innovation, #social-innovation, #business-model-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The tool is relevant across various stages of project development, from initial design to implementation and future scaling.</p>
+<ul>
+<li>Tags: #design, #development, #implementation, #growth</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+While the tool can be applied universally, it is particularly relevant to projects with potential global sustainability impacts.</p>
+<ul>
+<li>Tags: #global, #national</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The review employs a qualitative approach, encouraging reflective and critical thinking about project sustainability.</p>
+<ul>
+<li>Tags: #qualitative-research, #theoretical-frameworks</li>
+</ul>
+<p><strong>Skill Development</strong>
+It aims to develop skills in sustainability assessment, strategic planning, and the integration of new competencies.</p>
+<ul>
+<li>Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #innovative-thinking, #adaptability-and-resilience</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The tool is developed by practitioners at Chalmers Innovation Office. Its creation is based on years of experience.</p>
+<ul>
+<li>Tags: #academic-institutions, #research, #practice</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+Users should have a basic understanding of sustainability concepts and project management to effectively utilize the tool.</p>
+<ul>
+<li>Tags: #intermediate-level, #beginner-level</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+The review encourages collaboration within project groups and the integration of external competencies.</p>
+<ul>
+<li>Tags: #team, #cross-sector-partnerships</li>
+</ul>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Project Resilience Review"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","method",{"className":"tag","children":["#","method"]}],["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","guide",{"className":"tag","children":["#","guide"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","researchers",{"className":"tag","children":["#","researchers"]}],["$","span","students",{"className":"tag","children":["#","students"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","SDGs",{"className":"tag","children":["#","SDGs"]}],["$","span","process-innovation",{"className":"tag","children":["#","process-innovation"]}],["$","span","social-innovation",{"className":"tag","children":["#","social-innovation"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","growth",{"className":"tag","children":["#","growth"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","qualitative-research",{"className":"tag","children":["#","qualitative-research"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","innovative-thinking",{"className":"tag","children":["#","innovative-thinking"]}],["$","span","adaptability-and-resilience",{"className":"tag","children":["#","adaptability-and-resilience"]}],["$","span","academic-institutions",{"className":"tag","children":["#","academic-institutions"]}],["$","span","research",{"className":"tag","children":["#","research"]}],["$","span","practice",{"className":"tag","children":["#","practice"]}],["$","span","intermediate-level",{"className":"tag","children":["#","intermediate-level"]}],["$","span","beginner-level",{"className":"tag","children":["#","beginner-level"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"Version 3 - Current/Files/IE Sustainability Worksheet_Norrman.pdf","type":"pdf","url":"/attachments/Version%203%20-%20Current%2FFiles%2FIE%20Sustainability%20Worksheet_Norrman.pdf"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

@@ -1,0 +1,86 @@
+1:"$Sreact.fragment"
+10:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+11:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+12:"$Sreact.suspense"
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Future-Fit Business Benchmark"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","method",{"className":"tag","children":["#","method"]}],["$","span","online",{"className":"tag","children":["#","online"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","researchers",{"className":"tag","children":["#","researchers"]}],["$","span","policy-makers",{"className":"tag","children":["#","policy-makers"]}],["$","span","investors",{"className":"tag","children":["#","investors"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","startups",{"className":"tag","children":["#","startups"]}],["$","span","SMEs",{"className":"tag","children":["#","SMEs"]}],["$","span","corporations",{"className":"tag","children":["#","corporations"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","social-sustainability",{"className":"tag","children":["#","social-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","environmental-impact",{"className":"tag","children":["#","environmental-impact"]}],["$","span","social-impact",{"className":"tag","children":["#","social-impact"]}],["$","span","governance",{"className":"tag","children":["#","governance"]}],["$","span","CSR",{"className":"tag","children":["#","CSR"]}],["$","span","SDGs",{"className":"tag","children":["#","SDGs"]}],["$","span","product-innovation",{"className":"tag","children":["#","product-innovation"]}],["$","span","process-innovation",{"className":"tag","children":["#","process-innovation"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","social-innovation",{"className":"tag","children":["#","social-innovation"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","startup",{"className":"tag","children":["#","startup"]}],["$","span","growth",{"className":"tag","children":["#","growth"]}],["$","span","scale-up",{"className":"tag","children":["#","scale-up"]}],["$","span","maturity",{"className":"tag","children":["#","maturity"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","regional",{"className":"tag","children":["#","regional"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","local",{"className":"tag","children":["#","local"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","leadership-and-management",{"className":"tag","children":["#","leadership-and-management"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","holistic-thinking",{"className":"tag","children":["#","holistic-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","innovative-thinking",{"className":"tag","children":["#","innovative-thinking"]}],["$","span","adaptability-and-resilience",{"className":"tag","children":["#","adaptability-and-resilience"]}],["$","span","business-and-financial-skills",{"className":"tag","children":["#","business-and-financial-skills"]}],["$","span","collaboration-and-networking",{"className":"tag","children":["#","collaboration-and-networking"]}],["$","span","data-analysis-and-metrics",{"className":"tag","children":["#","data-analysis-and-metrics"]}],["$","span","peer-reviewed-publications",{"className":"tag","children":["#","peer-reviewed-publications"]}],"$L2","$L3","$L4","$L5","$L6","$L7","$L8","$L9","$La"]}]]}],"$Lb","$Lc"]}],["$Ld"],"$Le"]}],"loading":null,"isPartial":false}
+2:["$","span","reputable-industry-sources",{"className":"tag","children":["#","reputable-industry-sources"]}]
+3:["$","span","academic-institutions",{"className":"tag","children":["#","academic-institutions"]}]
+4:["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}]
+5:["$","span","practice",{"className":"tag","children":["#","practice"]}]
+6:["$","span","research",{"className":"tag","children":["#","research"]}]
+7:["$","span","intermediate-level",{"className":"tag","children":["#","intermediate-level"]}]
+8:["$","span","team",{"className":"tag","children":["#","team"]}]
+9:["$","span","community",{"className":"tag","children":["#","community"]}]
+a:["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}]
+f:T1402,<hr>
+<h1>Overview</h1>
+<p>The Future-Fit Business Benchmark is an online tool consisting of principles, goals, indicators and guides. The approach is based on a solid, principles-driven definition of an ideal society for the future: a society where waste is eliminated, individuals have the chance and capability to lead fulfilling lives, renewable energy is accessible to everyone, and so forth. The set of 23 Break-Even Goals operationalize these principles by establishing minimum performance benchmarks that every business should aim to achieve. Furthermore, the 24 Positive Pursuits encompass the comprehensive spectrum of outcomes a business can contribute to accelerate societal progress. The Break-Even Goals come with a set of progress indicators, each quantified as a percentage. These indicators are crafted to assist businesses in recognizing risks, establishing interim targets, prioritizing actions, anticipating trade-offs, and monitoring progress..</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+This is a method developed to help companies identify and asses their impact within governance, planet, people and prosperity.</p>
+<ul>
+<li>Tags: #framework, #method, #online</li>
+</ul>
+<p><strong>Objective</strong>
+This resource is aimed at guiding businesses to align their strategies with sustainable and equitable practices in line with the SDGs.</p>
+<ul>
+<li>Tags: #align, #assess</li>
+</ul>
+<p><strong>Target Audience</strong>
+The benchmark is designed for a wide array of users who are involved in or interested in sustainable business practices.</p>
+<ul>
+<li>Tags: #entrepreneurs, #researchers, #policy-makers, #investors, #educators, #practitioners, #startups, #SMEs, #corporations</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The Future-Fit Business Benchmark focuses on a holistic and comprehensive approach to sustainability. The benchmark emphasizes a range of sustainability dimensions to guide businesses toward becoming truly sustainable and contributing positively to society and the environment.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #environmental-impact, #social-impact, #governance, #CSR, #SDGs</li>
+</ul>
+<p><strong>Innovation Type</strong>
+While it is not directly linked to providing support for innovation, it can provide insights to many aspects related to innovation from new products and processes to business models and social change.</p>
+<ul>
+<li>Tags: #product-innovation, #process-innovation, #business-model-innovation, #social-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+The benchmark is relevant for businesses at various stages, from initial concept to growth and maturity, although the benchmark is more relevant for existing organizations.</p>
+<ul>
+<li>Tags: #ideation, #design, #development, #implementation, #startup, #growth, #scale-up, #maturity</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+Its principles are universally applicable, making it relevant for businesses operating at any scale or location.</p>
+<ul>
+<li>Tags: #global, #regional, #national, #local</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The benchmark is grounded in a principles-based approach, ensuring robust and comprehensive guidance. Depending on the aspect that it guides, there may be need for qualitative or quantitative approaches.</p>
+<ul>
+<li>Tags: #theoretical-frameworks</li>
+</ul>
+<p><strong>Skill Development</strong>
+Adopting the benchmark can enhance a range of competencies crucial for sustainable entrepreneurship. This is because it aims to attend to all 17 SDGs.</p>
+<ul>
+<li>Tags: #leadership-and-management, #systems-thinking, #holistic-thinking, #environmental-awareness, #innovative-thinking, #adaptability-and-resilience, #business-and-financial-skills, #collaboration-and-networking, #data-analysis-and-metrics</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The benchmark is developed through a multi-stakeholder process that involves collaboration with experts, stakeholders, and organizations in the field of sustainability. The development process includes input from academia, industry professionals, and other relevant parties.</p>
+<ul>
+<li>Tags: #peer-reviewed-publications, #reputable-industry-sources, #academic-institutions, #recognized-experts, #practice, #research</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+While accessible to all, the benchmark is best utilized by those with some foundational knowledge in business and sustainability.</p>
+<ul>
+<li>Tags: #intermediate-level</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+The benchmark encourages collaboration among various stakeholders to achieve sustainability goals.</p>
+<ul>
+<li>Tags: #team, #community, #cross-sector-partnerships</li>
+</ul>
+<p>More information can be found at <a href="https://futurefitbusiness.org/explore-the-benchmark-and-key-concepts/">Future-Fit Business</a>. A complete guide why and how to use the benchmark is accessible at <a href="https://benchmark.futurefitbusiness.org/mg.html">Future‑Fit Business Benchmark</a></p>
+<hr>
+b:["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$f"}}]
+c:["$","$L10",null,{"attachments":[{"filename":"Namnlöst.jpg","type":"image","url":"/attachments/Namnl%C3%B6st.jpg"}]}]
+d:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+e:["$","$L11",null,{"children":["$","$12",null,{"name":"Next.MetadataOutlet","children":"$@13"}]}]
+13:null

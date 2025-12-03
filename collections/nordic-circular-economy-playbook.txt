@@ -1,0 +1,44 @@
+1:"$Sreact.fragment"
+2:I[90684,["/_next/static/chunks/0d9b19692ff8ad58.js"],"ThemeProvider"]
+3:I[5610,["/_next/static/chunks/0d9b19692ff8ad58.js"],"Header"]
+4:I[87180,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+5:I[42045,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+a:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"ViewportBoundary"]
+c:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"MetadataBoundary"]
+e:I[89192,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"default"]
+:HL["/_next/static/chunks/8a3a1206e98fbbfa.css","style"]
+0:{"P":null,"b":"P7IHa75e2PZY2cZPpQM9z","c":["","collections","nordic-circular-economy-playbook"],"q":"","i":false,"f":[[["",{"children":["collections",{"children":[["slug","nordic-circular-economy-playbook","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/8a3a1206e98fbbfa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/0d9b19692ff8ad58.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","suppressHydrationWarning":true,"children":["$","body",null,{"className":"antialiased","children":["$","$L2",null,{"children":["$","div",null,{"className":"min-h-screen flex flex-col","children":[["$","$L3",null,{}],["$","main",null,{"className":"flex-1 container mx-auto px-4 py-8 max-w-6xl","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"border-t border-gray-200 dark:border-gray-700 py-6 mt-12","children":["$","div",null,{"className":"container mx-auto px-4 text-center text-sm text-gray-600 dark:text-gray-400","children":"Sustainability Atlas - Tools and methods for sustainable entrepreneurship and innovation"}]}]]}]}]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L6",[["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true,"nonce":"$undefined"}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$La",null,{"children":"$@b"}],["$","div",null,{"hidden":true,"children":["$","$Lc",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":"$@d"}]}]}],null]}],false]],"m":"$undefined","G":["$e",[]],"S":true}
+10:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+f:T624,<p><a href="https://www.nordicinnovation.org/tools/nordic-circular-economy-playbook-toolkit">Nordic Circular Economy Playbook Toolkit</a> promises to help their audience in defining general and clear business benefits from circular adoption, developing the right operating models to realize full benefit, and establishing the means to drive change. This <a href="https://pub.nordicinnovation.org/Nordic-Circular-Economy-Playbook/#">playbook</a> is tailored to companies in the Nordic manufacturing industry, giving examples for the five sub-sectors of machinery &#x26; equipment, maritime, energy, transportation, and construction.</p>
+<p>The playbook is organized in 5 chapters wherein tools are offered:</p>
+<p><strong>Chapter 1: Why is the circular economy relevant?</strong></p>
+<p><strong>Chapter 2: What concrete opportunities exist?</strong></p>
+<ul>
+<li>Business Model Development Toolkit</li>
+<li>Value Case Tool</li>
+</ul>
+<p><strong>Chapter 3: Which capabilities are required?</strong></p>
+<ul>
+<li>Capability Maturity Assessment Tool</li>
+</ul>
+<p><strong>Chapter 4: Which technologies can support?</strong></p>
+<ul>
+<li>Technology Maturity Assessment Tool</li>
+</ul>
+<p><strong>Chapter 5: How to design the transformation journey?</strong></p>
+<ul>
+<li>Culture Gap Analysis Tool</li>
+<li>Ecosystem Partner Identification Tool</li>
+<li>Ecosystem Partner Identification</li>
+<li>Funding Requirement Analysis Tool</li>
+<li>Funding Requirement Analysis</li>
+<li>Roadmap Development Tool</li>
+<li>Roadmap Development</li>
+<li>Business Model Canvas Tool</li>
+</ul>
+6:["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Nordic Circular Economy Playbook"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$f"}}],["$","$L10",null,{"attachments":[]}]]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+d:[["$","title","0",{"children":"Sustainability Atlas"}],["$","meta","1",{"name":"description","content":"Tools and methods for sustainable entrepreneurship and innovation"}]]
+9:null

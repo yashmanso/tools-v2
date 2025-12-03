@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:T12ce,<hr>
+<h1>Overview</h1>
+<p>CircularStart is an initiative designed to empower startups with the knowledge and tools necessary to embed circular economy principles into their business models from inception. Supported by the EU's Erasmus+ program and involving partners from six European countries, CircularStart offers an online course with modules covering ideation, integration, validation, and implementation. The course content spans circular business models, life cycle assessment, eco-design, and sustainable finance. Additionally, the project provides a suite of tools and resources, including a circularity assessment tool, a sustainability canvas, and a circularity playbook. The Guidance Tool, central to the project, is a 10-step framework that aligns with Circular Economy Readiness Levels (CERLs), paralleling Technology and Market Readiness Levels (TRLs, MRLs) to guide startups through the process of integrating circularity into their business practices.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+CircularStart provides a comprehensive set of educational and practical tools aimed at integrating circular economy concepts into startup operations.</p>
+<ul>
+<li>Tags: #online-course, #tool, #toolkit, #framework, #canvas, #guide</li>
+</ul>
+<p><strong>Objective</strong>
+The primary goal of CircularStart is to educate and guide startups in adopting circular economy principles within their business models.</p>
+<ul>
+<li>Tags: #map, #assess, #align</li>
+</ul>
+<p><strong>Target Audience</strong>
+The resources are tailored for startups, incubators, and trainers who are focused on sustainability and circularity in business.</p>
+<ul>
+<li>Tags: #entrepreneurs, #educators, #startups, #practitioners</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+CircularStart emphasizes the transition to sustainable economic models through the adoption of circular economy practices.</p>
+<ul>
+<li>Tags: #environmental-sustainability, #economic-sustainability, #circular-economy</li>
+</ul>
+<p><strong>Innovation Type</strong>
+The project supports innovation in business models by integrating circular economy principles-</p>
+<ul>
+<li>Tags: #business-model-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+Resources are provided for various stages of startup development, from initial ideation to the implementation of circular business strategies. Although the suite is the most useful when applied in the earlier stages of the process</p>
+<ul>
+<li>Tags: #ideation, #design, #development, #implementation</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+There is no restriction or limitation about the scope. The principles and tools provided have global applicability for startups concerned with sustainability and impact of their activities.</p>
+<ul>
+<li>Tags: #global, #regional</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+CircularStart's framework and tools are based on a structured methodology that guides startups from understanding circularity to implementing specific strategies. These strategies may follow qualitative or quantitative approaches.</p>
+<ul>
+<li>Tags: #theoretical-frameworks, #experimental-design</li>
+</ul>
+<p><strong>Skill Development</strong>
+The project aims to develop a range of skills in startups, including systems thinking, environmental awareness, and innovative thinking.</p>
+<ul>
+<li>Tags: #systems-thinking, #environmental-awareness, #innovative-thinking, #business-and-financial-skills</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The resources are developed as part of an EU-funded program where several respected research institutes were a member of.</p>
+<ul>
+<li>Tags: #government-sources, #academic-institutions, #recognized-experts</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+The resources are designed to be accessible to a wide audience, with no specific prerequisites for most tools, although some may require a basic understanding of business and sustainability concepts.</p>
+<ul>
+<li>Tags: #none, #beginner-level, #intermediate-level</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+CircularStart encourages collaboration among startups, trainers, and consultants to foster a community of practice around circular economy principles. Using each tool ad resources is a function of the practices they espouse, therefore some can be performed individually and others would require their collective implimentation.</p>
+<ul>
+<li>Tags: #team, #community, #cross-sector-partnerships</li>
+</ul>
+<p>More information can be found at <a href="https://www.circularstart.eu/">Circular Start</a>as well as an editable excel [sheet](<a href="https://www.circularstart.eu/wp-content/uploads/2021/09/The-Circular-Start-Assessment-Tool_final.xlsx"><strong>go to the ASSESSMENT TOOL</strong></a>).</p>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"CircularStart"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","online-course",{"className":"tag","children":["#","online-course"]}],["$","span","tool",{"className":"tag","children":["#","tool"]}],["$","span","toolkit",{"className":"tag","children":["#","toolkit"]}],["$","span","framework",{"className":"tag","children":["#","framework"]}],["$","span","canvas",{"className":"tag","children":["#","canvas"]}],["$","span","guide",{"className":"tag","children":["#","guide"]}],["$","span","map",{"className":"tag","children":["#","map"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","align",{"className":"tag","children":["#","align"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","startups",{"className":"tag","children":["#","startups"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","environmental-sustainability",{"className":"tag","children":["#","environmental-sustainability"]}],["$","span","economic-sustainability",{"className":"tag","children":["#","economic-sustainability"]}],["$","span","circular-economy",{"className":"tag","children":["#","circular-economy"]}],["$","span","business-model-innovation",{"className":"tag","children":["#","business-model-innovation"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","development",{"className":"tag","children":["#","development"]}],["$","span","implementation",{"className":"tag","children":["#","implementation"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","regional",{"className":"tag","children":["#","regional"]}],["$","span","theoretical-frameworks",{"className":"tag","children":["#","theoretical-frameworks"]}],["$","span","experimental-design",{"className":"tag","children":["#","experimental-design"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","innovative-thinking",{"className":"tag","children":["#","innovative-thinking"]}],["$","span","business-and-financial-skills",{"className":"tag","children":["#","business-and-financial-skills"]}],["$","span","government-sources",{"className":"tag","children":["#","government-sources"]}],["$","span","academic-institutions",{"className":"tag","children":["#","academic-institutions"]}],["$","span","recognized-experts",{"className":"tag","children":["#","recognized-experts"]}],["$","span","none",{"className":"tag","children":["#","none"]}],["$","span","beginner-level",{"className":"tag","children":["#","beginner-level"]}],["$","span","intermediate-level",{"className":"tag","children":["#","intermediate-level"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","community",{"className":"tag","children":["#","community"]}],["$","span","cross-sector-partnerships",{"className":"tag","children":["#","cross-sector-partnerships"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"The-CircularStart-Guidance-Tool2 1.pdf","type":"pdf","url":"/attachments/The-CircularStart-Guidance-Tool2%201.pdf"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null

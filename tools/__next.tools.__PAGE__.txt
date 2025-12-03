@@ -1,0 +1,1662 @@
+1:"$Sreact.fragment"
+2:I[83701,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/cd5b1371f9caf8cd.js"],"SearchFilter"]
+21:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+22:"$Sreact.suspense"
+3:Te12,# Overview
+[Biomimicards game](https://circulab.academy/circular-economy-tools/biomimicards/) is an educational tool designed to introduce and explore the concept of biomimicry. It consists of a deck of cards, each featuring an illustration of a natural element and its corresponding technological innovation inspired by nature's strategies. The game aims to foster creativity and innovation by encouraging players to consider how natural solutions can address human challenges. It is suitable for a diverse audience, from students to professionals, and can be played individually or in groups. As part of the Circulab toolbox, Biomimicards also supports the transition towards a circular and regenerative economy.
+
+___
+# Dimensions
+
+**Resource Type**
+Biomimicards is an engaging and interactive tool designed to facilitate learning and ideation in relation to biomimicry and sustainability.
+- Tags: #tool, #game, #educational-material
+
+**Objective**
+The primary goal of Biomimicards is to educate and inspire new ideas by showcasing how nature's solutions can be translated into human innovation.
+- Tags: #educate, #inspire, #assess 
+
+**Target Audience**
+Biomimicards is versatile and can be utilized by a range of users, from educational institutions to businesses. However, it must be seen as an educational aid that looks in raising awareness.
+- Tags: #students, #educators, #entrepreneurs, #practitioners, #designers, #educators 
+
+**Sustainability Focus**
+This game emphasizes the environmental aspect of sustainability by demonstrating how natural mechanisms can lead to sustainable technological advancements.
+- Tags: #environmental-sustainability, #circular-economy
+
+**Innovation Type**
+Biomimicards is not explicitly framed as aid to innovation but it can support innovation by providing examples of nature-inspired solutions that can be applied to product and process development.
+- Tags: #product-innovation, #process-innovation
+
+**Entrepreneurship Stage**
+The game is particularly useful in the early stages of entrepreneurship, where ideation and design will have lasting impact.
+- Tags: #ideation, #design
+
+**Scope of Relevance**
+While Biomimicards has a global relevance due to the universal nature of biomimicry, it may be more useful in relation to issues of local and global relevance, separately.
+- Tags: #global, #local 
+
+**Methodological Approach**
+Biomimicards provides declarative knowledge and encourages a qualitative approach to learning and problem-solving by stimulating discussion and reflection on natural phenomena and their applications.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+Playing the game can enhance a variety of skills, primarily systems thinking, and environmental awareness.
+- Tags: #systems-thinking, #environmental-awareness, #innovative-thinking
+
+**Source and Credibility**
+As part of circular academy initiative, Biomimicards is designed by an independent design studio and strategy consulting, specializing in biomimicry and circular economy.
+- Tags: #reputable-industry-sources, #practice
+
+**Prerequisites and Requirements**
+Biomimicards is designed to be accessible to all, requiring no specific prior knowledge or skills, making it an inclusive educational tool.
+- Tags: #none
+
+**Collaboration Level**
+The game can be played individually or in groups, promoting both personal learning and collaborative brainstorming.
+- Tags: #individual, #team, #community
+
+More information can be found at [Circulab Academy](https://circulab.academy/circular-economy-tools/biomimicards/)
+___
+# Resources
+
+![[Biomimicards-EN.pdf]]4:Tea2,# Overview
+[The Biomimicry Design Spiral ](https://biomimicry.org/biomimicry-design-spiral/)is an innovative framework developed by Carl Hastrich in 2005, which integrates nature's strategies into the design process to address complex challenges. This structured approach consists of six iterative steps: Define, Biologize, Discover, Abstract, Emulate, and Evaluate. It encourages designers to draw inspiration from biological systems and apply these insights to create sustainable solutions. By utilizing this framework, designers and innovators can develop products and systems that are in harmony with the natural world, contributing to a more sustainable human civilization.
+
+___
+# Dimensions
+
+**Resource Type**
+The Biomimicry Design Spiral is a step-by-step methodological framework that guides the design process, making it a valuable educational and practical tool for sustainable innovation.
+- Tags: #framework, #method
+
+**Objective**
+The primary goal of the Biomimicry Design Spiral is to align design solutions with nature's principles, turning nature’s strategies into innovative and sustainable design solutions.
+- Tags: #align, #assess
+
+**Target Audience**
+This resource is particularly useful for entrepreneurs, researchers, and educators, but mainly designed for designers and design workers.
+- Tags: #entrepreneurs, #researchers, #educators, #designers 
+
+**Sustainability Focus**:
+The Biomimicry Design Spiral primarily focuses on environmental sustainability by seeking inspiration from nature's time-tested strategies, but also strides into socially related aspects of sustainability.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+The framework is agnostic of the type of innovation so in principle can support various types of innovation, particularly in product and process design, by emulating biological principles.
+- Tags: #product-innovation, #process-innovation
+
+**Entrepreneurship Stage**
+This resource is applicable across multiple stages of entrepreneurship, from initial ideation to the implementation of sustainable solutions. But it appears that similar to other tools, the earlier it is used, a wider space of action will be available to choose.
+- Tags: #ideation, #design, #implementation
+
+**Scope of Relevance**
+The Biomimicry Design Spiral dose not discriminate between local or global.
+- Tags: #none
+
+**Methodological Approach**
+The Biomimicry Design Spiral is a structured, iterative approach that combines both theoretical frameworks and practical application. In essence, it follows the methodology of the task it assists.
+- Tags: #theoretical-frameworks, #experimental-design
+
+**Skill Development**
+Utilizing this resource can enhance skills in systems thinking, creativity and design, and environmental awareness.
+- Tags: #systems-thinking, #creativity-and-design, #environmental-awareness
+
+**Source and Credibility**
+Developed by an industrial designer and widely recognized in the field of sustainable design and is promoted by the Biomimicry institute.
+- Tags: #recognized-experts, #practitioners 
+
+**Prerequisites and Requirements**
+To effectively use the Biomimicry Design Spiral, users should have a basic understanding of design principles and a basic command of sustainability.
+- Tags: #beginner-level
+
+**Collaboration Level**
+The Biomimicry Design Spiral encourages collaboration, as it often requires interdisciplinary teams to emulate complex natural systems.
+- Tags: #team, #cross-sector-partnerships, #cross-team-collaboration 
+
+More information can be found at [Biomimicry Institute](https://biomimicry.org/biomimicry-design-spiral/).
+
+___
+# Resources
+
+![[Pasted image 20240130152947.png]]
+![[Design.Spiral-Diagram_10.17.pdf]]5:Te08,# Overview
+The Cambridge value mapping tool uses a methodical and visual strategy to pinpoint instances of 'value uncapture,' specifically focusing on unsuccessful value exchanges, encompassing missed, depleted, surplus, and absent values. The assessment of value exchange is conducted by considering the perspective of every stakeholder within the business network, ensuring that both the natural environment and the society are acknowledged as distinct voices with their respective stakes in the business.
+
+___
+# Dimensions
+
+**Resource Type**
+The Cambridge Value Mapping Tool is a practical instrument that aids in the visualization and analysis of value streams within a business context.
+- Tags: #tool, #framework, #step-by-step
+
+**Objective**
+This tool aims to map out and identify areas of value creation, missed opportunities, and potential for sustainable growth within a company.
+- Tags: #map, #assess 
+
+**Target Audience**
+The tool is designed for a diverse audience, including those involved in business strategy and sustainability, making it suitable for a range of users from different sectors.
+- Tags: #entrepreneurs, #researchers, #educators, #practitioners, #students, #corporations
+
+**Sustainability Focus**
+With its emphasis on environmental, social, and economic aspects, the tool directly addresses the three pillars of sustainability.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+The tool supports innovation in business models by encouraging users to consider new ways of creating value that are sustainable and beneficial to all stakeholders.
+- Tags: #business-model-innovation, #social-innovation
+
+**Entrepreneurship Stage**
+It is applicable across various stages of entrepreneurship, particularly useful during the design and implementation phases where sustainable value creation is critical.
+- Tags: #design, #implementation, #growth
+
+**Scope of Relevance**
+While the tool can be applied globally, it can be more or less relevant depending on the size and spread of the value chain and business.
+- Tags: #global, #national, #regional, #local
+
+**Methodological Approach**
+The tool employs a structured, step-by-step, and visual process that is both analytical and participatory, aligning with a mixed-methods approach.
+- Tags: #mixed-methods, #theoretical-frameworks
+
+**Skill Development**
+Users of the tool can expect to enhance their skills in systems thinking, holistic analysis, and sustainable strategy formulation.
+- Tags: #systems-thinking, #holistic-thinking, #business-and-financial-skills, #value-analysis
+
+**Source and Credibility**
+Originating from a reputable academic institution and having gone through five years of visual and conceptual iterations, the tool has been used in academic context and applied in industry workshops.
+- Tags: #academic-institutions, #recognized-experts, #research-based
+
+**Prerequisites and Requirements**
+The tool is designed to be accessible to a wide audience, with no specific prerequisites needed for its basic application.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+The tool can be used individually and in collaborative settings. The tool encourages collaboration around it across departments and functions within an organization.
+- Tags: #individual, #team, #community
+
+More information can be found at [The Cambridge Institute for Manufacturing (IfM)](https://www.ifm.eng.cam.ac.uk/research/industrial-sustainability/sustainable-business-models/tools/cambridge-value-mapping-tool/).
+
+___
+# Resources
+
+![[Pasted image 20240130162628.png]]6:Tec6,# Overview
+Circular Business Model Planning Tool is designed to guide companies in integrating circular economy principles into their business models throughout the product life cycle. It emphasizes the importance of maintaining the value embedded in products for as long as possible by focusing on strategies such as design for longevity, repair, refurbishment, remanufacturing, and material recovery. The tool aims to help businesses plan and analyze their business model elements at various life cycle stages, recognize interdependencies, and identify opportunities to capture residual value and increase resource efficiency. It is particularly useful for companies looking to implement circular strategies.
+
+___
+# Dimensions
+
+**Resource Type**
+Circular Business Model Planning Tool and the associate guide serve to integrates business model planning with circular economy principles.
+- Tags: #tool, #framework, #guide , #canvas 
+
+**Objective**
+The primary goal of this resource is to map out and align business strategies with circular economy concepts, ensuring long-term value creation and resource efficiency.
+- Tags: #map, #align, #assess 
+
+**Target Audience**
+This resource is tailored to entrepreneurs and students but also directly relevant for practitioners and larger corporations too.
+- Tags: #entrepreneurs, #SMEs, #corporations, #practitioners, #students 
+
+**Sustainability Focus**
+The resource is centered on environmental sustainability, specifically on maintaining a closed-loop system for products and materials to minimize waste.
+- Tags: #environmental-sustainability, #circular-economy
+
+**Innovation Type**
+It supports business model innovation by encouraging companies to rethink and redesign their approach to product life cycles and value creation.
+- Tags: #business-model-innovation
+
+**Entrepreneurship Stage**
+The resource is relevant across various stages of entrepreneurship, from the initial design phase to the maturity and scaling of operations.
+- Tags: #design, #development, #implementation, #growth, #scale-up
+
+**Scope of Relevance**
+While the principles can be applied globally, the resource is particularly relevant for businesses operating in regions with strong circular economy policies and frameworks.
+- Tags: #global, #regional
+
+**Methodological Approach**
+The resource is based on a strategic and analytical approach that draws on principles of circular economy and business model innovation.
+- Tags: #theoretical-frameworks, #strategic-planning
+
+**Skill Development**
+It aims to enhance skills in systems thinking, innovation, and environmental awareness, which are crucial for implementing sustainable business models.
+- Tags: #systems-thinking, #innovative-thinking, #environmental-awareness, #holistic-thinking 
+
+**Source and Credibility**
+The resource is developed with a strong foundation in sustainable entrepreneurship research by researchers at Lund University in Sweden.
+- Tags: #academic-institutions, #recognized-experts
+
+**Prerequisites and Requirements**
+While no specific prerequisites are envisioned, users should have a basic understanding of business models and sustainability concepts to effectively utilize this resource.
+- Tags: #beginner-level, #specific-educational-background
+
+**Collaboration Level**
+While using the tool can be done individually and in teams, collaborating across teams in the organization as well as beyond its boundaries can improve the relevance of the outcomes.
+- Tags: #team, #individual  #cross-sector-partnerships, #cross-team-collaboration 
+
+More information can be found at [Lund University repository](https://lucris.lub.lu.se/ws/portalfiles/portal/71404598/CBM_Planning_Tool_Guide_Class.pdf).
+
+___
+# Resources
+
+![[Pasted image 20240130163957.png]]
+![[CBM_Planning_Tool_Guide_Class.pdf]]7:Tf41,# Overview
+
+[The Circular Canvas for business models](https://circulab.academy/circular-economy-tools/circular-canvas-business-models/) is a tool developed by Circulab and is aimed at assisting organizations in transitioning towards more sustainable business models. It encourages the adoption of systems thinking and strives to harmonize economic viability with environmental and social sustainability. The tool serves as a platform for mapping out projects, recognizing their impacts, and fostering stakeholder interactions to devise sustainable solutions. It is part of a broader design process that includes complementary tools like the Partner Map and Value Chain Canvas. The Circular Canvas is multilingual and supports the design of business models that adhere to circular economy principles, enabling organizations to identify and anticipate the impacts of their business models, products, or activities, and to innovate accordingly.
+
+___
+# Dimensions
+
+**Resource Type**
+The Circular Canvas is a strategic canvas that facilitates the visualization and design of sustainable business models. 
+- Tags: #tool, #canvas, #framework
+
+**Objective**
+This canvas is primarily used to map out and assess the sustainability of business models and projects.
+- Tags: #map, #assess
+
+**Target Audience**
+The Circular Canvas is intended for a wide range of users who are involved in creating or transforming business models with sustainability in mind.
+- Tags: #entrepreneurs, #researchers, #students, #policy-makers, #educators, #practitioners, #startups, #SMEs, #corporations
+
+**Sustainability Focus**
+The tool emphasizes a balanced approach to sustainability, covering environmental, social, and economic dimensions, with a particular focus on circular economy.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #circular-economy
+
+**Innovation Type**
+It supports innovation across various domains, particularly explicit in its primary support for developing new or adapting existing business models that are environmentally and socially responsible.
+- Tags: #business-model-innovation
+
+**Entrepreneurship Stage**
+The Circular Canvas is versatile and can be applied at different stages of entrepreneurship, from initial concept development to the scaling of sustainable solutions.
+- Tags: #ideation, #design, #development, #implementation, #startup, #growth
+
+**Scope of Relevance**
+There is no explicit mention of scope, so it can be assuemd that the relevance can be local, regional, or global.
+- Tags: #global, #regional, #national
+
+**Methodological Approach**
+The Circular Canvas promotes a systems-thinking approach, encouraging holistic understanding and design of sustainable business models.
+- Tags: #systems-thinking, #holistic-thinking
+
+**Skill Development**
+Users of the Circular Canvas will enhance their skills in systems thinking, sustainability assessment, and innovative design.
+- Tags: #systems-thinking, #environmental-awareness, #innovative-thinking, #business-and-financial-skills
+
+**Source and Credibility**
+Circulab, the creator of the Circular Canvas, is recognized for its expertise in the field of circular economy and sustainable business design.
+- Tags: #recognized-experts, #practice
+
+**Prerequisites and Requirements**
+The tool is designed to be accessible to a wide audience, with no specific prerequisites required for its effective use. However, basic knowledge of business models is desired.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+The Circular Canvas encourages collaboration among various stakeholders to develop a better understanding of how one should act to be more sustainable .
+- Tags: #team, #community, #cross-sector-partnerships
+
+More information can be found at [Circulab Academy](https://circulab.academy/circular-economy-tools/circular-canvas-business-models/).
+
+---
+# Resources
+
+![[English-CircularCanvas.pdf]]8:Tdd5,# Overview
+The [Circular Design Toolkit](https://circulab.academy/circular-economy-tools/circular-design-toolkit/) is a collection of tools that helps to integrate the principles of the Circular Economy into projects and business practices. It serves as a comprehensive guide to understanding the systemic connections between design and ecosystem regeneration. By leveraging this toolkit, users can learn about circular design, initiate the incorporation of Circular Economy concepts into their endeavors, and ultimately transform their organizational approach. The toolkit is designed to facilitate the grasp of Circular Economy and Circular Design fundamentals to enable users to undertake meaningful actions that are regenerative by design.
+
+___
+# Dimensions
+
+**Resource Type**
+This toolkit is a practical compilation of information and strategies to apply circular design principles.
+- Tags: #toolkit, #framework, #method, #compendium
+
+**Objective**
+The toolkit aims to educate and guide users in creating regenerative projects that align with sustainable goals.
+- Tags: #align
+
+**Target Audience**
+Given its educational nature and practical applications, the toolkit is suitable for a wide range of individuals and organizations interested in sustainability.
+- Tags: #entrepreneurs, #researchers, #students, #educators, #practitioners, #startups, #SMEs, #corporations
+
+**Sustainability Focus**
+The toolkit primarily addresses environmental sustainability by promoting circular design practices that lead to reduced environmental impact.
+- Tags: #environmental-sustainability, #environmental-impact, #circular-economy
+
+**Innovation Type**
+It supports innovation in product and business model design by providing tools to rethink and redesign products and services for a circular economy.
+- Tags: #product-innovation, #business-model-innovation
+
+**Entrepreneurship Stage**
+The toolkit is relevant for various stages of entrepreneurship, especially during the ideation and design phases where sustainability can be deeply integrated.
+- Tags: #ideation, #design, #development
+
+**Scope of Relevance**
+While the toolkit can be applied globally, it may be particularly relevant to regions actively pursuing circular economy initiatives.
+- Tags: #none 
+
+**Methodological Approach**
+The toolkit encourages a systems-thinking approach, considering the interconnectedness of products, services, and ecosystems. In this way both qualitative and quantitative approaches are relevant.
+- Tags: #qualitative, #quantitative 
+
+**Skill Development**
+Users of the toolkit will enhance their understanding of circular design and develop skills in sustainability, innovation, and systems thinking.
+- Tags: #creativity-and-design, #systems-thinking, #environmental-awareness, #innovative-thinking
+
+**Source and Credibility**
+Circulab, the creator of the Circular Canvas, is recognized for its expertise in the field of circular economy and sustainable business design.
+- Tags: #recognized-experts, #practice
+
+**Prerequisites and Requirements**
+The toolkit is likely accessible to a wide audience, with no specific prerequisites to begin learning and applying its principles.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+Circular design often requires collaboration across different sectors, and this toolkit may facilitate such teamwork.
+- Tags: #team, #cross-team-collaboration 
+
+More information can be found at [Circulab Academy](https://circulab.academy/circular-economy-tools/circular-design-toolkit/).
+
+___
+# Resources
+
+![[UserGuide-ENG.pdf]]9:T1107,# Overview
+CircularStart is an initiative designed to empower startups with the knowledge and tools necessary to embed circular economy principles into their business models from inception. Supported by the EU's Erasmus+ program and involving partners from six European countries, CircularStart offers an online course with modules covering ideation, integration, validation, and implementation. The course content spans circular business models, life cycle assessment, eco-design, and sustainable finance. Additionally, the project provides a suite of tools and resources, including a circularity assessment tool, a sustainability canvas, and a circularity playbook. The Guidance Tool, central to the project, is a 10-step framework that aligns with Circular Economy Readiness Levels (CERLs), paralleling Technology and Market Readiness Levels (TRLs, MRLs) to guide startups through the process of integrating circularity into their business practices.
+
+___
+# Dimensions
+
+**Resource Type**
+CircularStart provides a comprehensive set of educational and practical tools aimed at integrating circular economy concepts into startup operations.
+- Tags: #online-course, #tool, #toolkit, #framework, #canvas, #guide
+
+**Objective**
+The primary goal of CircularStart is to educate and guide startups in adopting circular economy principles within their business models.
+- Tags: #map, #assess, #align
+
+**Target Audience**
+The resources are tailored for startups, incubators, and trainers who are focused on sustainability and circularity in business.
+- Tags: #entrepreneurs, #educators, #startups, #practitioners
+
+**Sustainability Focus**
+CircularStart emphasizes the transition to sustainable economic models through the adoption of circular economy practices.
+- Tags: #environmental-sustainability, #economic-sustainability, #circular-economy
+
+**Innovation Type**
+The project supports innovation in business models by integrating circular economy principles-
+- Tags: #business-model-innovation
+
+**Entrepreneurship Stage**
+Resources are provided for various stages of startup development, from initial ideation to the implementation of circular business strategies. Although the suite is the most useful when applied in the earlier stages of the process
+- Tags: #ideation, #design, #development, #implementation
+
+**Scope of Relevance**
+There is no restriction or limitation about the scope. The principles and tools provided have global applicability for startups concerned with sustainability and impact of their activities.
+- Tags: #global, #regional
+
+**Methodological Approach**
+CircularStart's framework and tools are based on a structured methodology that guides startups from understanding circularity to implementing specific strategies. These strategies may follow qualitative or quantitative approaches.
+- Tags: #theoretical-frameworks, #experimental-design
+
+**Skill Development**
+The project aims to develop a range of skills in startups, including systems thinking, environmental awareness, and innovative thinking.
+- Tags: #systems-thinking, #environmental-awareness, #innovative-thinking, #business-and-financial-skills
+
+**Source and Credibility**
+The resources are developed as part of an EU-funded program where several respected research institutes were a member of.
+- Tags: #government-sources, #academic-institutions, #recognized-experts
+
+**Prerequisites and Requirements**
+The resources are designed to be accessible to a wide audience, with no specific prerequisites for most tools, although some may require a basic understanding of business and sustainability concepts.
+- Tags: #none, #beginner-level, #intermediate-level
+
+**Collaboration Level**
+CircularStart encourages collaboration among startups, trainers, and consultants to foster a community of practice around circular economy principles. Using each tool ad resources is a function of the practices they espouse, therefore some can be performed individually and others would require their collective implimentation.
+- Tags: #team, #community, #cross-sector-partnerships
+
+More information can be found at [Circular Start](https://www.circularstart.eu/)as well as an editable excel [sheet]([**go to the ASSESSMENT TOOL**](https://www.circularstart.eu/wp-content/uploads/2021/09/The-Circular-Start-Assessment-Tool_final.xlsx)).
+
+___
+# Resources
+
+![[The-CircularStart-Guidance-Tool2 1.pdf]]a:Tf56,# Overview
+The [Okala Ecodesign Strategy Wheel ](http://www.okala.net/Okala%20Ecodesign%20Strategy%20Guide%202012.pdf) is an innovative tool designed to assist designers and system developers in reducing the ecological impact of products, services, or systems throughout their life cycle. It clusters ecodesign strategies according to different stages of the product life cycle, serving as a brainstorming aid to uncover new areas for sustainable development. This tool is a modification of the original wheel by [Brezet and van Hemel (1997)](https://www.researchgate.net/publication/258630081_Application_of_ecodesign_strategies_amongst_Australian_industrial_design_consultancies/figures?lo=1) and is part of the Okala Practitioner Guide. It requires an assessment to measure product system impacts for ecological effectiveness. The Okala Ecodesign Strategy Wheel, along with complementary tools such as the Ecodesign Matrix and D4S Strategic Wheel Analysis, guides businesses to adopt environmentally conscious manufacturing strategies.
+
+___
+# Dimensions
+
+**Resource Type**
+The Okala Ecodesign Strategy Wheel is a practical tool that aids in the sustainable design process.
+- Tags: #tool, #framework
+
+**Objective**
+This resource is aimed at aligning design strategies with sustainable goals and assessing their ecological impact.
+- Tags: #align, #assess, #coordinate
+
+**Target Audience**
+The wheel is intended for a variety of users who are involved in the design and development of sustainable products and systems in a way that reduces the material use.
+- Tags: #designers, #practitioners, #educators, #SMEs, #corporations
+
+**Sustainability Focus**
+The primary focus of this resource is on environmental sustainability, but it also touches on the social and economic aspects as they are interconnected in the product life cycle.
+- Tags: #environmental-sustainability #environmental-impact
+
+**Innovation Type**
+It supports innovation in product design by providing a structured approach to incorporating sustainability.
+- Tags: #product-innovation, #process-innovation
+
+**Entrepreneurship Stage**
+The tool is relevant across various stages of entrepreneurship, especially during the design and development phases where sustainable practices can be integrated but also the life cycle of a product in its entirety.
+- Tags: #ideation, #design, #development
+
+**Scope of Relevance**
+While the tool can be applied globally, it may be particularly relevant to regions with strong sustainability regulations or initiatives.
+- Tags: #global, #regional
+
+**Methodological Approach**
+The Okala Ecodesign Strategy Wheel is based on a strategic and systematic approach to design, incorporating life-cycle thinking and system thinking.
+- Tags: #theoretical-frameworks
+
+**Skill Development**
+Using this tool can enhance skills in sustainable design, systems thinking, and environmental awareness.
+- Tags: #creativity-and-design, #systems-thinking, #environmental-awareness
+
+**Source and Credibility**
+The Okala ecodesign strategy wheel was developed by recognized experts in ecodesign which ensure a certain degree of credibility.
+- Tags: #academic-institutions, #recognized-experts, #practice 
+
+**Prerequisites and Requirements**
+The tool is accessible to a wide range of users, bur requires some basic knowledge about ecodesign principle and strategies.
+- Tags: #beginner-level
+
+**Collaboration Level**
+The tool can be used individually or in team settings, facilitating cross-team collaborative efforts in sustainable design.
+- Tags: #individual, #team, #cross-team-collaboration
+
+More information can be found at [Okala Practitioner](http://www.okala.net/downloadapp.html).
+A playbook where this tool together with several others are included can be found at [PLAYBOOK - PermissionToPlay](https://www.permissiontoplay.co/playbook/).
+
+___
+# Resources
+
+![[Okala Ecodesign Strategy Guide 2012.pdf]]
+
+![[PermissionToPlay Playbook V02.pdf]]b:T1030,# Overview
+[The Flourishing Business Canvas ](https://flourishingbusiness.org/)is a tool designed to aid in the creation of sustainable business models. It extends the traditional Business Model Canvas by incorporating considerations of social, environmental, and economic interdependencies. This tool facilitates a systemic approach to business modeling, ensuring that enterprises do not overlook material risks and opportunities that arise from their broader context. It encourages a humanistic approach, steering clear of exploitative mindsets, and is compatible with existing business modeling tools. The Flourishing Business Canvas is suitable for entrepreneurs and businesses aiming to align their strategies with sustainable development goals while focusing on innovation, strategic discussions, and effective collaboration.
+
+___
+# Dimensions
+
+**Resource Type**
+The Flourishing Business Canvas is a visual and collaborative canvas that serves as a framework for designing and understanding business models with a holistic sustainable perspective.
+- Tags: #tool, #framework, #canvas
+
+**Objective**
+This resource aims to enable the design and improvement of business models that are sustainable and considerate of the organization's impact on society and the environment.
+- Tags: #design, #align, #improve
+
+**Target Audience**
+The Flourishing Business Canvas is intended for a wide range of stakeholders, including entrepreneurs, educators, and practitioners, who are involved in creating or transforming business models with sustainability in mind.
+- Tags: #entrepreneurs, #educators, #practitioners, #startups, #SMEs, #corporations
+
+**Sustainability Focus**
+The tool emphasizes the integration of environmental regeneration, social benefits, and financial viability into business models, addressing all three pillars of sustainability.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+By fostering a systemic view of business models, the Flourishing Business Canvas can support various types of innovation, particularly in business models and processes.
+- Tags: #business-model-innovation, #process-innovation
+
+**Entrepreneurship Stage**
+The Canvas is suitable for use at various stages of entrepreneurship, from the initial ideation and design to the development and implementation of sustainable business practices. Similar to other tools, the benefits can be gained more when applied earlier in the life cycle of the organization.
+- Tags: #ideation, #design, #development, #implementation
+
+**Scope of Relevance**
+While the tool can be applied universally, it is especially relevant to businesses that are conscious of their role in a global context.
+- Tags: #global, #regional, #national
+
+**Methodological Approach**
+The Flourishing Business Canvas promotes a collaborative and systemic methodological approach to business modeling by taking into qualitative and quantitative data.
+- Tags: #systems-thinking, #collaborative-approach, #qualitative , #qualitative , #mixed-methods 
+
+**Skill Development**
+Utilizing this tool can enhance skills in systems thinking, holistic design, and strategic collaboration.
+- Tags: #systems-thinking, #holistic-thinking, #collaboration-and-networking, #strategic-thinking
+
+**Source and Credibility**
+The resource is the result of extensive research and testing and linked to EU Climate KIC.
+- Tags: #research, #recognized-experts
+
+**Prerequisites and Requirements**
+The Canvas is designed to be accessible, with no specific prerequisites required although basic understanding of business and sustainability is desired.
+- Tags: #none
+
+**Collaboration Level**
+The Flourishing Business Canvas encourages teamwork and stakeholder engagement, making it an excellent tool for collaborative business design.
+- Tags: #team, #community, #cross-team-collaboration 
+
+More information can be found at [Flourishing Business](https://flourishingbusiness.org/download-flourishing-business-canvas/).
+
+___
+# Resources
+![[Flourishing-Business-Canvas-v2.1-with-help-Poster-72x48-1.pdf]]
+![[Flourishing-Business-Canvas-v2.1-Interactive-Detailed-Guide-v3.pdf]]c:T1230,# Overview
+The Future-Fit Business Benchmark is an online tool consisting of principles, goals, indicators and guides. The approach is based on a solid, principles-driven definition of an ideal society for the future: a society where waste is eliminated, individuals have the chance and capability to lead fulfilling lives, renewable energy is accessible to everyone, and so forth. The set of 23 Break-Even Goals operationalize these principles by establishing minimum performance benchmarks that every business should aim to achieve. Furthermore, the 24 Positive Pursuits encompass the comprehensive spectrum of outcomes a business can contribute to accelerate societal progress. The Break-Even Goals come with a set of progress indicators, each quantified as a percentage. These indicators are crafted to assist businesses in recognizing risks, establishing interim targets, prioritizing actions, anticipating trade-offs, and monitoring progress..
+
+___
+# Dimensions
+
+**Resource Type**
+This is a method developed to help companies identify and asses their impact within governance, planet, people and prosperity.
+- Tags: #framework, #method, #online 
+
+**Objective**
+This resource is aimed at guiding businesses to align their strategies with sustainable and equitable practices in line with the SDGs.
+- Tags: #align, #assess
+
+**Target Audience**
+The benchmark is designed for a wide array of users who are involved in or interested in sustainable business practices.
+- Tags: #entrepreneurs, #researchers, #policy-makers, #investors, #educators, #practitioners, #startups, #SMEs, #corporations
+
+**Sustainability Focus**
+The Future-Fit Business Benchmark focuses on a holistic and comprehensive approach to sustainability. The benchmark emphasizes a range of sustainability dimensions to guide businesses toward becoming truly sustainable and contributing positively to society and the environment.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #environmental-impact, #social-impact, #governance, #CSR, #SDGs
+
+**Innovation Type**
+While it is not directly linked to providing support for innovation, it can provide insights to many aspects related to innovation from new products and processes to business models and social change.
+- Tags: #product-innovation, #process-innovation, #business-model-innovation, #social-innovation
+
+**Entrepreneurship Stage**
+The benchmark is relevant for businesses at various stages, from initial concept to growth and maturity, although the benchmark is more relevant for existing organizations.
+- Tags: #ideation, #design, #development, #implementation, #startup, #growth, #scale-up, #maturity
+
+**Scope of Relevance**
+Its principles are universally applicable, making it relevant for businesses operating at any scale or location.
+- Tags: #global, #regional, #national, #local
+
+**Methodological Approach**
+The benchmark is grounded in a principles-based approach, ensuring robust and comprehensive guidance. Depending on the aspect that it guides, there may be need for qualitative or quantitative approaches.
+- Tags: #theoretical-frameworks
+
+**Skill Development**
+Adopting the benchmark can enhance a range of competencies crucial for sustainable entrepreneurship. This is because it aims to attend to all 17 SDGs.
+- Tags: #leadership-and-management, #systems-thinking, #holistic-thinking, #environmental-awareness, #innovative-thinking, #adaptability-and-resilience, #business-and-financial-skills, #collaboration-and-networking, #data-analysis-and-metrics
+
+**Source and Credibility**
+The benchmark is developed through a multi-stakeholder process that involves collaboration with experts, stakeholders, and organizations in the field of sustainability. The development process includes input from academia, industry professionals, and other relevant parties.
+- Tags: #peer-reviewed-publications, #reputable-industry-sources, #academic-institutions, #recognized-experts, #practice, #research
+
+**Prerequisites and Requirements**
+While accessible to all, the benchmark is best utilized by those with some foundational knowledge in business and sustainability.
+- Tags: #intermediate-level
+
+**Collaboration Level**
+The benchmark encourages collaboration among various stakeholders to achieve sustainability goals.
+- Tags: #team, #community, #cross-sector-partnerships
+
+More information can be found at [Future-Fit Business](https://futurefitbusiness.org/explore-the-benchmark-and-key-concepts/). A complete guide why and how to use the benchmark is accessible at [Future‑Fit Business Benchmark](https://benchmark.futurefitbusiness.org/mg.html)
+
+___
+# Resources
+
+![[Namnlöst.jpg]]d:T14db,# Overview
+[The Impact Compass](https://www.gsb.stanford.edu/experience/about/centers-institutes/csi/impact-compass) is an analytical tool created by the Center for Social Innovation at Stanford University, designed to help individuals and organizations evaluate and maximize their social impact. It focuses on six key dimensions: value to society, environmental and social governance, mission alignment, scalability, impact magnitude, and efficacy. This tool is particularly useful for decision-making processes where the goal is to determine the most effective allocation of resources towards activities that generate positive social outcomes. The idea is to conform to three main principles: no proven failure, no negative societal outcome, and no unethical behavior. These three main principles are called the Three Big No’s. The goal for organizations is to clear the Three Big No’s and they maximize their impact by working with the six dimensions, each contributing to the overall evaluation of an entity’s impact potential.
+
+___
+# Dimensions
+
+**Resource Type**
+The Impact Compass is a strategic tool that provides a framework for assessing social impact. It draws on existing research methodologies, impact measurement practices, and insights from experts to create a framework that can be practically used to evaluate the social impact of different interventions.
+- Tags: #tool, #framework
+
+**Objective**
+The primary goal of the Impact Compass is to assess and maximize social impact, making it a resource for strategic alignment and evaluation.
+- Tags: #assess, #align
+
+**Target Audience**
+This tool is designed for a wide range of users, including entrepreneurs, investors, and policy-makers, who are interested in understanding and enhancing the social impact of their decisions.
+- Tags: #entrepreneurs, #investors, #policy-makers, #general-public 
+
+**Sustainability Focus**
+The Impact Compass inherently addresses social sustainability by evaluating the social impact of organizations and programs, but it can also be applied to environmental and economic sustainability considerations.
+- Tags: #social-sustainability, #environmental-sustainability, #economic-sustainability
+
+**Innovation Type**
+While the tool explicitly aims to support social innovation by helping organizations to measure and understand the social change they aim to achieve, it can be a good support for other types of innovation that take into account concern related to social impact.
+- Tags: #social-innovation
+
+**Entrepreneurship Stage**
+The Impact Compass is applicable across various stages of entrepreneurship, from ideation to maturity, as it helps to gauge the ongoing social impact.
+- Tags: #ideation, #development, #implementation, #startup, #growth, #scale-up, #maturity
+
+**Scope of Relevance**
+While the tool can be used in diverse contexts, it is particularly relevant to global and national organizations that aim to assess their impact across different regions. According to the white paper it is particularly relevant for addressing local, national, and especially rural sustainability challenges,
+- Tags: #global, #national, #regional 
+
+**Methodological Approach**
+The Impact Compass is based on a theoretical framework that draws from extensive literature and expert insights in the field of social innovation. The six dimensions are multiplied together, rather than simply added up, to obtain an impact potential score, which represents the interactive power of each dimension on one another.
+- Tags: #theoretical-frameworks, #quantitative
+
+**Skill Development**
+Using the Impact Compass effectively may enhance skills in systems thinking, holistic thinking, and adaptability and resilience, as it requires a comprehensive understanding of an organization's impact within its context.
+- Tags: #systems-thinking, #holistic-thinking, #adaptability-and-resilience, #social-awareness
+
+**Source and Credibility**
+The tool is developed by a reputable academic institution and is grounded in scholarly research, making it a credible resource for assessing impact.
+- Tags: #academic-institutions, #recognized-experts, #research
+
+**Prerequisites and Requirements**
+To utilize the Impact Compass effectively, users should have an intermediate understanding of impact assessment and social innovation concepts and a good understanding of how the six dimensions can be diligently graded.
+- Tags: #intermediate-level
+
+**Collaboration Level**
+The tool can be used by individuals or teams within organizations to collaboratively assess and plan for social impact. But for meaningful outcomes, the tool suggests a cross-functional team effort that ideally also seeks input from the targeted community itself. This makes collaboration across disciplines, departments, and among diverse stakeholders essential.
+- Tags: #individual, #team,  #cross-team-collaboration 
+
+More information can be found at [Impact Compass | Stanford Graduate School of Business](https://www.gsb.stanford.edu/experience/about/centers-institutes/csi/impact-compass) with an interactive compass tool. A [webinar](https://www.gsb.stanford.edu/sites/gsb/files/video-impact-compass-2017.mp4) and a [video guide](https://www.youtube.com/watch?v=XymlGjUaJJw&t=5s) are also provided.
+
+___
+# Resources
+
+![[Pasted image 20240205113501.png]]
+
+![[whitepaper-csi-impact-compass.pdf]]e:Teaa,# Overview
+The Impact Gaps Canvas is a framework used by organizations to analyze their impact by identifying gaps between their current impact and their desired impact. The canvas is designed to encourage systems thinking and holistic understanding of impact, helping organizations identify root causes of issues and develop actionable solutions. It consists of questions to understand challenges, map solutions, and visualize impact gaps, making it a valuable resource for teams aiming to align their sustainability goals and collaborate effectively.
+
+___
+# Dimensions
+
+**Resource Type**
+The Impact Gaps Canvas is a structured framework that enables users to map out and address the complexities of social challenges by bridging the solution and challenges.
+- Tags: #tool, #framework, #canvas
+
+**Objective**
+The framework facilitates organizations' efforts in identifying and addressing disparities between their current impact and desired outcomes, fostering strategic alignment with sustainable objectives.
+- Tags: #map, #assess
+
+**Target Audience**
+The canvas is designed for a diverse group of individuals and organizations that are involved in creating social change, including those in academia and social entrepreneurship.
+- Tags: #entrepreneurs, #researchers, #students, #educators, #nonprofits, #startups
+
+**Sustainability Focus**
+By addressing social problems through a systems-led approach, the Impact Gaps Canvas inherently supports social sustainability and encourages solutions that consider environmental and economic sustainability.
+- Tags: #social-sustainability, #environmental-sustainability, #economic-sustainability
+
+**Innovation Type**
+The canvas supports social innovation by helping users to design novel approaches to complex social issues.
+- Tags: #social-innovation, #business-model-innovation 
+
+**Entrepreneurship Stage**
+It is applicable across various stages of entrepreneurship, especially useful during the ideation and design phases where understanding the problem and existing solutions is crucial.
+- Tags: #ideation, #design
+
+**Scope of Relevance**
+The canvas helps organizations assess the scope of relevance of their initiatives, considering factors such as geographical reach and stakeholder involvement to ensure maximum impact.
+- Tags: #global, #local
+
+**Methodological Approach**
+It guides organizations in selecting the most suitable methodological approaches, such as participatory action research or systems thinking, to analyze impact gaps and develop effective solutions.
+- Tags: #qualitative-research, #quantitative-research, #mixed-methods
+
+**Skill Development**
+Users of the canvas can develop skills in systems thinking, holistic thinking, and innovative thinking, all of which are important for sustainable entrepreneurship.
+- Tags: #systems-thinking, #holistic-thinking, #innovative-thinking
+
+**Source and Credibility**
+The tool is based on research funded by the Clore Social Leadership Programme and has been utilized in reputable academic and social entrepreneurship contexts.
+- Tags: #academic-institutions, #recognized-experts, #research
+
+**Prerequisites and Requirements**
+The canvas is designed to be accessible to a wide range of users, with no specific prerequisites required to get started.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+The Impact Gaps Canvas encourages collaboration among various stakeholders to address complex social issues effectively.
+- Tags: #team, #community, #cross-sector-partnerships
+
+More information can be found at [Impact Gaps Canvas](https://systems-ledleadership.com/impact-gaps-canvas/) where a [video tutorial](https://vimeo.com/193582920) is provided.
+
+___
+# Resources
+
+![[Pasted image 20240205114124.png]]
+![[Pasted image 20240205114135.png]]f:Td4f,# Overview
+The Project Resilience Review is a comprehensive framework designed to evaluate and enhance the sustainability of projects by examining their alignment with the Sustainable Development Goals (SDGs). It prompts users to consider the long-term impact of their project's direction and practice, including potential challenges and opportunities. The framework encourages the integration of new competencies and collaboration to bolster project resilience and competitiveness. There is also an emphasis on the importance of awareness regarding the environmental, social, and economic implications of project methodologies and partnerships. This resource is particularly useful for project groups seeking to ensure their work contributes positively to sustainability goals and is adaptable to future changes in the global landscape.
+
+___
+# Dimensions
+
+**Resource Type**
+The Project Resilience Review is a structured set of questions and recommendations, serving as a methodological guide for project assessment.
+- Tags: #method, #framework, #guide
+
+**Objective**
+This resource aims to align project outcomes with sustainability goals and to enhance awareness of potential impacts.
+- Tags: #assess, #align
+
+**Target Audience**
+The tool is designed for project groups within academic and research settings, but it has relevance for other contexts too.
+- Tags: #researchers, #students, #educators, #practitioners
+
+**Sustainability Focus**
+The review covers all three pillars of sustainability, with a strong emphasis on identifying and mitigating negative impacts.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs
+
+**Innovation Type**
+It supports innovation by prompting users to consider sustainable practices and opportunities for improvement in their projects.
+- Tags: #process-innovation, #social-innovation, #business-model-innovation 
+
+**Entrepreneurship Stage**
+The tool is relevant across various stages of project development, from initial design to implementation and future scaling.
+- Tags: #design, #development, #implementation, #growth
+
+**Scope of Relevance**
+While the tool can be applied universally, it is particularly relevant to projects with potential global sustainability impacts.
+- Tags: #global, #national
+
+**Methodological Approach**
+The review employs a qualitative approach, encouraging reflective and critical thinking about project sustainability.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+It aims to develop skills in sustainability assessment, strategic planning, and the integration of new competencies.
+- Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #innovative-thinking, #adaptability-and-resilience
+
+**Source and Credibility**
+The tool is developed by practitioners at Chalmers Innovation Office. Its creation is based on years of experience.
+- Tags: #academic-institutions, #research, #practice 
+
+**Prerequisites and Requirements**
+Users should have a basic understanding of sustainability concepts and project management to effectively utilize the tool.
+- Tags: #intermediate-level, #beginner-level 
+
+**Collaboration Level**
+The review encourages collaboration within project groups and the integration of external competencies.
+- Tags: #team, #cross-sector-partnerships 
+
+___
+# Resources
+
+![[Version 3 - Current/Files/IE Sustainability Worksheet_Norrman.pdf]]10:Tee0,# Overview
+The Resource Wheel, which is an interactive selection of relevant resources and tools, facilitates the assessment and evaluation of a company's progress in incorporating sustainability goals and the Sustainable Development Goals (SDGs) into their business strategy. This tool provides resources to evaluate performance across systems, governance, strategy, value chains, culture, change agents, and storytelling. It enables organizations to benchmark against industry standards, set and track sustainability goals, and conduct self-evaluations of their sustainability maturity. Additionally, the Embedding Project provides guidance on sustainability leadership, reporting, and sustainable supply chains.
+
+___
+# Dimensions
+
+**Resource Type**
+The Resource Wheel is a framework that offers practices for assessment, leadership and reporting, and guidance on supply chain sustainability, which can be categorized as practical instruments for organizations.
+- Tags: #framework, #guide
+
+**Objective**
+The primary goal of the tool is to help organizations embed sustainability in their structure and align their strategies with sustainable goals.
+- Tags: #assess, #align
+
+**Target Audience**
+The tool is designed for organizations of various sizes and sectors that are seeking to embed sustainability into their operations.
+- Tags: #corporations, #SMEs, #nonprofits, #practitioners
+
+**Sustainability Focus**
+The tool and accompanying resources address multiple aspects of sustainability, including governance, operations, and supply chain management. This covers the three pillars.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #governance, #SDGs
+
+**Innovation Type**
+It support business model innovation by providing organizations with the means to integrate sustainability into their core strategies.
+- Tags: #business-model-innovation
+
+**Entrepreneurship Stage**
+While the tool is not designed for entrepreneurs, when used in entrepreneurial context, it may be applicable across various stages of entrepreneurship.
+- Tags: #development, #implementation, #growth, #maturity
+
+**Scope of Relevance**
+Given the global applicability of sustainability and SDGs, the tool is relevant on a global scale, although they can be tailored to regional or national contexts.
+- Tags: #global, #regional, #national
+
+**Methodological Approach**
+The tool is based on a structured approach to assessing and benchmarking sustainability performance. However, the practices that it prescribes align with both qualitative and quantitative methods. 
+- Tags: #qualitative-research, #quantitative-research
+
+**Skill Development**
+The tool aims to enhance skills in sustainability leadership, strategic planning, and operations management by providing the practices that are multidimensional.
+- Tags: #leadership-and-management, #strategic-planning, #operations-management
+
+**Source and Credibility**
+The tool is likely developed from reputable industry sources and academic research. The researchers are affiliated with reputable academic institutions.
+- Tags: #reputable-industry-sources, #academic-institutions
+
+**Prerequisites and Requirements**
+The tool is designed for organizations with some level of familiarity with sustainability concepts, likely at an intermediate level.
+- Tags: #intermediate-level
+
+**Collaboration Level**
+Depending on the practice, there can be individual or collective focus. but similar to other tools, utilizing the tool in a collective setting would allow tapping into the experiences and skills necessary to perform these practices.
+- Tags: #team, #cross-team-collaboration 
+
+More information and an interactive canvas can be found at [Embedding Project](https://embeddingproject.org/resources/).
+
+___
+# Resources
+
+![[Pasted image 20240228163920.png]]11:Tff4,# Overview
+The Responsible Tech Playbook is a compilation of resources designed to highlight inclusivity, bias awareness, and transparency in the realm of technology. It helps individuals and organizations address the ethical implications of technology. A self-assessment tool in the playbook assesses the social and environmental impact of technology projects and provides a framework for balancing economic benefits with ethical considerations. The tool includes a checklist that covers areas such as privacy, sustainability and human-rights. The aim of the tool is to empower tech professionals and decision-makers to think about the wider societal impact of their work and make more responsible decisions when creating and implementing technology solutions.
+
+___
+# Dimensions
+
+**Resource Type**
+The Responsible Tech Playbook and the Tool for Responsible Tech are practical compilations of knowledge and self-assessment mechanisms that guide users towards ethical tech development.
+- Tags: #tool, #playbook, #self-assessment
+
+**Objective**
+These resources aim to assess current practices and align technological development with responsible and sustainable principles in a manner that is ethically responsible, environmentally sustainable, and socially beneficial.
+- Tags: #assess, #align
+
+**Target Audience**
+The resources are designed for a broad range of stakeholders involved in technology development, including those in academia, policy-making, and various sectors of industry.
+- Tags: #entrepreneurs, #researchers, #policy-makers, #educators, #practitioners, #corporations
+
+**Sustainability Focus**
+The focus of the tool is on the social and environmental impact of technology projects. It aims to balance economic benefits with ethical considerations.
+- Tags: #environmental-sustainability, #social-sustainability
+
+**Innovation Type**
+These resources support various types of innovation, such as product, process, and service.
+- Tags: #social-innovation, #technological-innovation, #business-model-innovation
+
+**Entrepreneurship Stage**
+The playbook and tool are relevant across different stages of entrepreneurship, especially during the design and development phases where ethical considerations are needed to be taken into account.
+- Tags: #design, #development
+
+**Scope of Relevance**
+While the resources have a global perspective, they are applicable to national and local contexts, depending on the user's objectives and scope of work.
+- Tags: #global, #national, #local
+
+**Methodological Approach**
+The resources are grounded in structured and reflective methodologies that encourage users to critically evaluate their tech practices. There is a recursive nature to reassess previous answers provided.
+- Tags: #mixed-methods
+
+**Skill Development**
+Users are encouraged to develop skills in systems thinking, environmental awareness, ethical reasoning, collaborative problem solving, and holistic thinking to ensure responsible tech development.
+- Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #collaborative-problem-solving, #ethical-reasoning
+
+**Source and Credibility**
+The tool is developed by “Responsible Tech Sweden” an non-profit organization located in Sweden. More information about the committee responsible for the tool can be found [here]( https://www.kometinfo.se/in-english/about-us/)
+- Tags: #reputable-industry-sources, #recognized-experts, #practice
+
+**Prerequisites and Requirements**
+The resources are designed to be accessible to a wide audience, with no specific prerequisites, allowing for a diverse range of users to engage with the material.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+The resources encourage team-based approaches to responsible tech development, but can also be used individually.
+- Tags: #team, #community, #cross-sector-partnerships, #individual
+
+More information can be found at [Responsible tech](https://responsibletech.se/index.php). The self-assessment resource is accessible [here](https://responsibletech.se/tool.php).
+
+___
+# Resources
+
+![[Pasted image 20240312155910.png]]12:Te64,# Overview
+The [SDG Impact Assessment Tool](https://sdgimpactassessmenttool.org/en-gb/tool/assessments) is an interactive online platform designed to assist organizations in evaluating their activities' alignment with the United Nations' Sustainable Development Goals (SDGs). Developed through a collaborative effort by academic institutions and supported by regional funding, this tool serves as a learning resource to deepen the understanding of SDG complexities and to guide strategic decision-making towards sustainability. It is structured around a self-assessment methodology that encourages collaborative analysis and prioritization of actions. While it is not a scientific verification of SDG impact, it provides a structured approach to identifying positive and negative impacts, as well as knowledge gaps, related to the SDGs.
+
+___
+# Dimensions
+
+**Resource Type**
+The SDG Impact Assessment Tool is a learning tool that visualizes the results from a self-assessment of how an activity, organization, or innovation affects the SDGs.
+- Tags: #tool, #online
+
+**Objective**
+The primary goal of the tool is to facilitate the assessment of activities in relation to the SDGs and to promote strategic sustainability alignment.
+- Tags: #map #assess, #align
+
+**Target Audience**
+The tool is designed for a diverse audience, including those involved in education, research, and various organizational roles focused on sustainability.
+- Tags: #researchers, #students, #educators, #practitioners, #policy-makers, #nonprofits, #corporations
+
+**Sustainability Focus**
+The tool emphasizes all three pillars of sustainability and encourages users to consider the environmental, social, and economic impacts of their activities.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs
+
+**Innovation Type**
+The tool supports organizations in developing social, technological and policy innovative approaches to sustainability challenges.
+- Tags: #social-innovation, #business-model-innovation, #technological-innovation , #policy-innovation
+
+**Entrepreneurship Stage**
+The tool is applicable across various stages of entrepreneurship, especially useful for those in the ideation and implementation phases.
+- Tags: #ideation, #implementation
+
+**Scope of Relevance**
+The tool has a global scope, as it is based on the universal SDGs, but it can be contextualized to national or local settings.
+- Tags: #global, #national, #local
+
+**Methodological Approach**
+The tool's methodology is based on a structured self-assessment process that involves qualitative analysis and discussion.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+Using the tool can enhance skills in systems thinking, strategic planning, and sustainability assessment.
+- Tags: #systems-thinking, #strategic-planning, #sustainability-assessment
+
+**Source and Credibility**
+The tool is developed by reputable academic institutions and is based on SDGs framework. The tool is used in several pilot projects.
+- Tags: #academic-institutions, #recognized-experts, #SDGs
+
+**Prerequisites and Requirements**
+The tool is designed to be accessible to a wide audience, with no specific prerequisites required for its use, although a basic understanding of SDGs can be useful.
+- Tags: #none
+
+**Collaboration Level**
+The assessment process encourages collaboration among team members to leverage diverse expertise and perspectives.
+- Tags: #team, #community-engagement, #cross-team-collaboration 
+
+More information can be found at [SDG Impact Assessment Tool](https://sdgimpactassessmenttool.org/en-gb/articles/instructions).
+
+___
+# Resources
+
+![[SDG Impact Guide 1.0.pdf]]13:Tdf4,# Overview
+[Social Impact Explanatory Cards](https://miro.com/app/board/uXjVOxE7F2g=/) is an educational tool designed to enhance understanding and engagement with the Sustainable Development Goals (SDGs). It serves as a practical resource for individuals and organizations aiming to integrate sustainability into their operations and strategies. By breaking down the complex topics of the SDGs into digestible information, these cards facilitate learning and inspire action towards achieving the goals. They are versatile and can be employed in various settings, including academic institutions, and businesses.
+
+_______
+# Dimensions
+
+**Resource Type**
+These cards are educational tools that provide concise information and insights into the SDGs.
+- Tags: #tool, #educational-material
+
+**Objective**
+The primary goal of Social Impact Explanatory Cards is to educate and inform users about the SDGs and to foster a deeper understanding of their targets and implications.
+- Tags: #map, #assess
+
+**Target Audience**
+These cards are designed for a broad audience, including those involved in sustainable entrepreneurship, education, and policy-making, who are interested in understanding and contributing to the SDGs.
+- Tags: #entrepreneurs, #researchers, #students, #policy-makers, #educators, #practitioners
+
+**Sustainability Focus**
+The focus of these cards is on awareness and understanding of the SDGs, which encompass social, economic, and environmental objectives.
+- Tags:  #SDGs
+
+**Innovation Type**
+While not directly related to innovation, these cards support social innovation by providing knowledge that can inspire new approaches to sustainable development challenges.
+- Tags: #social-innovation
+
+**Entrepreneurship Stage**
+Applicable across various stages of entrepreneurship, these cards are particularly useful during the ideation and design phases, where understanding the SDGs can influence sustainable business models.
+- Tags: #ideation, #design
+
+**Scope of Relevance**
+The SDGs are global in nature; therefore, these cards have a global relevance but can also be applied to regional, national, or local contexts.
+- Tags: #global, #regional, #national, #local
+
+**Methodological Approach**
+The cards use an educational approach to convey information and do not prescribe a specific research or problem-solving methodology.
+- Tags: #educational-material
+
+**Skill Development**
+By using these cards, individuals can develop a range of skills, including systems thinking, environmental awareness, and innovative thinking. Noteworthy, these cards are mainly relevant for raising awareness.
+- Tags: #systems-thinking, #environmental-awareness, #innovative-thinking
+
+**Source and Credibility**
+The information on these cards is typically derived from the United Nations and other reputable sources that have established the SDGs. In effect, the cards are exemplification and simplification of SDGs.
+- Tags: #government-sources, #reputable-industry-sources
+
+**Prerequisites and Requirements**
+These cards are designed to be accessible to a wide audience, with no specific prerequisites required to understand and engage with the content.
+- Tags: #none
+
+**Collaboration Level**
+Social Impact Explanatory Cards encourage collaboration by prompting discussions and collective efforts towards achieving the SDGs.
+- Tags: #individual, #team, #community
+
+More information can be found at [Board of Innovation](https://www.boardofinnovation.com/tools/social-impact-explanatory-cards/)
+
+___
+# Resources
+
+![[Pasted image 20240109150947.png]]
+
+![[SDG Explanatory cards.pdf]]14:Tf0a,# Overview
+[The Social Impact Wheel](https://miro.com/app/board/uXjVOxFE7zY=/) is a strategic framework designed to help organizations assess and enhance their contribution to social responsibility, particularly in alignment with the 17 Sustainable Development Goals (SDGs). It serves as a reflective instrument for companies to evaluate their innovation strategies and their broader impact on society and the environment. By employing this tool, organizations can identify their strengths, areas for improvement, and prioritize their impact values. It is a proactive measure to safeguard reputations and ensure that innovations are not only profitable but also socially and environmentally sustainable, thereby future-proofing business practices.
+
+____
+# Dimensions
+
+**Resource Type**
+This tool is a methodological framework that guides organizations in evaluating and aligning their strategies with sustainable goals. 
+- Tags: #framework, #tool
+
+**Objective**
+The primary goal of the Social Impact Wheel is to assess an organization's impact on the SDGs and to align innovation strategies with social responsibility.
+- Tags: #assess, #align
+
+**Target Audience**
+The Social Impact Wheel is intended for organizations that are actively seeking to innovate in a socially responsible manner, including businesses of all sizes and sectors.
+- Tags: #entrepreneurs, #corporations, #SMEs, #startups, #policy-makers, #practitioners
+
+**Sustainability Focus**
+The tool focuses on evaluating and improving the organization's impact on all three pillars of sustainability, with a particular emphasis on social aspects as it relates to the SDGs.
+- Tags: #social-sustainability, #environmental-sustainability, #economic-sustainability, #SDGs
+
+**Innovation Type**
+It supports organizations in developing innovations that are socially responsible and sustainable, which can include product, process, or business model innovations.
+- Tags: #social-innovation, #business-model-innovation, #product-innovation, #process-innovation
+
+**Entrepreneurship Stage**
+The Social Impact Wheel is applicable across various stages of entrepreneurship, from the initial ideation to the implementation and growth phases.
+- Tags: #ideation, #design, #development, #implementation, #growth
+
+**Scope of Relevance**
+While the tool can be used globally, it is particularly relevant for organizations aiming to address local and national sustainability challenges.
+- Tags: #global, #national, #local
+
+**Methodological Approach**
+The Social Impact Wheel is based on a structured, strategic approach that incorporates existing design criteria from the SDGs.
+- Tags: #theoretical-frameworks, #strategic-planning
+
+**Skill Development**
+Using this tool can enhance an organization's skills in systems thinking, holistic thinking, and environmental awareness, as well as their ability to innovate with a focus on sustainability.
+- Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #innovative-thinking
+
+**Source and Credibility**
+The tool is developed with a foundation in sustainable development goals, ensuring its credibility for organizations looking to make a verifiable impact.
+- Tags: #recognized-experts, #practice, #research
+
+**Prerequisites and Requirements**
+No specific prerequisites are required to use the Social Impact Wheel, making it accessible to a wide range of users.
+- Tags: #none
+
+**Collaboration Level**
+The tool encourages collaboration within teams and across departments within an organization to ensure a comprehensive assessment of social impact.
+- Tags: #team, #community
+
+More information can be found at [Board of Innovation](https://www.boardofinnovation.com/tools/social-impact-wheel/)
+An interactive version of the canvas is available [here](https://miro.com/app/board/uXjVOxFE7zY=/).
+
+___
+# Resources
+
+![[Pasted image 20240109150714.png]]15:Tfc2,# Overview
+[Sustainability assessment of startups](https://www.borderstep.de/publikation/din-spec-90051-1-consortium-2021-sustainability-assessment-of-start-ups-the-application-tool-of-the-din-spec-90051-1-specification-a-manual-for-investors-and-capital-providers-start-ups/) is a comprehensive step-by-step framework designed to evaluate the sustainability of start-ups at various stages of development. It is tailored for businesses that either have sustainability at the heart of their business model or those that aim to incorporate sustainable practices into their operations. The tool is based on established investor pre-screening and due diligence concepts, allowing for both preliminary and in-depth sustainability assessments. It caters to companies in the pre-seed/seed phase, as well as those in the start-up/growth phase, providing a framework to measure potential and actual sustainability outcomes. The results of the assessment can be utilized for a range of purposes, including capital acquisition, business model development, and enhancing sustainability in corporate culture and value chains.
+___
+# Dimensions
+
+**Resource Type**
+This tool serves as a methodological instrument that can be used by start-ups and investors to assess and enhance sustainability practices.
+- Tags: #framework, #criteria-based, #qualitative, #ranking-scale
+
+**Objective**
+The primary goal of this resource is to assess and report on the sustainability aspects of start-ups, helping them align their operations with sustainable objectives.
+- Tags: #assess, #report, #align
+
+**Target Audience**
+The tool is designed for a variety of users, including entrepreneurs and investors, who are focused on sustainability in start-ups.
+- Tags: #entrepreneurs, #investors, #startups, #advisors
+
+**Sustainability Focus**
+The tool emphasizes all three pillars of sustainability, with a particular focus on aligning start-up activities with societal sustainability goals such as the SDGs.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs
+
+**Innovation Type**
+While the tool supports various types of innovation, it is particularly relevant for business model innovation that integrates sustainability.
+- Tags: #business-model-innovation, #wide-application
+
+**Entrepreneurship Stage**
+The tool is applicable to start-ups at the pre-seed/seed stage and those in the start-up/growth phase, addressing different needs at each stage.
+- Tags: #ideation, #development, #startup, #growth, #pre-seed
+
+**Scope of Relevance**
+The tool can be used globally, but it is especially relevant for start-ups that are aligning their business models with international sustainability standards.
+- Tags: #global
+
+**Methodological Approach**
+The resource is based on established concepts used by investors for pre-screening and due diligence, offering a structured approach to sustainability assessment.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+Using this tool can enhance skills in sustainability assessment, strategic alignment, and impact management.
+- Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #business-and-financial-skills
+
+**Source and Credibility**
+The tool is developed from established practical concepts, ensuring a credible and reliable framework for sustainability assessment.
+- Tags: #reputable-industry-sources, #practice, #SDGs , #academia 
+
+**Prerequisites and Requirements**
+The tool is designed for users with at least a basic understanding of business and sustainability concepts.
+- Tags: #beginner-level, #intermediate-level
+
+**Collaboration Level**
+The assessment can be conducted individually or by a team, depending on the size and structure of the start-up.
+- Tags: #individual, #team, #inter-department
+
+A manual for the assessment can be found [here](https://www.borderstep.de/wp-content/uploads/2018/03/GreenUpInvest_Leitfaden_EN_RZ.pdf).
+
+___
+# Resources
+![[Version 3 - Current/Files/DIN-SPEC-90051-1-Application-tool_EN_final.pdf]]16:Tf83,# Overview
+[The Sustainability Balanced Scorecard](https://www.threebility.com/sustainability-balanced-scorecard) (SBSC) is an evolved performance management tool that integrates sustainability into the traditional Balanced Scorecard framework. It enables companies to incorporate environmental, social, and ethical considerations into their strategic planning and performance measurement. The SBSC guides organizations in setting and monitoring key performance indicators (KPIs) across the three pillars of sustainability, ensuring a comprehensive approach to corporate responsibility. This tool is particularly useful for businesses seeking to align their strategies with sustainable development goals and for those aiming to achieve significant improvements in areas such as product innovation, process optimization, and customer satisfaction.
+
+___
+# Dimensions
+
+**Resource Type**
+The SBSC is a strategic management tool that provides a framework for integrating sustainability into corporate strategy and performance measurement.
+- Tags: #framework, #tool
+
+**Objective**
+The main goal of the SBSC is to align a company's strategic objectives with sustainability goals and to translate these into measurable performance indicators.
+- Tags: #align, #assess
+
+**Target Audience**
+This resource is designed for decision-makers within organizations who are responsible for strategy development and performance management.
+- Tags: #practitioners, #corporations
+
+**Sustainability Focus**
+The SBSC addresses all three pillars of sustainability, with a particular emphasis on integrating these considerations into the core strategic planning of an organization.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+By incorporating sustainability into various aspects of business strategy, the SBSC can support innovation across products, processes, and business models.
+- Tags: #product-innovation, #process-innovation, #business-model-innovation
+
+**Entrepreneurship Stage**
+Although the SBSC is not intended to be used in entrepreneurial contexts, it can be applicable across various stages of entrepreneurship, especially during the design, development, and implementation phases where strategic alignment is crucial.
+- Tags: #design, #development, #implementation
+
+**Scope of Relevance**
+There is no explicit mention of the scope for SBSC, but it can be applied globally and is adaptable to regional, national, or local contexts depending on the strategic objectives of the organization.
+- Tags: #global, #regional, #national, #local
+
+**Methodological Approach**
+The SBSC draws on both qualitative and quantitative approaches to performance measurement and management.
+- Tags: #qualitative-research, #quantitative-research
+
+**Skill Development**
+Implementing the SBSC requires skills in leadership, systems thinking, and holistic thinking to effectively integrate sustainability into business strategy.
+- Tags: #leadership-and-management, #systems-thinking, #holistic-thinking
+
+**Source and Credibility**
+The SBSC is grounded in the established Balanced Scorecard methodology and adapted to include sustainability considerations. It is developed by researchers embedded in German university ecosystem.
+- Tags: #recognized-experts, #academic-institutions, #reputable-industry-sources
+
+**Prerequisites and Requirements**
+Utilizing the SBSC may require a certain level of strategic management knowledge and familiarity with sustainability concepts.
+- Tags: #intermediate-level, #specific-educational-background
+
+**Collaboration Level**
+The SBSC encourages collaboration among various departments within an organization to ensure that sustainability is integrated across all functions.
+- Tags: #team, #cross-team-collaboration 
+
+More information can be found at [Threebility | Tools and Methods for Sustainable Innovation](https://www.threebility.com/tools)
+___
+# Resources
+
+![[5 - Sustainability Balanced Scorecard.pdf]]17:T11d2,# Overview
+The [Sustainability Impact Canvas (SIC)](https://www.threebility.com/sustainability-impact-canvas) is a strategic tool designed to help designers and businesses evaluate and optimize the sustainability impacts of their products and business models. It encourages a comprehensive assessment of both positive and negative effects across three levels: technology, application, and systems. The SIC promotes "honest accounting" by addressing potential confirmation bias and serves as a precursor for realistic impact assessments. It is beneficial for identifying waste capture, minimizing lifecycle impacts, optimizing substitution potential, reducing obsolescence, incentivizing smart decision-making, and mitigating systemic risks. The tool is versatile, serving as an input for the Sustainable Business Model Canvas, and is accompanied by guidelines and examples to facilitate its use.
+
+___
+# Dimensions
+
+**Resource Type**
+The SIC is a structured tool that guides users through a systematic evaluation of sustainability impacts, making it a practical framework for sustainable design.
+- Tags: #tool, #framework, #canvas
+
+**Objective**
+The primary objective of the Sustainability Impact Canvas is to empower businesses to understand, measure, and improve their sustainability impact. It aims to guide users in developing strategies that contribute positively to the environment, society, and economic aspects of their operations.
+- Tags: #map, #assess
+
+**Target Audience**
+This tool is intended for professionals engaged in sustainability management, corporate responsibility, and strategic planning. It is applicable across various business sizes and sectors.
+- Tags: #entrepreneurs, #designers, #corporations, #SMEs, #startups 
+
+**Sustainability Focus**
+The Sustainability Impact Canvas is designed to address environmental sustainability by assessing the ecological footprint, social sustainability by considering the impact on communities and stakeholders, and economic sustainability by optimizing business processes.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+It supports innovation in sustainable practices, encouraging organizations to explore new methods and technologies that can positively impact the triple bottom line – people, planet, and
+profit.
+- Tags: #process-innovation, #business-model-innovation, #social-innovation 
+
+**Entrepreneurship Stage**
+The Sustainability Impact Canvas is applicable at all stages of entrepreneurship, from early ideation and design to development, implementation, growth, and scale-up. It aids in integrating sustainability into the core of business operations.
+- Tags: #ideation, #design, #development, #implementation , #growth 
+
+**Scope of Relevance**
+This tool is versatile and can be utilized by businesses operating at both local and global scales. It accommodates variations in the size and reach of the value chain and business operations.
+- Tags: #global, #regional
+
+**Methodological Approach**
+The Sustainability Impact Canvas follows a structured methodology, integrating sustainability metrics, stakeholder engagement, and impact assessment to guide organizations in aligning their strategies with sustainable practices.
+- Tags: #qualitative-research, #quantitative-research, #mixed-methods
+
+**Skill Development**
+Utilizing the Sustainability Impact Canvas fosters skill development in areas such as sustainable business planning, stakeholder engagement, impact measurement, and strategic decision-making.
+- Tags: #systems-thinking, #environmental-awareness, #holistic-thinking, #impact-measurement , #sustainable-business-planning
+
+**Source and Credibility**
+The SIC is a credible resource developed for practical application, backed by academic research and industry expertise in sustainable design.
+- Tags: #reputable-industry-sources, #academic-institutions
+
+**Prerequisites and Requirements**
+No specific prerequisites are required to use the Social Impact Wheel, making it accessible to a wide range of users.
+- Tags: #none, #beginner-level 
+
+**Collaboration Level**
+The tool encourages collaboration within teams and across departments within an organization to ensure a comprehensive assessment of social impact.
+- Tags: #team, #cross-sector-partnerships
+
+More information can be found at [The Sustainability Impact Canvas - A foundation for Sustainable Innovation](https://www.threebility.com/post/the-sustainability-impact-canvas-a-foundation-for-sustainable-innovation).
+
+___
+# Resources
+
+![[1 - Impact Canvas.pdf]]18:Tedb,# Overview
+The [Sustainability SWOT Analysis](https://www.threebility.com/sustainability-swot-analysis) is a strategic planning tool that integrates sustainability into the traditional SWOT framework, focusing on the internal and external factors that pertain to an organization's sustainability practices. It is a three-step process that assesses environmental and social challenges, conducts a triple-bottom-line analysis, and prioritizes actions to enhance sustainability performance. This tool is beneficial for strategic analysis, decision-making, and fostering innovation within a business context. It is designed to be easily implemented into existing company processes and is particularly useful for those looking to align their business strategies with sustainability goals.
+___
+# Dimensions
+
+**Resource Type**
+This is a strategic framework that aids in the analysis and alignment of sustainability efforts within an organization.
+- Tags: #framework, #tool, #canvas 
+
+**Objective**
+The primary goal of this resource is to assess and align sustainability practices with an organization's strategic objectives.
+- Tags: #assess, #align
+
+**Target Audience**
+This tool is versatile and can be utilized by a wide range of individuals or groups involved in strategic planning and sustainability.
+- Tags: #entrepreneurs, #researchers, #policy-makers, #educators, #practitioners, #corporations
+
+**Sustainability Focus**
+The resource is centered around environmental sustainability, but is situated in the larger context of sustainability.
+- Tags: #environmental-sustainability
+
+**Innovation Type**
+The Sustainability SWOT Analysis supports innovation in business practices especially in relation to the whole value chain in the organization and the business model and processes that need to adapt to satisfy more of sustainability related metrics.
+- Tags: #business-model-innovation, #process-innovation
+
+**Entrepreneurship Stage**
+This tool is applicable across various stages of entrepreneurship, especially when strategic decisions are critical.
+- Tags: #ideation, #design, #development, #implementation, #growth
+
+**Scope of Relevance**
+The analysis can be applied to organizations operating at different scales, from local startups to global corporations.
+- Tags: #global, #national, #local
+
+**Methodological Approach**
+The Sustainability SWOT Analysis employs a structured, analytical approach to evaluating sustainability in business. In this sense, both qualitative and quantitative data can be plugged in to generate insights.
+- Tags: #theoretical-frameworks, #qualitative-and-quantitative , #mixed-methods
+
+**Skill Development**
+Using this tool can enhance strategic thinking and sustainability awareness among business leaders and decision-makers.
+- Tags:  #systems-thinking, #environmental-awareness, #holistic-thinking, #strategic-thinking 
+
+**Source and Credibility**
+The tool is based on the well-established SWOT analysis framework, adapted for sustainability, and can be considered a reputable industry source.
+- Tags: #reputable-industry-sources
+
+**Prerequisites and Requirements**
+No specific prerequisites are needed to use this tool, but a general knowledge of SWOT analysis related concepts can be useful.
+- Tags: #none
+
+**Collaboration Level**
+The Sustainability SWOT Analysis can be conducted individually or by a team, depending on the size and structure of the organization, but to get a better breadth, better insights can be gained if done in a collaborative format.
+- Tags: #individual, #team, #cross-team-collaboration 
+
+More information can be found at [The Sustainability SWOT Analysis - A tool for Strategic Sustainability Management & Innovation](https://www.threebility.com/post/the-sustainability-swot-analysis).
+
+___
+# Resources
+
+![[Sustainability SWOT Analysis.pdf]]19:T11aa,# Overview
+[The Sustainable Business Model Canvas](https://www.threebility.com/sustainable-business-model-canvas) is a strategic tool designed to integrate sustainability into the heart of business planning and development. It expands upon the traditional Business Model Canvas by incorporating ecological and social factors, ensuring that businesses can map out their models with a focus on creating positive societal and environmental impacts. This tool is essential for entrepreneurs and businesses at various stages of development who are committed to sustainability. It serves as a visual guide to align business activities with sustainable practices, encouraging iterative improvement and stakeholder communication. The Sustainable Business Model Canvas is versatile, applicable to both startups and established businesses, and is a valuable resource for those looking to innovate responsibly and sustainably.
+___
+# Dimensions
+
+**Resource Type**
+The Sustainable Business Model Canvas is a strategic tool that combines elements of a framework and a template.
+- Tags: #framework, #template, #canvas
+
+**Objective**
+This resource is aimed at aligning business strategies with sustainable development goals and mapping out a business model that considers eco-social impacts.
+- Tags: #align, #map
+
+**Target Audience**
+The canvas is designed for a wide range of users, from entrepreneurs to educators, and is particularly relevant for those who give equal attention to the eco-social pillars of sustainability.
+- Tags: #entrepreneurs, #researchers, #educators, #students, #practitioners, #startups, #SMEs, #corporations
+
+**Sustainability Focus**
+The primary focus of this resource is on environmental and social sustainability, guiding users to consider the broader impacts of their business activities. As it is an extension of the generic Business Model Canvas, the financial aspects are also covered in this canvas.
+- Tags: #environmental-sustainability, #social-sustainability, #environmental-impact, #social-impact
+
+**Innovation Type**
+This canvas supports business model innovation by encouraging users to think creatively about how they can integrate sustainability into their business models. The outcome of the innovation can in turn be process or product innovation.
+- Tags: #business-model-innovation, #process-innovation , #product-innovation 
+
+**Entrepreneurship Stage**
+The Sustainable Business Model Canvas is suitable for various stages of entrepreneurship, from the initial ideation phase to the growth and scaling of a business. Although the earlier in the process the canvas is used, the higher is the likelyhood of conforming to the priciples of sustainability.
+- Tags: #ideation, #design, #development, #implementation, #startup, #growth, #scale-up
+
+**Scope of Relevance**
+While the canvas can be applied globally, it is particularly relevant for businesses that address sustainability within their specific regional or national context.
+- Tags: #global, #regional, #national
+
+**Methodological Approach**
+The canvas employs a visual and theoretical framework that aids in the systematic development of sustainable business models.
+- Tags: #theoretical-frameworks
+
+**Skill Development**
+Using the Sustainable Business Model Canvas helps develop skills in systems thinking, holistic thinking, and environmental awareness, among others.
+- Tags: #systems-thinking, #holistic-thinking, #environmental-awareness, #business-and-financial-skills, #innovative-thinking
+
+**Source and Credibility**
+The canvas is an extension of the prevalent Business Model Canvas that has been used in practice by all sorts of organizations and new ventures. As a canvas that help to structure and verbalize underlying assumptions, it builds on the informations systems logic of it predecessor.
+- Tags: #academic-institutions, #recognized-experts
+
+**Prerequisites and Requirements**
+The canvas is designed to be accessible to a wide audience, with no specific prerequisites required to get started.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+The Sustainable Business Model Canvas encourages collaboration, as it is often used in team settings to ensure all aspects of sustainability are considered.
+- Tags: #team, #cross-team-collaboration 
+
+More information can be found at [The Sustainable Business Model Canvas - A common Language for Sustainable Innovation](https://www.threebility.com/post/the-sustainable-business-model-canvas-a-common-language-for-sustainable-innovation).
+
+___
+# Resources
+
+![[2 - SBMC.pdf]]1a:T1042,# Overview
+The Sustainable Value Analysis Tool is designed to aid manufacturers in recognizing and capitalizing on sustainable value creation opportunities throughout a product's life cycle. By analyzing captured and uncaptured value from the beginning of life (BoL), through the middle of life (MoL), to the end of life (EoL), the tool enables companies to systematically identify areas where value is missed, destroyed, surplus, or absent. It consists of a poster for visual mapping and a set of cards for guidance, combining life cycle thinking with value forms analysis. The five-step process involves defining life cycle stages, mapping stakeholder value, identifying uncaptured value, pinpointing value opportunities, and assessing their feasibility and sustainability. While the tool is comprehensive and strategically generates business opportunities, it may lack the necessary guidance on strategic planning for realizing these opportunities.
+___
+# Dimensions
+
+**Resource Type**
+This tool provides a structured approach and visual aids to help companies identify and leverage uncaptured value.
+- Tags: #tool, #framework, #method
+
+**Objective**
+The primary goal of this resource is to map out and assess the captured and uncaptured value throughout the product life cycle to make sure that the organization is aligned with sustainable practices.
+- Tags: #map, #assess, #align
+
+**Target Audience**
+The tool is designed for stakeholders in the manufacturing sector, including entrepreneurs and companies focused on sustainability.
+- Tags: #entrepreneurs, #practitioners, #corporations, #manufacturing
+
+**Sustainability Focus**
+It addresses all three pillars of sustainability by considering environmental, social, and economic dimensions in value analysis at the same time and in relation to each other.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+The tool supports innovation in product life cycles and business models by identifying new opportunities for sustainable value creation. The tool itself is mostly designed to assess the sustainability relevance thoroughout the life cycle.
+- Tags: #product-innovation, #business-model-innovation
+
+**Entrepreneurship Stage**
+This resource is applicable across various stages of entrepreneurship, particularly in the design, development, and implementation phases where sustainable value creation is crucial. Similar to other tools, the sooner the assessment is done, the better an organization can react to align within principles of sustainability.
+- Tags: #design, #development, #implementation
+
+**Scope of Relevance**
+There is no explicit reference to the scope, but the focus on the manufacturing sector signals its relevance both to local as well as global contexts.
+- Tags: #global, #local 
+
+**Methodological Approach**
+The tool employs a systematic, life cycle-based approach to value analysis, which is both qualitative and strategic in nature.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+Users of this tool will enhance their skills in systems thinking, environmental awareness, and innovative thinking for sustainable entrepreneurship.
+- Tags: #systems-thinking, #environmental-awareness, #innovative-thinking, #resource-management
+
+**Source and Credibility**
+The tool is based on academic research and by researchers at the University of Cambridge and is based in the foundations of sustaunable development goals (SDGs).
+- Tags: #academic-institutions, #recognized-experts
+
+**Prerequisites and Requirements**
+The tool is designed for users with at least an intermediate level of understanding of sustainability and life cycle analysis in a business context.
+- Tags: #intermediate-level, #specific-educational-background
+
+**Collaboration Level**
+The tool encourages collaboration among different stakeholders involved in the product life cycle, from design to disposal.
+- Tags: #team, #cross-sector-partnerships
+
+More information can be found at [Sustainable Value Analysis Tool (SVAT) – Miying Yang](https://yangmiyingblog.wordpress.com/svat/)
+
+___
+# Resources
+
+![[Pasted image 20240228142743.png]]1b:T132d,# Overview
+The Triple Layered Business Model Canvas is an innovative tool that expands the traditional business model canvas by integrating two additional layers: an environmental layer, which emphasizes a lifecycle perspective, and a social layer, which focuses on a stakeholder perspective. This holistic approach ensures that a business model not only generates economic value but also addresses environmental and social impacts, promoting sustainability. The tool aids in visualizing and communicating a business's comprehensive value proposition, encouraging creative and sustainable business model innovation. This innovative canvas contributes to sustainable business model research by structuring sustainability considerations into the business model design process.
+___
+# Dimensions
+
+**Resource Type**
+As part of an academic and practical framework this canvas guides businesses in integrating sustainability into their core strategies.
+- Tags: #academic-articles, #framework, #canvas
+
+**Objective**
+The triple layered business model canvas aids businesses in visualizing and aligning their operational, environmental, and social objectives. It helps in strategic planning, identifying sustainable value propositions, and understanding the impacts of business activities. It contributes to a more structured thinking and planning.
+- Tags: #map, #assess, #align
+
+**Target Audience**
+It is designed for entrepreneurs, business strategists, and educators. It’s especially relevant for companies aiming to transition towards sustainability and for startups wanting to embed sustainability from the outset.
+- Tags: #entrepreneurs , #corporations , #startups, #practitioners, #educators
+
+**Sustainability Focus**
+The canvas prompts businesses to consider environmental impacts and social equity, ensuring that the business contributes positively to sustainable development on all levels
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+The tool encourages systemic innovation by considering the interplay between business, environment, and society.
+- Tags: #social-innovation , #business-model-innovation ,#process innovation
+
+**Entrepreneurship Stage**
+It is suitable for businesses at any stage, from ideation to maturity. It helps new businesses to design with sustainability in mind and assists established businesses in transitioning towards more sustainable practices.but it needs to be noted that the earlier the tool is used, the higher will be its potential. 
+- Tags: #ideation , #design , #development , #implementation , #growth, #startup, #scaleup, #maturity
+
+**Scope of Relevance**
+The tool is applicable globally, across industries, and scales. It encourages businesses to consider local and global environmental and social impacts, making it relevant for both local startups and multinational corporations.
+- Tags: #global, #regional, #local, #national
+
+**Methodological Approach**
+It offers a structured, visual framework. It is a holistic approach that encourages looking beyond financial figures to include environmental and social metrics. It is quite similar to the other variations of business model canvas. 
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+It helps improve skills in sustainable business modeling, strategic thinking, and systems thinking. It encourages the development of competencies in integrating diverse perspectives and objectives into a cohesive business strategy.
+- Tags: #systems-thinking , #holistic-thinking , #environmental-awareness , #innovative-thinking
+
+**Source and Credibility**
+The tool originates from the evolution of the well-recognized Business Model Canvas, integrating concepts from sustainability science and corporate social responsibility, adding credibility and a solid theoretical foundation. Therefore, in part it borrows credibility from BMC.
+- Tags: #academic-institutions, #recognized-, #peer-reviewed-publications
+
+**Prerequisites and Requirements**
+The user will be helped by prior understanding of traditional business modeling concepts. Beneficial to have a grasp of basic environmental and social impact assessment methods.
+- Tags: #beginner-level , #intermediate-level
+
+**Collaboration Level**
+While the tool can be used individually, it facilitates collaboration by providing a common framework that aligns diverse business units and stakeholders around sustainability goals. It’s a tool that can be used in workshops and team meetings to foster a shared understanding and commitment to sustainability.
+- Tags: #team, #individual, #cross-sector-partnerships
+
+More information can be found at [The Triple Layered Business Model Canvas](https://sustainablebusinessmodel.org/2015/04/17/the-triple-layered-business-model-canvas-a-tool-to-design-more-sustainable-business-models/).
+
+___
+# Resources
+
+![[1-s2.0-S0959652616307442-mmc1.pdf]]1c:Te0c,# Overview
+[The Impact Journey](https://www.ucd.ie/impacttoolkit/plan/impactjourney/) is a strategic tool designed to assist researchers in planning, capturing, communicating, and monitoring the societal impact of their research. This is rooted in the W.K. Kellogg Foundation Logic Model and offers a structured approach to understanding the progression from research activities to long-term societal changes. It is  particularly useful for researchers in sustainable entrepreneurship and innovation, as it helps in identifying the environmental, social, and economic impacts of their work. It is a versatile tool that can be used at any research stage and is instrumental in impact planning, including identifying collaborators and crafting impact sections for funding proposals.
+
+___
+# Dimensions
+
+**Resource Type**
+The Impact Journey is a descriptive and conceptual framework and practical tool that guide researchers through the process of achieving societal impact. ^a8e820
+- Tags:  #tool, #canvas
+
+**Objective**
+This resource aims to align research activities with their potential societal impact, ensuring that the outcomes contribute to sustainable development goals.
+- Tags: #align, #map
+
+**Target Audience**
+The primary users of this resource are researchers and academics, looking to maximize the societal impact of their work.
+- Tags: #researchers, #educators, #policy-makers
+
+**Sustainability Focus**
+The Impact Journey emphasizes the importance of considering the long-term environmental, social, and economic implications of research by tracing research over time, distinguishing between different five stages on the pathway to impact.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability, #SDGs
+
+**Innovation Type**
+The tool can result in different types of innovation, but is not designed as an aid to support innovation in research.
+- Tags:  #process-innovation
+
+**Entrepreneurship Stage**
+Similar to above, but the insights generated from this canvas can be relevant for the researchers entrepreneurial work.
+- Tags: #ideation, #design, #development, #implementation, #startup, #growth, #scale-up, #maturity
+
+**Scope of Relevance**
+While this tool can be used globally, they are particularly relevant for research that has a specific geographic or demographic focus, such as regional sustainability challenges.
+- Tags: #global, #regional, #national, #local
+
+**Methodological Approach**
+The Impact Journey is based on a logic model, which is a systematic and theoretical framework for planning and evaluating research impact.
+- Tags: #theoretical-frameworks
+
+**Skill Development**
+The tool contributes to skill development in areas such as systems thinking, holistic thinking, and innovative thinking.
+- Tags: #systems-thinking, #holistic-thinking, #innovative-thinking
+
+**Source and Credibility**
+The tool is developed by researchers at the University College Dublin, a reputable academic institution.
+- Tags: #academic-institutions
+
+**Prerequisites and Requirements**
+It is designed for users with at least an intermediate level of understanding of research processes and impact planning.
+- Tags: #intermediate-level, #specific-educational-background
+
+**Collaboration Level**
+The tool encourages collaboration among researchers, stakeholders, and partners to maximize the societal impact of research.
+- Tags: #team, #cross-sector-partnerships, #public-private-partnership
+
+More information can be found at [Research Impact Toolkit](https://www.ucd.ie/impacttoolkit/plan/impactjourney/).
+
+___
+# Resources
+
+![[Pasted image 20240110133707.png]]1d:Tec8,# Overview
+The UCD Impact Planning Canvas is a tool designed to assist researchers in effectively planning and managing the societal impact of their research. It is versatile, allowing for use at various stages of the research process, and supports a range of activities from identifying collaborators to reflecting on completed projects. The Canvas encourages a flexible approach, utilizing post-it notes for dynamic interaction, and requires a minimal time investment of 15-30 minutes. It is complemented by additional resources, including instructional videos and worked examples. 
+
+___
+# Dimensions
+
+**Resource Type**
+The UCD Impact Planning Canvas is a structured guide that aids researchers in organizing their impact strategies, thus it falls under the category of a tool designed for academic and professional use.
+- Tags: #tool, #canvas, #framework
+
+**Objective**
+This resource is primarily aimed at helping researchers map out the potential impact of their work and align their research objectives with broader societal goals.
+- Tags: #map, #align
+
+**Target Audience**
+Given its design for research impact planning, the Canvas is most relevant to researchers, but can also be beneficial to educators and policy-makers involved in the research ecosystem.
+- Tags: #researchers, #educators, #policy-makers
+
+**Sustainability Focus**
+While not exclusively framed as a tool of sustainability, the Canvas can be used to plan for research impacts that include environmental, social, and economic sustainability goals.
+- Tags: #environmental-sustainability, #social-sustainability, #economic-sustainability
+
+**Innovation Type**
+The Canvas supports innovation in research methodologies and potentially in the development of comprehensive ways to think more broadly about the relevance and impact of one's research, as it helps researchers plan for societal impact.
+- Tags: #process-innovation, #social-innovation
+
+**Entrepreneurship Stage**
+The Canvas doesn't directly concern entrepreneurship, but it is adaptable to any stage of the research process and more relevant to the early stages, which can be paralleled to the entrepreneurial journey from ideation to maturity.
+- Tags: #ideation, #design, #development, #implementation, #maturity
+
+**Scope of Relevance**
+The Canvas is designed to be universally applicable, making it relevant on a global scale, but can be tailored to specific regional or national contexts.
+- Tags: #global, #regional, #national
+
+**Methodological Approach**
+The Canvas promotes a structured, strategic approach to planning, which can be associated with both qualitative and theoretical frameworks.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+Using the Canvas can enhance skills in systems thinking, innovative thinking, and adaptability.
+- Tags: #systems-thinking, #innovative-thinking, #adaptability-and-resilience
+
+**Source and Credibility**
+The UCD Impact Planning Canvas is developed by a reputable academic institution.
+- Tags: #academic-institutions
+
+**Prerequisites and Requirements**
+The Canvas is designed to be user-friendly and does not require any specific educational background or advanced skills.
+- Tags: #none, #beginner-level
+
+**Collaboration Level**
+The Canvas facilitates individual reflection as well as team-based planning, but is generally geared toward project impact.
+- Tags: #individual, #team
+
+More information can be found at [UCD Impact Planning Canvas](https://www.ucd.ie/impacttoolkit/plan/ucdimpactplanningcanvas/). Examples of filled in canvases can be found [here](https://www.ucd.ie/impacttoolkit/t4media/Example1.pdf), [here](https://www.ucd.ie/impacttoolkit/t4media/Example2.pdf), and [here](https://www.ucd.ie/impacttoolkit/t4media/Example3.pdf).
+
+___
+# Resources
+
+![[Canvas (1).pdf]]1e:Te25,# Overview
+The [Use2Use Design Toolkit!](https://www.use2use.se/) is a collection of tools aimed at promoting user-centered circular design within organizations. Developed through collaborative efforts, it won the EIT Raw Materials and Circular Societies Prize in 2021 for its innovative approach to sustainable design. The toolkit is divided into three packs: the Thinking Activation Pack, which fosters circular design thinking; the Circular Journeys Exploration Pack, which aids in understanding product life cycles and user interactions; and the Circular Designs Ideation Pack, which encourages the creation of circular design concepts. It has been used by various companies, particularly in the fashion and textiles industry, to integrate circular principles into their design processes.
+
+___
+# Dimensions
+
+**Resource Type**
+The Use2Use Design Toolkit is a practical compilation of tools and concepts designed to facilitate sustainable design processes.
+- Tags: #toolkit
+
+**Objective**
+This resource aims to activate circular design thinking, explore user-product interactions throughout the product lifecycle, and ideate sustainable design concepts.
+- Tags: #align, #map, #assess
+
+**Target Audience**
+The toolkit is intended for designers and organizations looking to incorporate circular design principles into their products and services.
+- Tags: #designers, #practitioners, #corporations, #entrepreneurs 
+
+**Sustainability Focus**
+The toolkit emphasizes circular economy principles, focusing on environmental sustainability through user-centered design.
+- Tags: #environmental-sustainability, #circular-economy
+
+**Innovation Type**
+It supports innovation in product and service design by fostering circular consumption processes.
+- Tags: #product-innovation, #business-model-innovation, #service-innovation
+
+**Entrepreneurship Stage**
+The toolkit is relevant across various stages of entrepreneurship, from the initial design phase to the development and implementation of sustainable business models, but more relevant the earlier in the process it is utilized.
+- Tags: #ideation, #design, #development, #implementation
+
+**Scope of Relevance**
+While the toolkit can be applied widely, it is particularly relevant to the fashion and textiles industry, which has a significant environmental impact.
+- Tags: #global, #industry-specific
+
+**Methodological Approach**
+The toolkit employs a user-centered design approach, integrating qualitative insights into the circular design process.
+- Tags: #qualitative-research, #theoretical-frameworks
+
+**Skill Development**
+It aims to enhance skills in creativity, design, and systems thinking, crucial for developing sustainable solutions.
+- Tags: #creativity-and-design, #systems-thinking, #holistic-thinking, #circular-design
+
+**Source and Credibility**
+The toolkit has been recognized for its practicality and impact, winning prestigious awards and being utilized by reputable partner companies.
+- Tags: #reputable-industry-sources, #recognized-experts, #practice
+
+**Prerequisites and Requirements**
+The toolkit is designed for use by professionals with a basic understanding of design and sustainability concepts.
+- Tags: #intermediate-level, #specific-educational-background
+
+**Collaboration Level**
+It encourages collaboration among designers, organizations, and stakeholders to achieve circular design outcomes.
+- Tags: #team, #cross-sector-partnerships, #cross-team-collaboration 
+
+More information can be found at [USE2USE!](https://www.use2use.se/).
+An interactive canvas can be found [here](https://miro.com/miroverse/the-use2use-design-toolkit/)
+
+___
+# Resources0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","div",null,{"children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-3xl font-bold mb-3","children":"Tools, Methods & Frameworks"}],["$","p",null,{"className":"text-gray-600 dark:text-gray-400","children":"An evolving list of individual tools, methods, or guides related to sustainable entrepreneurship and innovation."}]]}],["$","$L2",null,{"resources":[{"slug":"biomimicards-game","title":"Biomimicards Game","category":"tools","tags":["tool","game","educational-material","educate","inspire","assess","students","educators","entrepreneurs","practitioners","designers","environmental-sustainability","circular-economy","product-innovation","process-innovation","ideation","design","global","local","qualitative-research","theoretical-frameworks","systems-thinking","environmental-awareness","innovative-thinking","reputable-industry-sources","practice","none","individual","team","community"],"overview":"","dimensions":{"___":"$3"}},{"slug":"biomimicry-design-spiral","title":"Biomimicry Design Spiral","category":"tools","tags":["framework","method","align","assess","entrepreneurs","researchers","educators","designers","environmental-sustainability","social-sustainability","economic-sustainability","product-innovation","process-innovation","ideation","design","implementation","none","theoretical-frameworks","experimental-design","systems-thinking","creativity-and-design","environmental-awareness","recognized-experts","practitioners","beginner-level","team","cross-sector-partnerships","cross-team-collaboration"],"overview":"","dimensions":{"___":"$4"}},{"slug":"cambridge-value-mapping-tool","title":"Cambridge Value Mapping Tool","category":"tools","tags":["tool","framework","step-by-step","map","assess","entrepreneurs","researchers","educators","practitioners","students","corporations","environmental-sustainability","social-sustainability","economic-sustainability","business-model-innovation","social-innovation","design","implementation","growth","global","national","regional","local","mixed-methods","theoretical-frameworks","systems-thinking","holistic-thinking","business-and-financial-skills","value-analysis","academic-institutions","recognized-experts","research-based","none","beginner-level","individual","team","community"],"overview":"","dimensions":{"___":"$5"}},{"slug":"circular-business-model-planning-tool","title":"Circular Business Model Planning Tool","category":"tools","tags":["tool","framework","guide","canvas","map","align","assess","entrepreneurs","SMEs","corporations","practitioners","students","environmental-sustainability","circular-economy","business-model-innovation","design","development","implementation","growth","scale-up","global","regional","theoretical-frameworks","strategic-planning","systems-thinking","innovative-thinking","environmental-awareness","holistic-thinking","academic-institutions","recognized-experts","beginner-level","specific-educational-background","team","individual","cross-sector-partnerships","cross-team-collaboration"],"overview":"","dimensions":{"___":"$6"}},{"slug":"circular-canvas","title":"Circular Canvas","category":"tools","tags":["tool","canvas","framework","map","assess","entrepreneurs","researchers","students","policy-makers","educators","practitioners","startups","SMEs","corporations","environmental-sustainability","social-sustainability","economic-sustainability","circular-economy","business-model-innovation","ideation","design","development","implementation","startup","growth","global","regional","national","systems-thinking","holistic-thinking","environmental-awareness","innovative-thinking","business-and-financial-skills","recognized-experts","practice","none","beginner-level","team","community","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$7"}},{"slug":"circular-design-toolkit","title":"Circular Design Toolkit","category":"tools","tags":["toolkit","framework","method","compendium","align","entrepreneurs","researchers","students","educators","practitioners","startups","SMEs","corporations","environmental-sustainability","environmental-impact","circular-economy","product-innovation","business-model-innovation","ideation","design","development","none","qualitative","quantitative","creativity-and-design","systems-thinking","environmental-awareness","innovative-thinking","recognized-experts","practice","beginner-level","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$8"}},{"slug":"circularstart","title":"CircularStart","category":"tools","tags":["online-course","tool","toolkit","framework","canvas","guide","map","assess","align","entrepreneurs","educators","startups","practitioners","environmental-sustainability","economic-sustainability","circular-economy","business-model-innovation","ideation","design","development","implementation","global","regional","theoretical-frameworks","experimental-design","systems-thinking","environmental-awareness","innovative-thinking","business-and-financial-skills","government-sources","academic-institutions","recognized-experts","none","beginner-level","intermediate-level","team","community","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$9"}},{"slug":"ecodesign-strategy-wheel","title":"Ecodesign Strategy Wheel","category":"tools","tags":["tool","framework","align","assess","coordinate","designers","practitioners","educators","SMEs","corporations","environmental-sustainability","environmental-impact","product-innovation","process-innovation","ideation","design","development","global","regional","theoretical-frameworks","creativity-and-design","systems-thinking","environmental-awareness","academic-institutions","recognized-experts","practice","beginner-level","individual","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$a"}},{"slug":"flourishing-business-canvas","title":"Flourishing Business Canvas","category":"tools","tags":["tool","framework","canvas","design","align","improve","entrepreneurs","educators","practitioners","startups","SMEs","corporations","environmental-sustainability","social-sustainability","economic-sustainability","business-model-innovation","process-innovation","ideation","development","implementation","global","regional","national","systems-thinking","collaborative-approach","qualitative","mixed-methods","holistic-thinking","collaboration-and-networking","strategic-thinking","research","recognized-experts","none","team","community","cross-team-collaboration"],"overview":"","dimensions":{"___":"$b"}},{"slug":"future-fit-business-benchmark","title":"Future-Fit Business Benchmark","category":"tools","tags":["framework","method","online","align","assess","entrepreneurs","researchers","policy-makers","investors","educators","practitioners","startups","SMEs","corporations","environmental-sustainability","social-sustainability","economic-sustainability","environmental-impact","social-impact","governance","CSR","SDGs","product-innovation","process-innovation","business-model-innovation","social-innovation","ideation","design","development","implementation","startup","growth","scale-up","maturity","global","regional","national","local","theoretical-frameworks","leadership-and-management","systems-thinking","holistic-thinking","environmental-awareness","innovative-thinking","adaptability-and-resilience","business-and-financial-skills","collaboration-and-networking","data-analysis-and-metrics","peer-reviewed-publications","reputable-industry-sources","academic-institutions","recognized-experts","practice","research","intermediate-level","team","community","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$c"}},{"slug":"impact-compass","title":"Impact Compass","category":"tools","tags":["tool","framework","assess","align","entrepreneurs","investors","policy-makers","general-public","social-sustainability","environmental-sustainability","economic-sustainability","social-innovation","ideation","development","implementation","startup","growth","scale-up","maturity","global","national","regional","theoretical-frameworks","quantitative","systems-thinking","holistic-thinking","adaptability-and-resilience","social-awareness","academic-institutions","recognized-experts","research","intermediate-level","individual","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$d"}},{"slug":"impact-gap-canvas","title":"Impact Gap Canvas","category":"tools","tags":["tool","framework","canvas","map","assess","entrepreneurs","researchers","students","educators","nonprofits","startups","social-sustainability","environmental-sustainability","economic-sustainability","social-innovation","business-model-innovation","ideation","design","global","local","qualitative-research","quantitative-research","mixed-methods","systems-thinking","holistic-thinking","innovative-thinking","academic-institutions","recognized-experts","research","none","beginner-level","team","community","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$e"}},{"slug":"project-resilience-review","title":"Project Resilience Review","category":"tools","tags":["method","framework","guide","assess","align","researchers","students","educators","practitioners","environmental-sustainability","social-sustainability","economic-sustainability","SDGs","process-innovation","social-innovation","business-model-innovation","design","development","implementation","growth","global","national","qualitative-research","theoretical-frameworks","systems-thinking","holistic-thinking","environmental-awareness","innovative-thinking","adaptability-and-resilience","academic-institutions","research","practice","intermediate-level","beginner-level","team","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$f"}},{"slug":"resource-wheel","title":"Resource Wheel","category":"tools","tags":["framework","guide","assess","align","corporations","SMEs","nonprofits","practitioners","environmental-sustainability","social-sustainability","economic-sustainability","governance","SDGs","business-model-innovation","development","implementation","growth","maturity","global","regional","national","qualitative-research","quantitative-research","leadership-and-management","strategic-planning","operations-management","reputable-industry-sources","academic-institutions","intermediate-level","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$10"}},{"slug":"responsible-tech-playbook","title":"Responsible Tech Playbook","category":"tools","tags":["tool","playbook","self-assessment","assess","align","entrepreneurs","researchers","policy-makers","educators","practitioners","corporations","environmental-sustainability","social-sustainability","social-innovation","technological-innovation","business-model-innovation","design","development","global","national","local","mixed-methods","systems-thinking","holistic-thinking","environmental-awareness","collaborative-problem-solving","ethical-reasoning","reputable-industry-sources","recognized-experts","practice","none","beginner-level","team","community","cross-sector-partnerships","individual"],"overview":"","dimensions":{"___":"$11"}},{"slug":"sdg-impact-assessment","title":"SDG Impact Assessment","category":"tools","tags":["tool","online","map","assess","align","researchers","students","educators","practitioners","policy-makers","nonprofits","corporations","environmental-sustainability","social-sustainability","economic-sustainability","SDGs","social-innovation","business-model-innovation","technological-innovation","policy-innovation","ideation","implementation","global","national","local","qualitative-research","theoretical-frameworks","systems-thinking","strategic-planning","sustainability-assessment","academic-institutions","recognized-experts","none","team","community-engagement","cross-team-collaboration"],"overview":"","dimensions":{"___":"$12"}},{"slug":"social-impact-explanatory-cards","title":"Social Impact Explanatory Cards","category":"tools","tags":["tool","educational-material","map","assess","entrepreneurs","researchers","students","policy-makers","educators","practitioners","SDGs","social-innovation","ideation","design","global","regional","national","local","systems-thinking","environmental-awareness","innovative-thinking","government-sources","reputable-industry-sources","none","individual","team","community"],"overview":"","dimensions":{"____":"$13"}},{"slug":"social-impact-wheel","title":"Social Impact Wheel","category":"tools","tags":["framework","tool","assess","align","entrepreneurs","corporations","SMEs","startups","policy-makers","practitioners","social-sustainability","environmental-sustainability","economic-sustainability","SDGs","social-innovation","business-model-innovation","product-innovation","process-innovation","ideation","design","development","implementation","growth","global","national","local","theoretical-frameworks","strategic-planning","systems-thinking","holistic-thinking","environmental-awareness","innovative-thinking","recognized-experts","practice","research","none","team","community"],"overview":"","dimensions":{"____":"$14"}},{"slug":"sustainability-assessment-of-startups","title":"Sustainability Assessment of Startups","category":"tools","tags":["framework","criteria-based","qualitative","ranking-scale","assess","report","align","entrepreneurs","investors","startups","advisors","environmental-sustainability","social-sustainability","economic-sustainability","SDGs","business-model-innovation","wide-application","ideation","development","startup","growth","pre-seed","global","qualitative-research","theoretical-frameworks","systems-thinking","holistic-thinking","environmental-awareness","business-and-financial-skills","reputable-industry-sources","practice","academia","beginner-level","intermediate-level","individual","team","inter-department"],"overview":"","dimensions":{"___":"$15"}},{"slug":"sustainability-balanced-scorecard","title":"Sustainability Balanced Scorecard","category":"tools","tags":["framework","tool","align","assess","practitioners","corporations","environmental-sustainability","social-sustainability","economic-sustainability","product-innovation","process-innovation","business-model-innovation","design","development","implementation","global","regional","national","local","qualitative-research","quantitative-research","leadership-and-management","systems-thinking","holistic-thinking","recognized-experts","academic-institutions","reputable-industry-sources","intermediate-level","specific-educational-background","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$16"}},{"slug":"sustainability-impact-canvas","title":"Sustainability Impact Canvas","category":"tools","tags":["tool","framework","canvas","map","assess","entrepreneurs","designers","corporations","SMEs","startups","environmental-sustainability","social-sustainability","economic-sustainability","process-innovation","business-model-innovation","social-innovation","ideation","design","development","implementation","growth","global","regional","qualitative-research","quantitative-research","mixed-methods","systems-thinking","environmental-awareness","holistic-thinking","impact-measurement","sustainable-business-planning","reputable-industry-sources","academic-institutions","none","beginner-level","team","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$17"}},{"slug":"sustainability-swot-analysis","title":"Sustainability SWOT Analysis","category":"tools","tags":["framework","tool","canvas","assess","align","entrepreneurs","researchers","policy-makers","educators","practitioners","corporations","environmental-sustainability","business-model-innovation","process-innovation","ideation","design","development","implementation","growth","global","national","local","theoretical-frameworks","qualitative-and-quantitative","mixed-methods","systems-thinking","environmental-awareness","holistic-thinking","strategic-thinking","reputable-industry-sources","none","individual","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$18"}},{"slug":"sustainable-business-model-canvas","title":"Sustainable Business Model Canvas","category":"tools","tags":["framework","template","canvas","align","map","entrepreneurs","researchers","educators","students","practitioners","startups","SMEs","corporations","environmental-sustainability","social-sustainability","environmental-impact","social-impact","business-model-innovation","process-innovation","product-innovation","ideation","design","development","implementation","startup","growth","scale-up","global","regional","national","theoretical-frameworks","systems-thinking","holistic-thinking","environmental-awareness","business-and-financial-skills","innovative-thinking","academic-institutions","recognized-experts","none","beginner-level","team","cross-team-collaboration"],"overview":"","dimensions":{"___":"$19"}},{"slug":"sustainable-value-analysis-tool-svat","title":"Sustainable Value Analysis Tool (SVAT)","category":"tools","tags":["tool","framework","method","map","assess","align","entrepreneurs","practitioners","corporations","manufacturing","environmental-sustainability","social-sustainability","economic-sustainability","product-innovation","business-model-innovation","design","development","implementation","global","local","qualitative-research","theoretical-frameworks","systems-thinking","environmental-awareness","innovative-thinking","resource-management","academic-institutions","recognized-experts","intermediate-level","specific-educational-background","team","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$1a"}},{"slug":"triple-layered-business-model-canvas","title":"Triple Layered Business Model Canvas","category":"tools","tags":["academic-articles","framework","canvas","map","assess","align","entrepreneurs","corporations","startups","practitioners","educators","environmental-sustainability","social-sustainability","economic-sustainability","social-innovation","business-model-innovation","process","ideation","design","development","implementation","growth","startup","scaleup","maturity","global","regional","local","national","qualitative-research","theoretical-frameworks","systems-thinking","holistic-thinking","environmental-awareness","innovative-thinking","academic-institutions","recognized-","peer-reviewed-publications","beginner-level","intermediate-level","team","individual","cross-sector-partnerships"],"overview":"","dimensions":{"___":"$1b"}},{"slug":"ucd-impact-journey","title":"UCD Impact Journey","category":"tools","tags":["tool","canvas","align","map","researchers","educators","policy-makers","environmental-sustainability","social-sustainability","economic-sustainability","SDGs","process-innovation","ideation","design","development","implementation","startup","growth","scale-up","maturity","global","regional","national","local","theoretical-frameworks","systems-thinking","holistic-thinking","innovative-thinking","academic-institutions","intermediate-level","specific-educational-background","team","cross-sector-partnerships","public-private-partnership"],"overview":"","dimensions":{"___":"$1c"}},{"slug":"ucd-impact-planning-canvas","title":"UCD Impact Planning Canvas","category":"tools","tags":["tool","canvas","framework","map","align","researchers","educators","policy-makers","environmental-sustainability","social-sustainability","economic-sustainability","process-innovation","social-innovation","ideation","design","development","implementation","maturity","global","regional","national","qualitative-research","theoretical-frameworks","systems-thinking","innovative-thinking","adaptability-and-resilience","academic-institutions","none","beginner-level","individual","team"],"overview":"","dimensions":{"___":"$1d"}},{"slug":"use2use-design-tools","title":"Use2Use Design Tools","category":"tools","tags":["toolkit","align","map","assess","designers","practitioners","corporations","entrepreneurs","environmental-sustainability","circular-economy","product-innovation","business-model-innovation","service-innovation","ideation","design","development","implementation","global","industry-specific","qualitative-research","theoretical-frameworks","creativity-and-design","systems-thinking","holistic-thinking","circular-design","reputable-industry-sources","recognized-experts","practice","intermediate-level","specific-educational-background","team","cross-sector-partnerships","cross-team-collaboration"],"overview":"","dimensions":{"___":"$1e"}}]}]]}],["$L1f"],"$L20"]}],"loading":null,"isPartial":false}
+1f:["$","script","script-0",{"src":"/_next/static/chunks/cd5b1371f9caf8cd.js","async":true}]
+20:["$","$L21",null,{"children":["$","$22",null,{"name":"Next.MetadataOutlet","children":"$@23"}]}]
+23:null

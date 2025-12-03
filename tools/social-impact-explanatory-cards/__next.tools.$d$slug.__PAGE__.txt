@@ -1,0 +1,76 @@
+1:"$Sreact.fragment"
+6:I[1708,["/_next/static/chunks/0d9b19692ff8ad58.js","/_next/static/chunks/bbd834a9f9fac7e2.js"],"ResourcesSection"]
+7:I[19400,["/_next/static/chunks/a0e533664789d2fa.js","/_next/static/chunks/41b2196a581ab612.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+2:Tf91,<hr>
+<h1>Overview</h1>
+<p><a href="https://miro.com/app/board/uXjVOxE7F2g=/">Social Impact Explanatory Cards</a> is an educational tool designed to enhance understanding and engagement with the Sustainable Development Goals (SDGs). It serves as a practical resource for individuals and organizations aiming to integrate sustainability into their operations and strategies. By breaking down the complex topics of the SDGs into digestible information, these cards facilitate learning and inspire action towards achieving the goals. They are versatile and can be employed in various settings, including academic institutions, and businesses.</p>
+<hr>
+<h1>Dimensions</h1>
+<p><strong>Resource Type</strong>
+These cards are educational tools that provide concise information and insights into the SDGs.</p>
+<ul>
+<li>Tags: #tool, #educational-material</li>
+</ul>
+<p><strong>Objective</strong>
+The primary goal of Social Impact Explanatory Cards is to educate and inform users about the SDGs and to foster a deeper understanding of their targets and implications.</p>
+<ul>
+<li>Tags: #map, #assess</li>
+</ul>
+<p><strong>Target Audience</strong>
+These cards are designed for a broad audience, including those involved in sustainable entrepreneurship, education, and policy-making, who are interested in understanding and contributing to the SDGs.</p>
+<ul>
+<li>Tags: #entrepreneurs, #researchers, #students, #policy-makers, #educators, #practitioners</li>
+</ul>
+<p><strong>Sustainability Focus</strong>
+The focus of these cards is on awareness and understanding of the SDGs, which encompass social, economic, and environmental objectives.</p>
+<ul>
+<li>Tags:  #SDGs</li>
+</ul>
+<p><strong>Innovation Type</strong>
+While not directly related to innovation, these cards support social innovation by providing knowledge that can inspire new approaches to sustainable development challenges.</p>
+<ul>
+<li>Tags: #social-innovation</li>
+</ul>
+<p><strong>Entrepreneurship Stage</strong>
+Applicable across various stages of entrepreneurship, these cards are particularly useful during the ideation and design phases, where understanding the SDGs can influence sustainable business models.</p>
+<ul>
+<li>Tags: #ideation, #design</li>
+</ul>
+<p><strong>Scope of Relevance</strong>
+The SDGs are global in nature; therefore, these cards have a global relevance but can also be applied to regional, national, or local contexts.</p>
+<ul>
+<li>Tags: #global, #regional, #national, #local</li>
+</ul>
+<p><strong>Methodological Approach</strong>
+The cards use an educational approach to convey information and do not prescribe a specific research or problem-solving methodology.</p>
+<ul>
+<li>Tags: #educational-material</li>
+</ul>
+<p><strong>Skill Development</strong>
+By using these cards, individuals can develop a range of skills, including systems thinking, environmental awareness, and innovative thinking. Noteworthy, these cards are mainly relevant for raising awareness.</p>
+<ul>
+<li>Tags: #systems-thinking, #environmental-awareness, #innovative-thinking</li>
+</ul>
+<p><strong>Source and Credibility</strong>
+The information on these cards is typically derived from the United Nations and other reputable sources that have established the SDGs. In effect, the cards are exemplification and simplification of SDGs.</p>
+<ul>
+<li>Tags: #government-sources, #reputable-industry-sources</li>
+</ul>
+<p><strong>Prerequisites and Requirements</strong>
+These cards are designed to be accessible to a wide audience, with no specific prerequisites required to understand and engage with the content.</p>
+<ul>
+<li>Tags: #none</li>
+</ul>
+<p><strong>Collaboration Level</strong>
+Social Impact Explanatory Cards encourage collaboration by prompting discussions and collective efforts towards achieving the SDGs.</p>
+<ul>
+<li>Tags: #individual, #team, #community</li>
+</ul>
+<p>More information can be found at <a href="https://www.boardofinnovation.com/tools/social-impact-explanatory-cards/">Board of Innovation</a></p>
+<hr>
+0:{"buildId":"P7IHa75e2PZY2cZPpQM9z","rsc":["$","$1","c",{"children":[["$","article",null,{"className":"max-w-4xl mx-auto","children":[["$","div",null,{"className":"mb-8","children":[["$","h1",null,{"className":"text-4xl font-bold mb-4","children":"Social Impact Explanatory Cards"}],["$","div",null,{"className":"flex flex-wrap gap-2 mb-6","children":[["$","span","tool",{"className":"tag","children":["#","tool"]}],["$","span","educational-material",{"className":"tag","children":["#","educational-material"]}],["$","span","map",{"className":"tag","children":["#","map"]}],["$","span","assess",{"className":"tag","children":["#","assess"]}],["$","span","entrepreneurs",{"className":"tag","children":["#","entrepreneurs"]}],["$","span","researchers",{"className":"tag","children":["#","researchers"]}],["$","span","students",{"className":"tag","children":["#","students"]}],["$","span","policy-makers",{"className":"tag","children":["#","policy-makers"]}],["$","span","educators",{"className":"tag","children":["#","educators"]}],["$","span","practitioners",{"className":"tag","children":["#","practitioners"]}],["$","span","SDGs",{"className":"tag","children":["#","SDGs"]}],["$","span","social-innovation",{"className":"tag","children":["#","social-innovation"]}],["$","span","ideation",{"className":"tag","children":["#","ideation"]}],["$","span","design",{"className":"tag","children":["#","design"]}],["$","span","global",{"className":"tag","children":["#","global"]}],["$","span","regional",{"className":"tag","children":["#","regional"]}],["$","span","national",{"className":"tag","children":["#","national"]}],["$","span","local",{"className":"tag","children":["#","local"]}],["$","span","systems-thinking",{"className":"tag","children":["#","systems-thinking"]}],["$","span","environmental-awareness",{"className":"tag","children":["#","environmental-awareness"]}],["$","span","innovative-thinking",{"className":"tag","children":["#","innovative-thinking"]}],["$","span","government-sources",{"className":"tag","children":["#","government-sources"]}],["$","span","reputable-industry-sources",{"className":"tag","children":["#","reputable-industry-sources"]}],["$","span","none",{"className":"tag","children":["#","none"]}],["$","span","individual",{"className":"tag","children":["#","individual"]}],["$","span","team",{"className":"tag","children":["#","team"]}],["$","span","community",{"className":"tag","children":["#","community"]}]]}]]}],["$","div",null,{"className":"prose prose-gray dark:prose-invert max-w-none prose-headings:font-bold prose-h1:text-3xl prose-h1:mb-4 prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:pb-2 prose-h2:border-b prose-h2:border-gray-200 dark:prose-h2:border-gray-700 prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-p:mb-4 prose-p:leading-relaxed prose-ul:mb-4 prose-ul:ml-6 prose-li:mb-2 prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline prose-strong:font-semibold prose-img:rounded-lg prose-img:shadow-md","dangerouslySetInnerHTML":{"__html":"$2"}}],"$L3"]}],["$L4"],"$L5"]}],"loading":null,"isPartial":false}
+3:["$","$L6",null,{"attachments":[{"filename":"Pasted image 20240109150947.png","type":"image","url":"/attachments/Pasted%20image%2020240109150947.png"},{"filename":"SDG Explanatory cards.pdf","type":"pdf","url":"/attachments/SDG%20Explanatory%20cards.pdf"}]}]
+4:["$","script","script-0",{"src":"/_next/static/chunks/bbd834a9f9fac7e2.js","async":true}]
+5:["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]
+9:null
