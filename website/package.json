@@ -8,7 +8,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "check-attachments": "node scripts/find-attachments.js"
+    "check-attachments": "node scripts/find-attachments.js",
+    "deploy": "next build && touch out/.nojekyll && gh-pages -d out -b gh-pages"
   },
   "keywords": [],
   "author": "",
