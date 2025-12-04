@@ -4,9 +4,10 @@ import { Attachment } from '../lib/markdown';
 
 interface ResourcesSectionProps {
   attachments: Attachment[];
+  pageTitle?: string;
 }
 
-export function ResourcesSection({ attachments }: ResourcesSectionProps) {
+export function ResourcesSection({ attachments, pageTitle }: ResourcesSectionProps) {
   if (attachments.length === 0) {
     return null;
   }
@@ -16,15 +17,42 @@ export function ResourcesSection({ attachments }: ResourcesSectionProps) {
       <h2 className="text-2xl font-bold mb-6">Resources</h2>
       <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
         {attachments.map((attachment, index) => (
-          <AttachmentCard key={index} attachment={attachment} />
+          <AttachmentCard key={index} attachment={attachment} pageTitle={pageTitle} />
         ))}
       </div>
     </section>
   );
 }
 
-function AttachmentCard({ attachment }: { attachment: Attachment }) {
+// Format filename to a clean display name
+function formatDisplayName(filename: string): string {
+  // Remove file extension
+  const nameWithoutExt = filename.replace(/\.[^.]+$/, '');
+
+  // Remove leading numbers and dashes (e.g., "2 - SBMC" -> "SBMC")
+  let cleaned = nameWithoutExt.replace(/^\d+\s*[-–]\s*/, '');
+
+  // Handle "Pasted image" timestamps - convert to "Image"
+  if (cleaned.startsWith('Pasted image')) {
+    return 'Image';
+  }
+
+  // Replace hyphens, underscores, and multiple spaces with single space
+  cleaned = cleaned.replace(/[-_]+/g, ' ').replace(/\s+/g, ' ');
+
+  // Capitalize first letter of each word
+  cleaned = cleaned
+    .split(' ')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase())
+    .join(' ');
+
+  return cleaned.trim() || 'Document';
+}
+
+function AttachmentCard({ attachment, pageTitle }: { attachment: Attachment; pageTitle?: string }) {
   const { filename, type, url } = attachment;
+  // Use page title if provided, otherwise format the filename
+  const displayName = pageTitle || formatDisplayName(filename);
 
   // Files are available in public/attachments
   const isAvailable = true;
@@ -93,7 +121,7 @@ function AttachmentCard({ attachment }: { attachment: Attachment }) {
                 : 'text-gray-500 dark:text-gray-500'
             }`}
           >
-            {filename}
+            {displayName}
           </p>
           {!isAvailable && (
             <p className="text-xs text-gray-500 dark:text-gray-500 mt-1">
