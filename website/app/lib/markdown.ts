@@ -257,9 +257,3 @@ export async function getResourceBySlug(
     attachments,
   };
 }
-
-// Get all resources
-export function getAllResources(): ResourceMetadata[] {
-  const categories = ['tools', 'collections', 'articles'];
-  return categories.flatMap((cat) => getResourcesByCategory(cat));
-}
