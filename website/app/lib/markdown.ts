@@ -182,6 +182,19 @@ export function getResourcesByCategory(category: string): ResourceMetadata[] {
   return resources;
 }
 
+// Get all resources from all categories
+export function getAllResources(): ResourceMetadata[] {
+  const categories = ['tools', 'collections', 'articles'];
+  const allResources: ResourceMetadata[] = [];
+
+  categories.forEach((category) => {
+    const resources = getResourcesByCategory(category);
+    allResources.push(...resources);
+  });
+
+  return allResources;
+}
+
 // Get a single resource by slug and category
 export async function getResourceBySlug(
   category: string,
