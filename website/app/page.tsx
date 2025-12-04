@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { getAllResources } from './lib/markdown';
-import { LinkPreview } from './components/LinkPreview';
+import { PanelLink } from './components/PanelLink';
 
 export default function HomePage() {
   const allResources = getAllResources();
@@ -78,14 +78,9 @@ export default function HomePage() {
         <h2 className="text-2xl font-bold mb-6">Featured Tools</h2>
         <div className="grid md:grid-cols-2 gap-4">
           {featuredTools.map((tool) => (
-            <LinkPreview
+            <PanelLink
               key={tool.slug}
               href={`/${tool.category}/${tool.slug}`}
-              previewData={{
-                title: tool.title,
-                overview: tool.overview,
-                category: tool.category,
-              }}
               className="block p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 transition-colors hover:no-underline"
             >
               <h3 className="font-semibold mb-2">{tool.title}</h3>
@@ -104,7 +99,7 @@ export default function HomePage() {
                   </span>
                 ))}
               </div>
-            </LinkPreview>
+            </PanelLink>
           ))}
         </div>
       </section>

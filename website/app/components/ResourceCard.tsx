@@ -1,5 +1,5 @@
 import { ResourceMetadata } from '../lib/markdown';
-import { LinkPreview } from './LinkPreview';
+import { PanelLink } from './PanelLink';
 
 interface ResourceCardProps {
   resource: ResourceMetadata;
@@ -7,13 +7,8 @@ interface ResourceCardProps {
 
 export function ResourceCard({ resource }: ResourceCardProps) {
   return (
-    <LinkPreview
+    <PanelLink
       href={`/${resource.category}/${resource.slug}`}
-      previewData={{
-        title: resource.title,
-        overview: resource.overview,
-        category: resource.category,
-      }}
       className="block p-5 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 transition-all hover:shadow-md hover:no-underline"
     >
       <h3 className="text-lg font-semibold mb-2 text-gray-900 dark:text-gray-100">
@@ -41,6 +36,6 @@ export function ResourceCard({ resource }: ResourceCardProps) {
           </span>
         )}
       </div>
-    </LinkPreview>
+    </PanelLink>
   );
 }
