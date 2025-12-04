@@ -1,6 +1,8 @@
 'use client';
 
+import { useState } from 'react';
 import { Attachment } from '../lib/markdown';
+import { FilePreviewModal } from './FilePreviewModal';
 
 interface ResourcesSectionProps {
   attachments: Attachment[];
@@ -8,19 +10,38 @@ interface ResourcesSectionProps {
 }
 
 export function ResourcesSection({ attachments, pageTitle }: ResourcesSectionProps) {
+  const [previewFile, setPreviewFile] = useState<Attachment | null>(null);
+
   if (attachments.length === 0) {
     return null;
   }
 
   return (
-    <section className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
-      <h2 className="text-2xl font-bold mb-6">Resources</h2>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
-        {attachments.map((attachment, index) => (
-          <AttachmentCard key={index} attachment={attachment} pageTitle={pageTitle} />
-        ))}
-      </div>
-    </section>
+    <>
+      <section className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
+        <h2 className="text-2xl font-bold mb-6">Resources</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+          {attachments.map((attachment, index) => (
+            <AttachmentCard
+              key={index}
+              attachment={attachment}
+              pageTitle={pageTitle}
+              onPreview={() => setPreviewFile(attachment)}
+            />
+          ))}
+        </div>
+      </section>
+
+      {previewFile && (
+        <FilePreviewModal
+          isOpen={!!previewFile}
+          onClose={() => setPreviewFile(null)}
+          filename={pageTitle || formatDisplayName(previewFile.filename)}
+          url={previewFile.url}
+          type={previewFile.type}
+        />
+      )}
+    </>
   );
 }
 
@@ -49,8 +70,16 @@ function formatDisplayName(filename: string): string {
   return cleaned.trim() || 'Document';
 }
 
-function AttachmentCard({ attachment, pageTitle }: { attachment: Attachment; pageTitle?: string }) {
-  const { filename, type, url } = attachment;
+function AttachmentCard({
+  attachment,
+  pageTitle,
+  onPreview,
+}: {
+  attachment: Attachment;
+  pageTitle?: string;
+  onPreview: () => void;
+}) {
+  const { filename, type } = attachment;
   // Use page title if provided, otherwise format the filename
   const displayName = pageTitle || formatDisplayName(filename);
 
@@ -58,20 +87,18 @@ function AttachmentCard({ attachment, pageTitle }: { attachment: Attachment; pag
   const isAvailable = true;
 
   return (
-    <a
-      href={isAvailable ? url : '#'}
-      target={isAvailable ? '_blank' : undefined}
-      rel={isAvailable ? 'noopener noreferrer' : undefined}
+    <button
+      onClick={isAvailable ? onPreview : undefined}
       className={`
-        block p-4 rounded-lg border-2
+        w-full text-left p-4 rounded-lg border-2
         ${
           isAvailable
-            ? 'border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 bg-white dark:bg-gray-800'
+            ? 'border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 bg-white dark:bg-gray-800 cursor-pointer'
             : 'border-dashed border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-900 cursor-not-allowed'
         }
         transition-colors
       `}
-      onClick={(e) => !isAvailable && e.preventDefault()}
+      disabled={!isAvailable}
     >
       <div className="flex items-center gap-3">
         <div className="flex-shrink-0">
@@ -140,11 +167,17 @@ function AttachmentCard({ attachment, pageTitle }: { attachment: Attachment; pag
               strokeLinecap="round"
               strokeLinejoin="round"
               strokeWidth={2}
-              d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+              d="M15 12a3 3 0 11-6 0 3 3 0 016 0z"
+            />
+            <path
+              strokeLinecap="round"
+              strokeLinejoin="round"
+              strokeWidth={2}
+              d="M2.458 12C3.732 7.943 7.523 5 12 5c4.478 0 8.268 2.943 9.542 7-1.274 4.057-5.064 7-9.542 7-4.477 0-8.268-2.943-9.542-7z"
             />
           </svg>
         )}
       </div>
-    </a>
+    </button>
   );
 }
