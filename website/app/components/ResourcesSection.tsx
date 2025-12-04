@@ -18,9 +18,9 @@ export function ResourcesSection({ attachments, pageTitle }: ResourcesSectionPro
 
   return (
     <>
-      <section className="mt-12 pt-8 border-t border-gray-200 dark:border-gray-700">
-        <h2 className="text-2xl font-bold mb-6">Resources</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+      <section className="mt-16 pt-12 border-t border-[var(--border)]">
+        <h2 className="text-xl font-semibold mb-8 tracking-tight">Resources</h2>
+        <div className="grid grid-cols-1 gap-3">
           {attachments.map((attachment, index) => (
             <AttachmentCard
               key={index}
@@ -90,13 +90,13 @@ function AttachmentCard({
     <button
       onClick={isAvailable ? onPreview : undefined}
       className={`
-        w-full text-left p-4 rounded-lg border-2
+        w-full text-left px-4 py-3 rounded-lg border
         ${
           isAvailable
-            ? 'border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 bg-white dark:bg-gray-800 cursor-pointer'
-            : 'border-dashed border-gray-300 dark:border-gray-600 bg-gray-50 dark:bg-gray-900 cursor-not-allowed'
+            ? 'border-[var(--border)] hover:border-[var(--text-muted)] bg-[var(--bg-secondary)] hover:bg-[var(--border-subtle)] cursor-pointer'
+            : 'border-dashed border-[var(--border)] bg-[var(--bg-secondary)] cursor-not-allowed opacity-60'
         }
-        transition-colors
+        transition-all duration-200
       `}
       disabled={!isAvailable}
     >
@@ -104,7 +104,7 @@ function AttachmentCard({
         <div className="flex-shrink-0">
           {type === 'pdf' ? (
             <svg
-              className={`w-10 h-10 ${isAvailable ? 'text-red-500' : 'text-gray-400'}`}
+              className={`w-8 h-8 ${isAvailable ? 'text-[var(--text-muted)]' : 'text-[var(--text-muted)]'}`}
               fill="currentColor"
               viewBox="0 0 20 20"
             >
@@ -116,7 +116,7 @@ function AttachmentCard({
             </svg>
           ) : type === 'image' ? (
             <svg
-              className={`w-10 h-10 ${isAvailable ? 'text-blue-500' : 'text-gray-400'}`}
+              className={`w-8 h-8 ${isAvailable ? 'text-[var(--text-muted)]' : 'text-[var(--text-muted)]'}`}
               fill="currentColor"
               viewBox="0 0 20 20"
             >
@@ -128,7 +128,7 @@ function AttachmentCard({
             </svg>
           ) : (
             <svg
-              className={`w-10 h-10 ${isAvailable ? 'text-gray-500' : 'text-gray-400'}`}
+              className={`w-8 h-8 ${isAvailable ? 'text-[var(--text-muted)]' : 'text-[var(--text-muted)]'}`}
               fill="currentColor"
               viewBox="0 0 20 20"
             >
@@ -144,21 +144,21 @@ function AttachmentCard({
           <p
             className={`text-sm font-medium truncate ${
               isAvailable
-                ? 'text-gray-900 dark:text-gray-100'
-                : 'text-gray-500 dark:text-gray-500'
+                ? 'text-[var(--text-primary)]'
+                : 'text-[var(--text-muted)]'
             }`}
           >
             {displayName}
           </p>
           {!isAvailable && (
-            <p className="text-xs text-gray-500 dark:text-gray-500 mt-1">
+            <p className="text-xs text-[var(--text-muted)] mt-1">
               File not yet available
             </p>
           )}
         </div>
         {isAvailable && (
           <svg
-            className="w-5 h-5 text-gray-400"
+            className="w-4 h-4 text-[var(--text-muted)] flex-shrink-0"
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
