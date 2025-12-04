@@ -185,9 +185,21 @@ export function getResourcesByCategory(category: string): ResourceMetadata[] {
       const title = file.replace(/\.md$/, '');
       const slug = slugify(title);
 
-      // Extract overview (first paragraph after first heading)
-      const overviewMatch = content.match(/^#.*?\n\n(.*?)(?:\n\n|___)/s);
-      const overview = overviewMatch ? overviewMatch[1].trim() : '';
+      // Extract overview - look for content after "# Overview" or first paragraph
+      let overview = '';
+
+      // Try to find Overview section specifically
+      const overviewSectionMatch = content.match(/#+\s*Overview\s*\n+([^\n]+(?:\n(?!#+|___)[^\n]+)*)/i);
+      if (overviewSectionMatch) {
+        overview = overviewSectionMatch[1].trim();
+      } else {
+        // Fallback: get first substantial paragraph (skip horizontal rules and empty lines)
+        const cleanContent = content.replace(/^___+\s*/gm, '').replace(/^#+[^\n]*\n+/m, '');
+        const firstParagraphMatch = cleanContent.match(/^([^\n]+(?:\n(?!\n|#+|___)[^\n]+)*)/);
+        if (firstParagraphMatch) {
+          overview = firstParagraphMatch[1].trim();
+        }
+      }
 
       return {
         slug,
@@ -262,9 +274,21 @@ export async function getResourceBySlug(
 
   const contentHtml = processedContent.toString();
 
-  // Extract overview
-  const overviewMatch = content.match(/^#.*?\n\n(.*?)(?:\n\n|___)/s);
-  const overview = overviewMatch ? overviewMatch[1].trim() : '';
+  // Extract overview - look for content after "# Overview" or first paragraph
+  let overview = '';
+
+  // Try to find Overview section specifically
+  const overviewSectionMatch = content.match(/#+\s*Overview\s*\n+([^\n]+(?:\n(?!#+|___)[^\n]+)*)/i);
+  if (overviewSectionMatch) {
+    overview = overviewSectionMatch[1].trim();
+  } else {
+    // Fallback: get first substantial paragraph (skip horizontal rules and empty lines)
+    const cleanContent = content.replace(/^___+\s*/gm, '').replace(/^#+[^\n]*\n+/m, '');
+    const firstParagraphMatch = cleanContent.match(/^([^\n]+(?:\n(?!\n|#+|___)[^\n]+)*)/);
+    if (firstParagraphMatch) {
+      overview = firstParagraphMatch[1].trim();
+    }
+  }
 
   return {
     slug,
