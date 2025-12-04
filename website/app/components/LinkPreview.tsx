@@ -20,7 +20,7 @@ export function LinkPreview({ href, children, className, previewData }: LinkPrev
   const [showPreview, setShowPreview] = useState(false);
   const [position, setPosition] = useState({ x: 0, y: 0 });
   const linkRef = useRef<HTMLAnchorElement>(null);
-  const timeoutRef = useRef<NodeJS.Timeout>();
+  const timeoutRef = useRef<NodeJS.Timeout | undefined>(undefined);
 
   const handleMouseEnter = () => {
     if (!previewData) return;
