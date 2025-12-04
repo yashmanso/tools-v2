@@ -29,12 +29,24 @@ export interface Resource extends ResourceMetadata {
 
 // Convert Obsidian wiki-links to markdown links
 function convertWikiLinks(content: string): string {
-  // Handle image attachments: ![[image.png]] -> ![](/attachments/image.png)
+  // Handle image/file attachments: ![[file]]
   content = content.replace(/!\[\[([^\]]+)\]\]/g, (match, filename) => {
     const encodedFilename = encodeURIComponent(filename);
-    // Remove extension for alt text
-    const altText = filename.replace(/\.[^.]+$/, '');
-    return `![${altText}](/attachments/${encodedFilename})`;
+    const extension = filename.split('.').pop()?.toLowerCase() || '';
+
+    // PDFs should be links, not images
+    if (extension === 'pdf') {
+      return `[📄 ${filename}](/attachments/${encodedFilename})`;
+    }
+
+    // Images should use img tag
+    if (['png', 'jpg', 'jpeg', 'gif', 'svg', 'webp'].includes(extension)) {
+      const altText = filename.replace(/\.[^.]+$/, '');
+      return `![${altText}](/attachments/${encodedFilename})`;
+    }
+
+    // Other files as links
+    return `[${filename}](/attachments/${encodedFilename})`;
   });
 
   // Handle [[link|display text]] format
