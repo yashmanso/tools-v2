@@ -29,6 +29,14 @@ export interface Resource extends ResourceMetadata {
 
 // Convert Obsidian wiki-links to markdown links
 function convertWikiLinks(content: string): string {
+  // Handle image attachments: ![[image.png]] -> ![](/attachments/image.png)
+  content = content.replace(/!\[\[([^\]]+)\]\]/g, (match, filename) => {
+    const encodedFilename = encodeURIComponent(filename);
+    // Remove extension for alt text
+    const altText = filename.replace(/\.[^.]+$/, '');
+    return `![${altText}](/attachments/${encodedFilename})`;
+  });
+
   // Handle [[link|display text]] format
   content = content.replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (match, link, display) => {
     const slug = link.split('/').pop()?.replace(/\.md$/, '') || link;
@@ -228,10 +236,10 @@ export async function getResourceBySlug(
   // Separate main content from Resources section
   const { mainContent, resourcesContent } = separateContentAndResources(content);
 
-  // Extract attachments from the entire content
-  const attachments = extractAttachments(content);
+  // Extract attachments only from Resources section (not inline images from main content)
+  const attachments = extractAttachments(resourcesContent);
 
-  // Convert wiki links before processing markdown
+  // Convert wiki links and inline images before processing markdown
   const convertedContent = convertWikiLinks(mainContent);
 
   // Process markdown to HTML
