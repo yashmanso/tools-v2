@@ -34,9 +34,9 @@ function convertWikiLinks(content: string): string {
     const encodedFilename = encodeURIComponent(filename);
     const extension = filename.split('.').pop()?.toLowerCase() || '';
 
-    // PDFs should be links, not images
+    // PDFs should be embedded inline
     if (extension === 'pdf') {
-      return `[📄 ${filename}](/attachments/${encodedFilename})`;
+      return `<div class="pdf-embed my-8"><iframe src="/attachments/${encodedFilename}" class="w-full h-[600px] border border-gray-300 dark:border-gray-700 rounded-lg" title="${filename}"></iframe></div>`;
     }
 
     // Images should use img tag
@@ -45,8 +45,8 @@ function convertWikiLinks(content: string): string {
       return `![${altText}](/attachments/${encodedFilename})`;
     }
 
-    // Other files as links
-    return `[${filename}](/attachments/${encodedFilename})`;
+    // Other files as embedded iframes
+    return `<div class="file-embed my-8"><iframe src="/attachments/${encodedFilename}" class="w-full h-[600px] border border-gray-300 dark:border-gray-700 rounded-lg" title="${filename}"></iframe></div>`;
   });
 
   // Handle [[link|display text]] format
