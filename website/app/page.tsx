@@ -39,7 +39,7 @@ export default function HomePage() {
           <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
             Tools & Methods
           </h2>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
+          <p className="text-sm text-gray-600 dark:text-gray-400 text-justify">
             Individual tools, methods, frameworks, and guides for sustainable innovation
           </p>
         </Link>
@@ -54,7 +54,7 @@ export default function HomePage() {
           <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
             Collections & Kits
           </h2>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
+          <p className="text-sm text-gray-600 dark:text-gray-400 text-justify">
             Curated collections, compendia, and toolkits for comprehensive learning
           </p>
         </Link>
@@ -69,7 +69,7 @@ export default function HomePage() {
           <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
             Academic Articles
           </h2>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
+          <p className="text-sm text-gray-600 dark:text-gray-400 text-justify">
             Peer-reviewed research on sustainable entrepreneurship and innovation
           </p>
         </Link>
