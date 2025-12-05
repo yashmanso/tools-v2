@@ -263,14 +263,16 @@ export async function getResourceBySlug(
   // Extract attachments only from Resources section (not inline images from main content)
   const attachments = extractAttachments(resourcesContent);
 
-  // Convert wiki links and inline images before processing markdown
-  const convertedContent = convertWikiLinks(mainContent);
+  // Convert wiki links and inline images before processing markdown - include both main and resources
+  const convertedMainContent = convertWikiLinks(mainContent);
+  const convertedResourcesContent = convertWikiLinks(resourcesContent);
+  const fullConvertedContent = convertedMainContent + '\n\n' + convertedResourcesContent;
 
   // Process markdown to HTML
   const processedContent = await remark()
     .use(gfm)
     .use(html, { sanitize: false })
-    .process(convertedContent);
+    .process(fullConvertedContent);
 
   const contentHtml = processedContent.toString();
 
