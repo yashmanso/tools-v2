@@ -40,7 +40,9 @@ export function ContentWithHoverPreviews({ html, className }: ContentWithHoverPr
       timeoutRef.current = setTimeout(async () => {
         try {
           // Fetch the page to get metadata
-          const response = await fetch(href);
+          // For static exports, append .html if not already present
+          const fetchUrl = href.endsWith('.html') ? href : `${href}.html`;
+          const response = await fetch(fetchUrl);
           if (!response.ok) return;
 
           const htmlText = await response.text();
