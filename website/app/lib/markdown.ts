@@ -16,12 +16,39 @@ export interface ResourceMetadata {
   dimensions?: Record<string, any>;
 }
 
+export interface Attachment {
+  filename: string;
+  type: 'pdf' | 'image' | 'other';
+  url: string;
+}
+
 export interface Resource extends ResourceMetadata {
   contentHtml: string;
+  attachments: Attachment[];
 }
 
 // Convert Obsidian wiki-links to markdown links
 function convertWikiLinks(content: string): string {
+  // Handle image/file attachments: ![[file]]
+  content = content.replace(/!\[\[([^\]]+)\]\]/g, (match, filename) => {
+    const encodedFilename = encodeURIComponent(filename);
+    const extension = filename.split('.').pop()?.toLowerCase() || '';
+
+    // PDFs should be embedded inline
+    if (extension === 'pdf') {
+      return `<div class="pdf-embed my-8"><iframe src="/attachments/${encodedFilename}" class="w-full h-[600px] border border-gray-300 dark:border-gray-700 rounded-lg" title="${filename}"></iframe></div>`;
+    }
+
+    // Images should use img tag
+    if (['png', 'jpg', 'jpeg', 'gif', 'svg', 'webp'].includes(extension)) {
+      const altText = filename.replace(/\.[^.]+$/, '');
+      return `![${altText}](/attachments/${encodedFilename})`;
+    }
+
+    // Other files as embedded iframes
+    return `<div class="file-embed my-8"><iframe src="/attachments/${encodedFilename}" class="w-full h-[600px] border border-gray-300 dark:border-gray-700 rounded-lg" title="${filename}"></iframe></div>`;
+  });
+
   // Handle [[link|display text]] format
   content = content.replace(/\[\[([^\]|]+)\|([^\]]+)\]\]/g, (match, link, display) => {
     const slug = link.split('/').pop()?.replace(/\.md$/, '') || link;
@@ -33,11 +60,6 @@ function convertWikiLinks(content: string): string {
     const displayText = link.split('/').pop()?.replace(/\.md$/, '') || link;
     const slug = slugify(displayText);
     return `[${displayText}](/${getCategory(link)}/${slug})`;
-  });
-
-  // Handle embedded images ![[image.ext]]
-  content = content.replace(/!\[\[([^\]]+)\]\]/g, (match, image) => {
-    return `![${image}](/images/${image})`;
   });
 
   return content;
@@ -92,6 +114,51 @@ function parseDimensions(content: string): Record<string, any> {
   return dimensions;
 }
 
+// Extract attachments from content
+function extractAttachments(content: string): Attachment[] {
+  const attachments: Attachment[] = [];
+  const attachmentRegex = /!\[\[([^\]]+)\]\]/g;
+  let match;
+
+  while ((match = attachmentRegex.exec(content)) !== null) {
+    const filename = match[1];
+    const extension = filename.split('.').pop()?.toLowerCase() || '';
+
+    let type: 'pdf' | 'image' | 'other' = 'other';
+    if (extension === 'pdf') {
+      type = 'pdf';
+    } else if (['png', 'jpg', 'jpeg', 'gif', 'svg', 'webp'].includes(extension)) {
+      type = 'image';
+    }
+
+    attachments.push({
+      filename,
+      type,
+      url: `/attachments/${encodeURIComponent(filename)}`,
+    });
+  }
+
+  return attachments;
+}
+
+// Separate content from Resources section
+function separateContentAndResources(content: string): {
+  mainContent: string;
+  resourcesContent: string;
+} {
+  // Split on Resources heading
+  const resourcesMatch = content.match(/^#+\s*Resources\s*$/im);
+
+  if (!resourcesMatch || !resourcesMatch.index) {
+    return { mainContent: content, resourcesContent: '' };
+  }
+
+  const mainContent = content.substring(0, resourcesMatch.index).trim();
+  const resourcesContent = content.substring(resourcesMatch.index).trim();
+
+  return { mainContent, resourcesContent };
+}
+
 // Get all resources from a category directory
 export function getResourcesByCategory(category: string): ResourceMetadata[] {
   const categoryMap: Record<string, string> = {
@@ -118,9 +185,21 @@ export function getResourcesByCategory(category: string): ResourceMetadata[] {
       const title = file.replace(/\.md$/, '');
       const slug = slugify(title);
 
-      // Extract overview (first paragraph after first heading)
-      const overviewMatch = content.match(/^#.*?\n\n(.*?)(?:\n\n|___)/s);
-      const overview = overviewMatch ? overviewMatch[1].trim() : '';
+      // Extract overview - look for content after "# Overview" or first paragraph
+      let overview = '';
+
+      // Try to find Overview section specifically
+      const overviewSectionMatch = content.match(/#+\s*Overview\s*\n+([^\n]+(?:\n(?!#+|___)[^\n]+)*)/i);
+      if (overviewSectionMatch) {
+        overview = overviewSectionMatch[1].trim();
+      } else {
+        // Fallback: get first substantial paragraph (skip horizontal rules and empty lines)
+        const cleanContent = content.replace(/^___+\s*/gm, '').replace(/^#+[^\n]*\n+/m, '');
+        const firstParagraphMatch = cleanContent.match(/^([^\n]+(?:\n(?!\n|#+|___)[^\n]+)*)/);
+        if (firstParagraphMatch) {
+          overview = firstParagraphMatch[1].trim();
+        }
+      }
 
       return {
         slug,
@@ -133,6 +212,19 @@ export function getResourcesByCategory(category: string): ResourceMetadata[] {
     });
 
   return resources;
+}
+
+// Get all resources from all categories
+export function getAllResources(): ResourceMetadata[] {
+  const categories = ['tools', 'collections', 'articles'];
+  const allResources: ResourceMetadata[] = [];
+
+  categories.forEach((category) => {
+    const resources = getResourcesByCategory(category);
+    allResources.push(...resources);
+  });
+
+  return allResources;
 }
 
 // Get a single resource by slug and category
@@ -165,8 +257,14 @@ export async function getResourceBySlug(
 
   const title = file.replace(/\.md$/, '');
 
-  // Convert wiki links before processing markdown
-  const convertedContent = convertWikiLinks(content);
+  // Separate main content from Resources section
+  const { mainContent, resourcesContent } = separateContentAndResources(content);
+
+  // Extract attachments only from Resources section (not inline images from main content)
+  const attachments = extractAttachments(resourcesContent);
+
+  // Convert wiki links and inline images before processing markdown
+  const convertedContent = convertWikiLinks(mainContent);
 
   // Process markdown to HTML
   const processedContent = await remark()
@@ -176,9 +274,21 @@ export async function getResourceBySlug(
 
   const contentHtml = processedContent.toString();
 
-  // Extract overview
-  const overviewMatch = content.match(/^#.*?\n\n(.*?)(?:\n\n|___)/s);
-  const overview = overviewMatch ? overviewMatch[1].trim() : '';
+  // Extract overview - look for content after "# Overview" or first paragraph
+  let overview = '';
+
+  // Try to find Overview section specifically
+  const overviewSectionMatch = content.match(/#+\s*Overview\s*\n+([^\n]+(?:\n(?!#+|___)[^\n]+)*)/i);
+  if (overviewSectionMatch) {
+    overview = overviewSectionMatch[1].trim();
+  } else {
+    // Fallback: get first substantial paragraph (skip horizontal rules and empty lines)
+    const cleanContent = content.replace(/^___+\s*/gm, '').replace(/^#+[^\n]*\n+/m, '');
+    const firstParagraphMatch = cleanContent.match(/^([^\n]+(?:\n(?!\n|#+|___)[^\n]+)*)/);
+    if (firstParagraphMatch) {
+      overview = firstParagraphMatch[1].trim();
+    }
+  }
 
   return {
     slug,
@@ -188,11 +298,6 @@ export async function getResourceBySlug(
     overview,
     dimensions: parseDimensions(content),
     contentHtml,
+    attachments,
   };
-}
-
-// Get all resources
-export function getAllResources(): ResourceMetadata[] {
-  const categories = ['tools', 'collections', 'articles'];
-  return categories.flatMap((cat) => getResourcesByCategory(cat));
 }
