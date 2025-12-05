@@ -4,11 +4,13 @@ import { useState, useEffect } from 'react';
 import Link from 'next/link';
 import { useTheme } from './ThemeProvider';
 import { usePathname } from 'next/navigation';
+import { usePanels } from './PanelContext';
 
 export function Header() {
   const { theme, toggleTheme } = useTheme();
   const [mounted, setMounted] = useState(false);
   const pathname = usePathname();
+  const { clearPanels } = usePanels();
 
   useEffect(() => {
     setMounted(true);
@@ -22,13 +24,18 @@ export function Header() {
   return (
     <header className="sticky top-0 z-50 backdrop-blur-sm bg-[var(--bg-primary)]/80 border-b border-[var(--border)]">
       <div className="container mx-auto px-6 py-5 flex items-center justify-between max-w-5xl">
-        <Link href="/" className="text-base font-semibold tracking-tight hover:text-[var(--text-secondary)] transition-colors">
+        <Link
+          href="/"
+          onClick={clearPanels}
+          className="text-base font-semibold tracking-tight hover:text-[var(--text-secondary)] transition-colors"
+        >
           Sustainability Atlas
         </Link>
 
         <nav className="flex items-center gap-1">
           <Link
             href="/"
+            onClick={clearPanels}
             className={`px-3 py-1.5 text-sm font-medium rounded-md transition-colors ${
               isActive('/') && pathname === '/'
                 ? 'text-[var(--text-primary)]'

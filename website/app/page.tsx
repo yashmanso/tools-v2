@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getAllResources } from './lib/markdown';
+import { LinkPreview } from './components/LinkPreview';
 import { PanelLink } from './components/PanelLink';
 
 export default function HomePage() {
@@ -78,28 +79,32 @@ export default function HomePage() {
         <h2 className="text-2xl font-bold mb-6">Featured Tools</h2>
         <div className="grid md:grid-cols-2 gap-4">
           {featuredTools.map((tool) => (
-            <PanelLink
+            <LinkPreview
               key={tool.slug}
               href={`/${tool.category}/${tool.slug}`}
-              className="block p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 transition-colors hover:no-underline"
+              previewData={{
+                title: tool.title,
+                overview: tool.overview,
+                category: tool.category,
+              }}
             >
-              <h3 className="font-semibold mb-2">{tool.title}</h3>
-              {tool.overview && (
-                <p className="text-sm text-gray-600 dark:text-gray-400 line-clamp-2">
-                  {tool.overview}
-                </p>
-              )}
-              <div className="mt-2 flex flex-wrap gap-1">
-                {tool.tags.slice(0, 3).map((tag) => (
-                  <span
-                    key={tag}
-                    className="text-xs px-2 py-1 rounded bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400"
-                  >
-                    #{tag}
-                  </span>
-                ))}
-              </div>
-            </PanelLink>
+              <PanelLink
+                href={`/${tool.category}/${tool.slug}`}
+                className="block p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 transition-colors hover:no-underline"
+              >
+                <h3 className="font-semibold mb-2">{tool.title}</h3>
+                <div className="mt-2 flex flex-wrap gap-1">
+                  {tool.tags.slice(0, 3).map((tag) => (
+                    <span
+                      key={tag}
+                      className="text-xs px-2 py-1 rounded bg-gray-100 dark:bg-gray-800 text-gray-600 dark:text-gray-400"
+                    >
+                      #{tag}
+                    </span>
+                  ))}
+                </div>
+              </PanelLink>
+            </LinkPreview>
           ))}
         </div>
       </section>
