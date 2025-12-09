@@ -1,1 +1,11 @@
 Files/
+node_modules/
+.next/
+website/.next/
+website/node_modules/
+website/pnpm-lock.yaml
+pnpm-lock.yaml
+*.log
+.DS_Store
+.env
+.env.local

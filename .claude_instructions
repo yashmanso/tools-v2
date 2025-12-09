@@ -1,0 +1,170 @@
+# Claude Instructions for Sustainability Atlas Website Project
+
+## MANDATORY WORKFLOW - MUST FOLLOW FOR EVERY CHANGE
+
+### Before ANY Code Changes:
+1. **List all existing features** that might be affected
+2. **Identify related code** and dependencies
+3. **Show implementation plan** and get user approval
+4. **Never skip steps** - always complete the full workflow
+
+### During Implementation:
+1. Make changes **incrementally** (one feature/file at a time)
+2. **Run build after EACH change**: `npm run build`
+3. **Test affected features** after each change
+4. Document what was tested and show results
+5. If build fails or features break, **fix immediately** before proceeding
+
+### After Implementation:
+1. Run full build: `npm run build`
+2. Verify all 70 pages generate successfully
+3. Check built HTML for correctness
+4. **Never commit without explicit test confirmation**
+5. Show user what was tested and results
+
+### Testing Requirements:
+- Always test the specific feature you modified
+- Test at least 2-3 related features that could be affected
+- For UI changes: verify in built HTML output
+- For component changes: check all pages using that component
+
+---
+
+## Project-Specific Rules
+
+### Next.js Website (website/ directory)
+
+#### Core Features to ALWAYS Verify:
+1. **Clickable Tags**
+   - Tags display WITHOUT # prefix (e.g., "tool" not "#tool")
+   - Tags are `<button>` elements, not spans
+   - Clicking tags opens TagModal
+   - Modal shows filtered resources
+
+2. **TagModal Functionality**
+   - Opens when tag clicked
+   - Shows correct filtered resources
+   - Has expand button (opens in new tab)
+   - Has navigate button (closes modal and navigates)
+   - Escape key closes modal
+   - Click outside closes modal
+
+3. **Page Generation**
+   - All 70 pages must build successfully
+   - Tools: 28 pages
+   - Collections: 20 pages
+   - Articles: 16 pages
+   - Check `npm run build` output
+
+4. **Component Integration**
+   - TagList component used in all page templates
+   - getAllResources() passed to TagList
+   - No orphaned components causing build errors
+
+#### Files That Affect Multiple Features:
+- `app/components/TagList.tsx` - Used by all content pages
+- `app/components/TagModal.tsx` - Used by TagList
+- `app/lib/markdown.ts` - Used by all page templates
+- `app/tools/[slug]/page.tsx` - Template for 28 tool pages
+- `app/collections/[slug]/page.tsx` - Template for 20 collection pages
+- `app/articles/[slug]/page.tsx` - Template for 16 article pages
+
+### Git Workflow
+
+#### Branch Rules:
+- **ALWAYS** work on branch: `claude/markdown-to-website-01MAgEsLdE1m1H1deXTvQMjs`
+- **NEVER** push directly to main
+- Can only push to branches starting with `claude/`
+- Use force push if needed: `git push -f origin <branch>`
+
+#### Commit Rules:
+- Commit frequently with clear messages
+- Include what was changed and why
+- Mention what was tested
+- Push after each significant change
+
+### Build & Deployment
+
+#### Before Pushing:
+```bash
+cd /home/user/tools-v2/website
+npm run build
+```
+
+Expected output:
+- ✓ Compiled successfully
+- ✓ Generating static pages (70/70)
+- No TypeScript errors
+- No security vulnerabilities
+
+#### Package Management:
+- Use **npm** only (not pnpm or yarn)
+- package.json should have `"next": "^16.0.8"` (security patch)
+- No pnpm-lock.yaml file should exist
+- Keep package-lock.json in sync
+
+### Common Pitfalls to AVOID:
+
+1. **Don't change page templates without testing TagList integration**
+2. **Don't modify TagList/TagModal without verifying all pages still work**
+3. **Don't commit node_modules** (check .gitignore)
+4. **Don't skip build verification** before pushing
+5. **Don't assume features work** - always verify in built HTML
+6. **Don't remove components** that other files depend on
+
+### When User Reports Issues:
+
+1. **First**: Acknowledge the specific issue
+2. **Second**: Identify which features are affected
+3. **Third**: Show plan to fix without breaking other features
+4. **Fourth**: Implement fix incrementally with testing
+5. **Fifth**: Verify the reported issue is fixed AND nothing else broke
+
+### Verification Commands:
+
+```bash
+# Full build test
+cd /home/user/tools-v2/website
+npm run build
+
+# Check specific built page
+cat out/tools/biomimicards-game.html | grep -A 5 "tag cursor-pointer"
+
+# Verify tag count in built HTML
+grep -o '<button class="tag' out/tools/biomimicards-game.html | wc -l
+
+# Check for # prefix in tags (should return empty)
+grep -o '>#[a-z]' out/tools/biomimicards-game.html
+
+# Verify modal exists
+grep -o 'TagModal' out/_next/static/chunks/*.js | head -5
+```
+
+### Response Format for Changes:
+
+Always structure responses like this:
+
+1. **Summary**: What needs to be changed
+2. **Affected Features**: List features that might be impacted
+3. **Implementation Plan**: Step-by-step changes
+4. **Testing Strategy**: What will be tested and how
+5. **Risk Assessment**: What could go wrong
+6. *(Wait for user approval)*
+7. **Execute Changes**: Make changes with verification
+8. **Test Results**: Show what was tested and results
+9. **Push Changes**: Commit and push to feature branch
+
+---
+
+## Security & Best Practices
+
+- Keep Next.js updated to latest patch version (currently 16.0.8)
+- Never commit sensitive data or credentials
+- Use .gitignore for node_modules, .next, .env files
+- Verify no security vulnerabilities after npm install
+
+---
+
+## Remember:
+
+> "The user has emphasized: breaking existing features while adding new ones is unacceptable. ALWAYS verify existing features still work after ANY change."
