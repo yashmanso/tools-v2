@@ -1,9 +1,9 @@
 import type { Metadata } from 'next';
 import './globals.css';
 import { ThemeProvider } from './components/ThemeProvider';
+import { Header } from './components/Header';
 import { PanelProvider } from './components/PanelContext';
 import { SlidingPanels } from './components/SlidingPanels';
-import { Header } from './components/Header';
 
 export const metadata: Metadata = {
   title: 'Sustainability Atlas',
@@ -23,7 +23,9 @@ export default function RootLayout({
             <div className="min-h-screen flex flex-col">
               <Header />
               <SlidingPanels>
-                {children}
+                <main className="container mx-auto px-4 py-8 max-w-6xl">
+                  {children}
+                </main>
               </SlidingPanels>
               <footer className="border-t border-[var(--border)] py-8">
                 <div className="container mx-auto px-6 max-w-5xl">

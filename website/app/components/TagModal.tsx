@@ -55,7 +55,7 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
         <div className="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-700">
           <div>
             <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
-              #{tag}
+              {tag}
             </h2>
             <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
               {filteredResources.length} {filteredResources.length === 1 ? 'page' : 'pages'} found
@@ -91,16 +91,18 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
           ) : (
             <div className="space-y-3">
               {filteredResources.map((resource) => (
-                <Link
+                <div
                   key={`${resource.category}-${resource.slug}`}
-                  href={`/${resource.category}/${resource.slug}`}
-                  onClick={onClose}
-                  className="block p-4 rounded-lg border-2 border-gray-200 dark:border-gray-700
+                  className="p-4 rounded-lg border-2 border-gray-200 dark:border-gray-700
                     hover:border-blue-500 dark:hover:border-blue-500 bg-white dark:bg-gray-800
                     transition-colors group"
                 >
                   <div className="flex items-start justify-between gap-4">
-                    <div className="flex-1 min-w-0">
+                    <Link
+                      href={`/${resource.category}/${resource.slug}`}
+                      onClick={onClose}
+                      className="flex-1 min-w-0"
+                    >
                       <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100
                         group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                         {resource.title}
@@ -108,22 +110,54 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
                       <p className="text-sm text-gray-500 dark:text-gray-400 mt-1 capitalize">
                         {resource.category}
                       </p>
+                    </Link>
+                    <div className="flex gap-2 flex-shrink-0 mt-1">
+                      {/* Expansion button - opens in new tab */}
+                      <Link
+                        href={`/${resource.category}/${resource.slug}`}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="p-1 text-gray-400 hover:text-blue-500 transition-colors"
+                        title="Open in new tab"
+                      >
+                        <svg
+                          className="w-5 h-5"
+                          fill="none"
+                          stroke="currentColor"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
+                          />
+                        </svg>
+                      </Link>
+                      {/* Navigate button - closes modal */}
+                      <Link
+                        href={`/${resource.category}/${resource.slug}`}
+                        onClick={onClose}
+                        className="p-1 text-gray-400 hover:text-blue-500 transition-colors"
+                        title="Navigate to page"
+                      >
+                        <svg
+                          className="w-5 h-5"
+                          fill="none"
+                          stroke="currentColor"
+                          viewBox="0 0 24 24"
+                        >
+                          <path
+                            strokeLinecap="round"
+                            strokeLinejoin="round"
+                            strokeWidth={2}
+                            d="M9 5l7 7-7 7"
+                          />
+                        </svg>
+                      </Link>
                     </div>
-                    <svg
-                      className="w-5 h-5 text-gray-400 group-hover:text-blue-500 transition-colors flex-shrink-0 mt-1"
-                      fill="none"
-                      stroke="currentColor"
-                      viewBox="0 0 24 24"
-                    >
-                      <path
-                        strokeLinecap="round"
-                        strokeLinejoin="round"
-                        strokeWidth={2}
-                        d="M9 5l7 7-7 7"
-                      />
-                    </svg>
                   </div>
-                </Link>
+                </div>
               ))}
             </div>
           )}
