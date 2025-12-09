@@ -1,5 +1,6 @@
 import { notFound } from 'next/navigation';
-import { getResourceBySlug, getResourcesByCategory } from '@/app/lib/markdown';
+import { getResourceBySlug, getResourcesByCategory, getAllResources } from '@/app/lib/markdown';
+import { TagList } from '@/app/components/TagList';
 
 interface PageProps {
   params: Promise<{ slug: string }>;
@@ -20,20 +21,13 @@ export default async function ArticlePage({ params }: PageProps) {
     notFound();
   }
 
+  const allResources = getAllResources();
+
   return (
     <article className="max-w-4xl mx-auto">
       <div className="mb-8">
         <h1 className="text-4xl font-bold mb-4">{resource.title}</h1>
-        <div className="flex flex-wrap gap-2 mb-6">
-          {resource.tags.map((tag) => (
-            <span
-              key={tag}
-              className="tag"
-            >
-              #{tag}
-            </span>
-          ))}
-        </div>
+        <TagList tags={resource.tags} allResources={allResources} />
       </div>
 
       <div
