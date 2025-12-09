@@ -27,7 +27,7 @@ export function TagList({ tags, allResources }: TagListProps) {
             onClick={() => setSelectedTag(tag)}
             className="tag cursor-pointer hover:bg-blue-600 hover:border-blue-600 dark:hover:bg-blue-500 dark:hover:border-blue-500 transition-colors"
           >
-            {tag}
+            #{tag}
           </button>
         ))}
       </div>

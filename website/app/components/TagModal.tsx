@@ -55,7 +55,7 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
         <div className="flex items-center justify-between p-6 border-b border-gray-200 dark:border-gray-700">
           <div>
             <h2 className="text-2xl font-bold text-gray-900 dark:text-gray-100">
-              {tag}
+              #{tag}
             </h2>
             <p className="text-sm text-gray-600 dark:text-gray-400 mt-1">
               {filteredResources.length} {filteredResources.length === 1 ? 'page' : 'pages'} found
@@ -91,6 +91,11 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
           ) : (
             <div className="space-y-3">
               {filteredResources.map((resource) => (
+                <Link
+                  key={`${resource.category}-${resource.slug}`}
+                  href={`/${resource.category}/${resource.slug}`}
+                  onClick={onClose}
+                  className="block p-4 rounded-lg border-2 border-gray-200 dark:border-gray-700
                 <div
                   key={`${resource.category}-${resource.slug}`}
                   className="p-4 rounded-lg border-2 border-gray-200 dark:border-gray-700
@@ -98,6 +103,7 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
                     transition-colors group"
                 >
                   <div className="flex items-start justify-between gap-4">
+                    <div className="flex-1 min-w-0">
                     <Link
                       href={`/${resource.category}/${resource.slug}`}
                       onClick={onClose}
@@ -110,6 +116,22 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
                       <p className="text-sm text-gray-500 dark:text-gray-400 mt-1 capitalize">
                         {resource.category}
                       </p>
+                    </div>
+                    <svg
+                      className="w-5 h-5 text-gray-400 group-hover:text-blue-500 transition-colors flex-shrink-0 mt-1"
+                      fill="none"
+                      stroke="currentColor"
+                      viewBox="0 0 24 24"
+                    >
+                      <path
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        strokeWidth={2}
+                        d="M9 5l7 7-7 7"
+                      />
+                    </svg>
+                  </div>
+                </Link>
                     </Link>
                     <div className="flex gap-2 flex-shrink-0 mt-1">
                       {/* Expansion button - opens in new tab */}
