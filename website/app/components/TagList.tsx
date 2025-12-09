@@ -32,12 +32,13 @@ export function TagList({ tags, allResources }: TagListProps) {
         ))}
       </div>
 
-      <TagModal
-        isOpen={!!selectedTag}
-        onClose={() => setSelectedTag(null)}
-        tag={selectedTag || ''}
-        resources={allResources}
-      />
+      {selectedTag && (
+        <TagModal
+          tag={selectedTag}
+          resources={allResources}
+          onClose={() => setSelectedTag(null)}
+        />
+      )}
     </>
   );
 }

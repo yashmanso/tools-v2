@@ -1,6 +1,5 @@
 import { notFound } from 'next/navigation';
 import { getResourceBySlug, getResourcesByCategory, getAllResources } from '@/app/lib/markdown';
-import { ContentWithHoverPreviews } from '@/app/components/ContentWithHoverPreviews';
 import { TagList } from '@/app/components/TagList';
 
 interface PageProps {
@@ -31,8 +30,7 @@ export default async function CollectionPage({ params }: PageProps) {
         <TagList tags={resource.tags} allResources={allResources} />
       </div>
 
-      <ContentWithHoverPreviews
-        html={resource.contentHtml}
+      <div
         className="prose prose-gray dark:prose-invert max-w-none
           prose-headings:font-bold
           prose-h1:text-3xl prose-h1:mb-4
@@ -44,6 +42,7 @@ export default async function CollectionPage({ params }: PageProps) {
           prose-a:text-blue-600 dark:prose-a:text-blue-400 prose-a:no-underline hover:prose-a:underline
           prose-strong:font-semibold
           prose-img:rounded-lg prose-img:shadow-md"
+        dangerouslySetInnerHTML={{ __html: resource.contentHtml }}
       />
     </article>
   );
