@@ -11,28 +11,31 @@ interface Resource {
 }
 
 interface TagModalProps {
+  isOpen: boolean;
+  onClose: () => void;
   tag: string;
   resources: Resource[];
-  onClose: () => void;
 }
 
-export function TagModal({ tag, resources, onClose }: TagModalProps) {
+export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
   // Close on Escape key
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') {
-        onClose();
-      }
+      if (e.key === 'Escape') onClose();
     };
 
-    document.addEventListener('keydown', handleEscape);
-    document.body.style.overflow = 'hidden';
+    if (isOpen) {
+      document.addEventListener('keydown', handleEscape);
+      document.body.style.overflow = 'hidden';
+    }
 
     return () => {
       document.removeEventListener('keydown', handleEscape);
       document.body.style.overflow = 'unset';
     };
-  }, [onClose]);
+  }, [isOpen, onClose]);
+
+  if (!isOpen) return null;
 
   // Filter resources by tag
   const filteredResources = resources.filter((resource) =>
