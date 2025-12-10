@@ -11,31 +11,26 @@ interface Resource {
 }
 
 interface TagModalProps {
-  isOpen: boolean;
-  onClose: () => void;
   tag: string;
   resources: Resource[];
+  onClose: () => void;
 }
 
-export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
+export function TagModal({ tag, resources, onClose }: TagModalProps) {
   // Close on Escape key
   useEffect(() => {
     const handleEscape = (e: KeyboardEvent) => {
       if (e.key === 'Escape') onClose();
     };
 
-    if (isOpen) {
-      document.addEventListener('keydown', handleEscape);
-      document.body.style.overflow = 'hidden';
-    }
+    document.addEventListener('keydown', handleEscape);
+    document.body.style.overflow = 'hidden';
 
     return () => {
       document.removeEventListener('keydown', handleEscape);
       document.body.style.overflow = 'unset';
     };
-  }, [isOpen, onClose]);
-
-  if (!isOpen) return null;
+  }, [onClose]);
 
   // Filter resources by tag
   const filteredResources = resources.filter((resource) =>
@@ -96,19 +91,11 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
                   href={`/${resource.category}/${resource.slug}`}
                   onClick={onClose}
                   className="block p-4 rounded-lg border-2 border-gray-200 dark:border-gray-700
-                <div
-                  key={`${resource.category}-${resource.slug}`}
-                  className="p-4 rounded-lg border-2 border-gray-200 dark:border-gray-700
                     hover:border-blue-500 dark:hover:border-blue-500 bg-white dark:bg-gray-800
                     transition-colors group"
                 >
                   <div className="flex items-start justify-between gap-4">
                     <div className="flex-1 min-w-0">
-                    <Link
-                      href={`/${resource.category}/${resource.slug}`}
-                      onClick={onClose}
-                      className="flex-1 min-w-0"
-                    >
                       <h3 className="text-lg font-semibold text-gray-900 dark:text-gray-100
                         group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                         {resource.title}
@@ -132,54 +119,6 @@ export function TagModal({ isOpen, onClose, tag, resources }: TagModalProps) {
                     </svg>
                   </div>
                 </Link>
-                    </Link>
-                    <div className="flex gap-2 flex-shrink-0 mt-1">
-                      {/* Expansion button - opens in new tab */}
-                      <Link
-                        href={`/${resource.category}/${resource.slug}`}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="p-1 text-gray-400 hover:text-blue-500 transition-colors"
-                        title="Open in new tab"
-                      >
-                        <svg
-                          className="w-5 h-5"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14"
-                          />
-                        </svg>
-                      </Link>
-                      {/* Navigate button - closes modal */}
-                      <Link
-                        href={`/${resource.category}/${resource.slug}`}
-                        onClick={onClose}
-                        className="p-1 text-gray-400 hover:text-blue-500 transition-colors"
-                        title="Navigate to page"
-                      >
-                        <svg
-                          className="w-5 h-5"
-                          fill="none"
-                          stroke="currentColor"
-                          viewBox="0 0 24 24"
-                        >
-                          <path
-                            strokeLinecap="round"
-                            strokeLinejoin="round"
-                            strokeWidth={2}
-                            d="M9 5l7 7-7 7"
-                          />
-                        </svg>
-                      </Link>
-                    </div>
-                  </div>
-                </div>
               ))}
             </div>
           )}
