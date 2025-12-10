@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getAllResources } from './lib/markdown';
+import { PanelLink } from './components/PanelLink';
 
 export default function HomePage() {
   const allResources = getAllResources();
@@ -37,7 +38,7 @@ export default function HomePage() {
           <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
             Tools & Methods
           </h2>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
+          <p className="text-sm text-gray-600 dark:text-gray-400 text-justify">
             Individual tools, methods, frameworks, and guides for sustainable innovation
           </p>
         </Link>
@@ -52,7 +53,7 @@ export default function HomePage() {
           <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
             Collections & Kits
           </h2>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
+          <p className="text-sm text-gray-600 dark:text-gray-400 text-justify">
             Curated collections, compendia, and toolkits for comprehensive learning
           </p>
         </Link>
@@ -67,7 +68,7 @@ export default function HomePage() {
           <h2 className="text-xl font-semibold mb-2 group-hover:text-blue-600 dark:group-hover:text-blue-400">
             Academic Articles
           </h2>
-          <p className="text-sm text-gray-600 dark:text-gray-400">
+          <p className="text-sm text-gray-600 dark:text-gray-400 text-justify">
             Peer-reviewed research on sustainable entrepreneurship and innovation
           </p>
         </Link>
@@ -77,17 +78,12 @@ export default function HomePage() {
         <h2 className="text-2xl font-bold mb-6">Featured Tools</h2>
         <div className="grid md:grid-cols-2 gap-4">
           {featuredTools.map((tool) => (
-            <Link
+            <PanelLink
               key={tool.slug}
               href={`/${tool.category}/${tool.slug}`}
-              className="p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 transition-colors hover:no-underline"
+              className="block p-4 rounded-lg border border-gray-200 dark:border-gray-700 hover:border-blue-500 dark:hover:border-blue-500 transition-colors hover:no-underline"
             >
               <h3 className="font-semibold mb-2">{tool.title}</h3>
-              {tool.overview && (
-                <p className="text-sm text-gray-600 dark:text-gray-400 line-clamp-2">
-                  {tool.overview}
-                </p>
-              )}
               <div className="mt-2 flex flex-wrap gap-1">
                 {tool.tags.slice(0, 3).map((tag) => (
                   <span
@@ -98,7 +94,7 @@ export default function HomePage() {
                   </span>
                 ))}
               </div>
-            </Link>
+            </PanelLink>
           ))}
         </div>
       </section>
